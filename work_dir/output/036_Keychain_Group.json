@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "36",
+    "タイトル": "AI搭載のサプライヤーマッチングおよび製造管理を統合したCPG製造プラットフォーム「Keychain」および「KeychainOS」",
+    "概要1": "米国ニューヨークに拠点を置くKeychainは、AI技術を用いてCPG（Consumer Packaged Goods）製造業界においてブランドおよび小売業者と製造業者をマッチングし、製造プロセスを管理する統合プラットフォーム「Keychain」および「KeychainOS」を開発している。同社は、2023年8月にOisin Hanrahan氏、Umang Dua氏、Jordan Weitz氏によって設立され、Oisin Hanrahan氏がCEOを務めている。",
+    "概要2": "同プラットフォームは、AI技術を用いて製品仕様を分析し、包装および原材料に基づいて必要な加工および包装装置を判断し、30,000以上の製造業者のネットワークから最適なサプライヤーを即座にマッチングする。同プラットフォームは、500以上の製造プロセスをラベル付けし、10,000以上の製造業者について数千の具体的なプロセスおよび能力を分類しており、100万以上のSKU（Stock Keeping Unit）に対応した高精度な検索を実現する。また、同プラットフォームは、戦略的データマッチングおよび自動化されたワークフローを通じて、20,000以上のブランドおよび小売業者と製造業者を接続する。",
+    "概要3": "同プラットフォームは、2024年2月のローンチ以降、月間10億ドル以上の製造プロジェクトを促進し、20,000以上のブランドおよび小売業者をエコシステムに取り込んでいる。同プラットフォームは、米国上位10小売業者のうち8社（7-Eleven、Whole Foods含む）および上位10 CPGブランドのうち7社（General Mills含む）に採用されている。また、2025年8月に発表された「KeychainOS」は、従来のERP（Enterprise Resource Planning）システムに代わるAI駆動のオペレーティングシステムであり、調達、生産性、生産、購買、原価計算、食品安全監査を含む包括的な機能を提供し、従来のERPシステムが数ヶ月から数年を要する実装を数日で完了する。",
+    "概要4": "同プラットフォームは、CPG製造業界のブランド、小売業者、製造業者を対象としており、ブランドおよび小売業者は無料で使用でき、製造業者はプラットフォームへのアクセスおよび発見のために料金を支払う。同プラットフォームおよび「KeychainOS」は、サプライチェーンの制約緩和、製造パートナーの迅速な発見、生産サイクルの短縮、製品開発の効率化、廃棄物削減、ボトルネックの予測、リアルタイムでの計画改善を可能とする。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・CPG製造業界において、ブランドおよび小売業者が適切な製造パートナーを見つけることは時間がかかり、製造能力および専門性の可視性が不足していることが課題であった。\n・従来のERPシステムは、実装に数ヶ月から数年を要し、導入後もTraceGainsやRedzoneなどのアドオンを必要とするため、使用可能になるまでに時間とコストがかかることが課題であった。",
+    "注目ポイント2": "・同プラットフォームは、500以上の製造プロセスをラベル付けし、10,000以上の製造業者について数千の具体的なプロセスおよび能力を分類したAI技術を用いて、製品仕様から最適なサプライヤーを即座にマッチングする。\n・同プラットフォームは、30,000以上の製造業者と20,000以上のブランドおよび小売業者を接続する世界最大のCPG製造プラットフォームである。\n・「KeychainOS」は、自然言語インターフェース、自動データ取り込み、コンピュータビジョン、接続された計量器、音声入力を含むマルチモーダル入力により、手動データ入力を最小化する。\n・「KeychainOS」は、需要予測、サプライヤー性能最適化、品質保証自動化、変化する条件に適応する生産スケジューリングを含むAIインテリジェンス機能を提供する。\n・「KeychainOS」は、従来のERPシステムと異なり、数日でデプロイ可能であり、CPG向けに専用設計されている。",
+    "注目ポイント3": "・同社は、Lightspeed Venture Partners、BoxGroup、Wellington Management、SV Angelなどの主要投資会社およびGeneral Mills、The Hershey Company、Schreiber Foods、Rich's Foodなどの業界リーダーから総額6,800万ドルの資金を調達した。\n・同社は、2023年11月に1,800万ドルのシード資金調達、2024年11月に1,500万ドルのSeries A資金調達、2025年8月に3,000万ドルのSeries B資金調達を完了した。\n・同プラットフォームは、ローンチから18ヶ月で総額6,800万ドルの資金調達を達成した。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "WEBメディア",
+    "主要情報ソースURL": "https://www.prnewswire.com/news-releases/keychain-raises-30-million-series-b-and-launches-keychainos-an-ai-operating-system-set-to-power-the-future-of-cpg-manufacturing-302532859.html",
+    "発表年または出願年": "2024年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Keychain",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "米国",
+    "組織設立年": "2023年",
+    "組織URL": "www.keychain.com"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.prnewswire.com/news-releases/keychain-raises-30-million-series-b-and-launches-keychainos-an-ai-operating-system-set-to-power-the-future-of-cpg-manufacturing-302532859.html",
+    "情報ソースURL_2": "https://www.prnewswire.com/news-releases/keychain-launches-manufacturing-platform-for-the-worlds-leading-retailers-and-brands-302060348.html",
+    "情報ソースURL_3": "https://www.keychain.com/",
+    "情報ソースURL_4": "https://venturebeat.com/ai/keychain-raises-30m-and-launches-ai-operating-system-for-cpg-manufacturers",
+    "情報ソースURL_5": "https://www.alleywatch.com/2025/08/keychain-cpg-supply-chain-workflow-manufacturing-automation-platform-oisin-hanrahan/",
+    "情報ソースURL_6": "https://agfundernews.com/keychain-raises-30m-series-b-launches-ai-powered-operating-system-for-cpg",
+    "情報ソースURL_7": "https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/",
+    "情報ソースURL_8": "https://www.sdcexec.com/software-technology/ai-ar/news/22948232/keychain-keychain-launches-ai-operating-system-to-power-future-of-cpg-manufacturing",
+    "情報ソースURL_9": "https://lsvp.com/stories/keychain-unlocking-manufacturing-for-the-worlds-leading-retailers-and-brands/",
+    "情報ソースURL_10": "https://www.foodnavigator-usa.com/Article/2024/02/13/Keychain-matches-manufacturers-with-production-capacity-with-brands-retailers-in-need/",
+    "情報ソースURL_11": "https://fortune.com/2024/11/19/keychain-series-a-15-million-general-mills-oisin-hanrahan-angis-list-cpg/",
+    "情報ソースURL_12": "https://techcrunch.com/2023/11/14/cpg-manufacturing-platform-keychain-raises-18-million/",
+    "情報ソースURL_13": "https://www.crunchbase.com/organization/keychain-334f",
+    "情報ソースURL_14": "https://tracxn.com/d/companies/keychain/__6bDVqRxr4EF11CNy0BRig58k4CGIwROSkzQgaGRcwGM",
+    "情報ソースURL_15": "https://www.linkedin.com/company/keychainhq",
+    "情報ソースURL_16": "https://www.prnewswire.com/news-releases/keychain-hits-over-500-million-per-month-in-project-volume-secures-15-million-in-additional-funding-and-adds-general-mills-and-schreiber-foods-as-investors-302307481.html",
+    "情報ソースURL_17": "https://www.sdcexec.com/sourcing-procurement/manufacturing/news/22886804/keychain-keychain-launches-manufacturing-platform-for-retailers-and-brands",
+    "情報ソースURL_18": "https://www.inc.com/profile/keychain",
+    "情報ソースURL_19": "https://www.thinkbusiness.ie/articles/keychain-ai-os-cpg-manufacturing-series-b-launch/",
+    "情報ソースURL_20": "https://www.foodbev.com/news/keychain-secures-30m-in-series-b-funding-to-enhance-ai-driven-cpg-platform"
+  }
+}

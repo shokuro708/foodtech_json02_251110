@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "39",
+    "タイトル": "発酵技術と食品副産物を用いた豆なしコーヒーおよびココアの風味素材「PreferRoast」",
+    "概要1": "シンガポールのPrefer Pte. Ltd.は、発酵技術を用いて食品製造副産物から持続可能な風味素材を開発するフードテック企業である。同社は、2022年11月にJake Berber氏およびTan Ding Jie氏によって設立され、余剰パン、おから、使用済み大麦などの副産物から、豆なしコーヒーおよびココアの風味素材を製造している。",
+    "概要2": "同技術は、ガスクロマトグラフィー質量分析法（Gas Chromatography Mass Spectrometry:GC-MS）を用いてコーヒーの風味を構成する分子化合物を特定し、フラン、ピラジン、チオールなどの主要アロマ分子を再現する。同技術は、パン製造からの余剰パン、豆腐製造からのおから（大豆残渣）、ビール製造からの使用済み大麦をほぼ等量で配合し、食品グレードの非遺伝子組み換え微生物を用いて24時間発酵させる。同発酵物を焙煎および粉砕することで、従来のコーヒー豆と同様のアロマ揮発性物質を生成し、コーヒーの風味プロファイルを実現する。",
+    "概要3": "同技術は、ライフサイクルアセスメント（Life Cycle Assessment:LCA）により、従来のコーヒー栽培と比較して炭素排出量が8.8分の1であることが確認されている。同社は、2024年に主力製品「PreferRoast」をコーヒーエクステンダーとして食品製造企業向けにローンチし、品質および一貫性の維持、コスト削減、炭素フットプリント削減を可能とする。また、同社は、可溶性コーヒーパウダーおよびココアパウダーも開発し、FMCG（Fast-Moving Consumer Goods）ブランド、食品メーカー、プライベートラベル小売業者、フレーバーハウスに供給している。",
+    "概要4": "同製品は、食品製造業界を対象としており、持続可能なコーヒーおよびココア代替品を求める企業向けに開発されている。同社は、気候変動の影響を受けやすい作物に対する解決策を提供することを目的としている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・コーヒー栽培は気候変動の影響を受けやすく、持続可能な代替品の必要性が高まっていた。\n・従来のコーヒー生産は、栽培段階における炭素排出量が大きく、環境負荷が課題となっていた。",
+    "注目ポイント2": "・同技術は、ガスクロマトグラフィー質量分析法を用いてコーヒーの風味を構成する分子を特定し、発酵と焙煎により同じアロマ揮発性物質を生成する。\n・同技術は、食品製造副産物（パン、おから、使用済み大麦）をアップサイクルし、食品グレード微生物による発酵を通じて風味素材を製造する。\n・同製品は、ライフサイクルアセスメントにより、従来のコーヒー栽培と比較して炭素排出量が8.8分の1であることが確認されている。",
+    "注目ポイント3": "・同社は、2024年2月に200万米ドルのシード資金調達をForge Ventures主導で完了し、2025年8月に420万米ドルのプレシリーズA資金調達をAt One VenturesおよびChancery Hill Capital共同主導で完了した。\n・同社は、2025年10月にタイのAjinomoto Co., (Thailand) Ltd.およびオーストラリア・ニュージーランドのThe Coffee Fermとの商業パートナーシップを発表した。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "WEBメディア",
+    "主要情報ソースURL": "https://www.greenqueen.com.hk/singapore-prefer-bean-free-coffee-cocoa-chocolate-funding/",
+    "発表年または出願年": "2024年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Prefer Pte. Ltd.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "シンガポール",
+    "組織設立年": "2022年",
+    "組織URL": "www.prefer.coffee"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.greenqueen.com.hk/singapore-prefer-bean-free-coffee-cocoa-chocolate-funding/",
+    "情報ソースURL_2": "https://technode.global/2025/08/14/singapores-prefer-raises-oversubscribed-4-2m-pre-a-to-fuel-international-expansion/",
+    "情報ソースURL_3": "https://agfundernews.com/prefer-raises-4-2m-launches-soluble-bean-free-coffee-and-cocoa-extenders",
+    "情報ソースURL_4": "https://www.foodnavigator-asia.com/Article/2025/10/01/bean-free-coffee-prefer-partners-ajinomoto-coffee-ferm-for-apac-growth/",
+    "情報ソースURL_5": "https://technode.global/2024/02/22/singapore-coffee-startup-prefer-raises-2m-in-seed-funding-led-by-forge-ventures/",
+    "情報ソースURL_6": "https://singaporeglobalnetwork.gov.sg/stories/sustainability/meet-the-27-year-old-fighting-climate-change-with-bean-free-coffee/",
+    "情報ソースURL_7": "https://www.tatlerasia.com/dining/drinks/prefer-bean-free-coffee-singapore",
+    "情報ソースURL_8": "https://www.greenqueen.com.hk/prefer-coffee-beanless-alternative-fermentation-funding/",
+    "情報ソースURL_9": "https://qahwaworld.com/news/prefer-beanless-coffee-thailand-australia/",
+    "情報ソースURL_10": "https://www.just-drinks.com/news/prefer-first-global-commercial-partnerships/",
+    "情報ソースURL_11": "https://www.f6s.com/company/prefer-pte-ltd",
+    "情報ソースURL_12": "https://www.crunchbase.com/organization/prefer-9aca",
+    "情報ソースURL_13": "https://insidefmcg.com.au/2024/03/15/singapore-startup-creates-bean-free-coffee-from-bread-soy-and-barley/",
+    "情報ソースURL_14": "https://www.foodnavigator-asia.com/Article/2024/03/11/bean-free-coffee-firm-prefer-taps-affordability-and-sustainability-benefits-for-asia-growth",
+    "情報ソースURL_15": "https://vulcanpost.com/852851/bean-free-coffee-startup-prefer-us2m-seed-funding/",
+    "情報ソースURL_16": "https://www.thepeakmagazine.com.sg/lifestyle/prefer-bean-free-coffee",
+    "情報ソースURL_17": "https://hungrygowhere.com/food-news/prefer-coffee-singapore/",
+    "情報ソースURL_18": "https://www.timeout.com/singapore/news/prefer-bean-free-coffee-singapore-030624",
+    "情報ソースURL_19": "https://www.saladplate.com/brewing-a-sustainable-future-with-bean-free-coffee-singapore-based-prefer-coffee/",
+    "情報ソースURL_20": "https://tracxn.com/d/companies/prefer/__bSCMmpVPzIZFHZDY54ginaffzxxT_2G0HlldLJyvBRw"
+  }
+}

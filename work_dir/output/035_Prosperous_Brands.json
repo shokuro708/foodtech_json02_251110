@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "35",
+    "タイトル": "顧客データ分析とカスタマイズ機能を統合したクラウドキッチン型ビリヤニ配送プラットフォーム「House of Biryan」",
+    "概要1": "インドのProsperous Brands Private Limitedは、クラウドキッチンモデルを採用したビリヤニ専門のクイックサービスレストラン（QSR）チェーン「House of Biryan」を運営している。同社は、2022年8月に設立され、ムンバイとデリーを中心に、伝統的な調理法とデータドリブンな運営を組み合わせた配送サービスを展開している。",
+    "概要2": "同サービスは、顧客が辛さレベル、タンパク質の種類、トッピング、調理スタイルを選択できるカスタマイズ機能「Meri Wali Biryani」を提供する。同サービスは、2022年以降、顧客の注文パターンと再注文率を分析し、レシピの微調整と供給レベルの最適化を実現するデータ分析システムを導入している。同サービスは、Uengage および DotPe を用いたオンライン注文システムと、自社開発のモバイルアプリを統合し、Zomato、Swiggy、Thrive などの配送プラットフォームからの注文を一元管理する。",
+    "概要3": "同サービスは、注文の80%から85%を Zomato および Swiggy から、10%から15%を自社の直接チャネルから受け付けている。同サービスは、月間約40,000件の注文を処理し、平均注文額は700ルピーから800ルピーである。同社は、2023年に888万ルピー、2024年に3億390万ルピーの収益を達成し、2025年には年間経常収益（ARR）約5,000万ルピーを記録している。同サービスは、ムンバイ、デリー、ドバイの主要市場でEBITDA黒字化を達成している。",
+    "概要4": "同サービスは、インドの4,000億ドル規模のビリヤニ市場を対象としている。同サービスは、伝統的なムガル料理と現代的なカスタマイズ体験を求める消費者に向けて展開されている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来のレストランチェーンは、固定メニューによる画一的なサービス提供が主流であり、個々の顧客の嗜好に対応することが困難であった。\n・クラウドキッチンモデルにおいて、複数の配送プラットフォームからの注文を効率的に管理し、在庫とレシピを最適化するためのデータ分析基盤の構築が課題であった。",
+    "注目ポイント2": "・同サービスは、顧客が辛さレベル、タンパク質、トッピング、調理スタイルを選択できるカスタマイズ機能「Meri Wali Biryani」を実装している。\n・同サービスは、2022年以降、顧客の注文パターンと再注文率をリアルタイムで分析し、レシピの微調整と供給レベルの最適化を行うデータドリブンなオペレーションシステムを構築している。\n・同サービスは、Uengage、DotPe、自社開発のモバイルアプリを統合し、複数の配送プラットフォーム（Zomato、Swiggy、Thrive）からの注文を一元管理する。",
+    "注目ポイント3": "・同社は、2024年7月に Al Siraj Holdings、Angel Star Ventures などから200万ドルの資金調達を実施した。\n・同社は、2025年8月に MS Dhoni、Bestvantage Investments などが参加した成長ラウンドで32クローレルピーを調達し、総調達額は1,000万ドルに達した。\n・同社は、22店舗から3年以内に120店舗から150店舗への拡大を計画し、オーストラリア、日本、英国、北米への国際展開を進めている。\n・同社の共同創業者である Mohammed K. Bhol および Mikhail Shahani は、ビリヤニ業界で合計25年以上の経験を有している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "WEBメディア",
+    "主要情報ソースURL": "https://inc42.com/buzz/house-of-biryan-lands-inr-32-cr-to-expand-cloud-kitchen-play/",
+    "発表年または出願年": "2022年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Prosperous Brands Private Limited",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "インド",
+    "組織設立年": "2022年",
+    "組織URL": "www.houseofbiryan.com"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://inc42.com/buzz/house-of-biryan-lands-inr-32-cr-to-expand-cloud-kitchen-play/",
+    "情報ソースURL_2": "https://startuppedia.in/startup-stories/mumbai-founders-build-a-cloud-kitchen-brand-selling-customised-biryani-now-have-22-stores-in-delhi-mumbai-dubai-eye-rs-100-cr-revenue-9631088",
+    "情報ソースURL_3": "https://primeinsights.in/house-of-biryan-hob/",
+    "情報ソースURL_4": "https://yourstory.com/2025/08/thala-approved-ms-dhoni-house-biryan-biryani",
+    "情報ソースURL_5": "https://tracxn.com/d/companies/house-of-biryan/__PHfJo7CF6icJ7anTr9DfVND8h2xHNZEJ4QGQL5RusR4",
+    "情報ソースURL_6": "https://www.crunchbase.com/organization/house-of-biryan",
+    "情報ソースURL_7": "https://tycooninsightsglobal.com/house-of-biryan-hob/",
+    "情報ソースURL_8": "https://www.zaubacorp.com/PROSPEROUS-BRANDS-PRIVATE-LIMITED-U55101MH2022PTC389181",
+    "情報ソースURL_9": "https://www.newsbytesapp.com/news/business/house-of-biryan-raises-2m-to-expand-business-across-india/story",
+    "情報ソースURL_10": "https://bestmediainfo.com/mediainfo/mediainfo-marketing/ms-dhoni-invests-in-house-of-biryan-to-support-global-expansion-9638986",
+    "情報ソースURL_11": "https://www.indiaretailing.com/2025/08/20/house-of-biryan-raises-rs-32-cr-in-growth-round-funding/",
+    "情報ソースURL_12": "https://startupnews.fyi/2025/08/19/house-of-biryan-raises-%E2%82%B932-crore-to-fuel-global-expansion-backed-by-ms-dhoni-bestvantage-investments-and-other-investors/",
+    "情報ソースURL_13": "https://www.bwdisrupt.com/article/house-of-biryan-raises-rs-32-cr-led-by-ms-dhoni-bestvantage-567878",
+    "情報ソースURL_14": "https://www.entrepreneur.com/en-in/news-and-trends/ms-dhoni-backed-house-of-biryan-raises-inr-32-cr-funding/496061",
+    "情報ソースURL_15": "https://techstory.in/house-of-biryan-raises-%E2%82%B932-crore-backed-by-ms-dhoni-and-bestvantage-for-global-expansion/",
+    "情報ソースURL_16": "https://www.storyboard18.com/brand-marketing/house-of-biryan-secures-2-million-in-funding-for-expansion-36668.htm",
+    "情報ソースURL_17": "https://indianstartupnews.com/funding/house-of-biryan-raises-rs-32-crore-to-expand-its-cloud-kitchen-empire-9676621",
+    "情報ソースURL_18": "https://entrackr.com/2024/07/qsr-chain-house-of-biryan-raises-2-mn/",
+    "情報ソースURL_19": "https://houseofbiryan.uengage.in/",
+    "情報ソースURL_20": "https://houseofbiryan.dotpe.in/"
+  }
+}

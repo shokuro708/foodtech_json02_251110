@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "33",
+    "タイトル": "会話ファーストのトレーニングパイプラインと自己最適化モデルを用いたドライブスルー向け完全自律型音声AIプラットフォーム「Vox AI」",
+    "概要1": "オランダのVox AI BVは、クイックサービスレストラン（QSR）のドライブスルーおよびオペレーション自動化を目的とした完全自律型音声AIプラットフォーム「Vox AI」を開発している。同社は、2023年10月に設立され、QSR業界専用に構築されたプラットフォームを提供している。",
+    "概要2": "同プラットフォームは、会話ファーストのトレーニングパイプラインと自己最適化モデルを用いて、90以上の言語および方言での注文対応を実現する。同プラットフォームは、方言、メニューの同義語、環境ノイズ、店舗固有の音響特性から継続的に学習し、リアルタイムで最適化を行う。同プラットフォームは、人間の音声を再現し、訓練時およびデプロイメント時に人間による介入を必要としない完全自律型として動作する。",
+    "概要3": "同プラットフォームは、98%の注文精度を実現している。初期のデプロイメントでは、同技術がROIを最大17倍に向上させ、ドライブスルーの待ち行列を短縮し、アップセルを強化し、顧客満足度を高め、従業員をより意味のある業務に集中させることが実証されている。同プラットフォームは、一貫した多言語パフォーマンスを大規模に確保し、デプロイメントとオペレーションを簡素化する。",
+    "概要4": "同プラットフォームは、世界的な1兆ドル規模のQSR市場を対象としている。同プラットフォームは、24時間365日のドライブスルー注文、モバイル音声事前注文、従業員支援を実現する。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・ドライブスルーでの従来の注文受付は、人的リソースを必要とし、多言語対応や24時間対応の実現にはコストが発生していた。\n・汎用音声アシスタントをQSRに適応させる試みは、業界固有のニーズに対応できないことが課題であった。",
+    "注目ポイント2": "・同プラットフォームは、会話ファーストのトレーニングパイプラインと自己最適化モデルを用いて、方言、メニューの同義語、環境ノイズ、店舗固有の音響特性から継続的に学習する。\n・同プラットフォームは、訓練時およびデプロイメント時に人間による介入を必要としない完全自律型として動作し、数百または数千の店舗への拡張を可能とする。\n・同プラットフォームは、90以上の言語および方言に対応し、98%の注文精度を達成している。\n・同プラットフォームは、既存のQSR技術スタックにシームレスに統合され、現在のハードウェアをアップグレードすることなく動作する。",
+    "注目ポイント3": "・同社は、2024年1月にCES 2024のEureka ParkのNL Tech Pavilionで同技術を展示した。\n・同社は、2025年8月にHeadlineが主導し、True、Simon Capital、およびリターン投資家であるSouschef Venturesが参加したシード資金調達ラウンドで870万ドルを調達し、総調達額は1,000万ドルに達した。\n・初期のデプロイメントでは、同技術がROIを最大17倍に向上させることが実証されている。\n・同プラットフォームは、世界最大規模かつ最も有名なファーストフードチェーンの1つとの概念実証パイロットを実施している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "WEBメディア",
+    "主要情報ソースURL": "https://www.businesswire.com/news/home/20250827818007/en/Vox-AI-Raises-$8.7M-Seed-Funding-to-Transform-Drive-Thrus-and-Quick-Service-Restaurant-Operations-with-Autonomous-Voice-AI",
+    "発表年または出願年": "2023年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Vox AI BV",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "オランダ",
+    "組織設立年": "2023年",
+    "組織URL": "www.vox.ai"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.businesswire.com/news/home/20250827818007/en/Vox-AI-Raises-$8.7M-Seed-Funding-to-Transform-Drive-Thrus-and-Quick-Service-Restaurant-Operations-with-Autonomous-Voice-AI",
+    "情報ソースURL_2": "https://www.eu-startups.com/2025/08/dutch-startup-vox-ai-raises-e7-5-million-to-transform-drive-thrus-with-autonomous-voice-ai/",
+    "情報ソースURL_3": "https://restauranttechnologynews.com/2025/08/vox-ai-raises-8-7-million-to-bring-fully-autonomous-voice-ordering-to-quick-service-restaurant-drive-thrus/",
+    "情報ソースURL_4": "https://www.prweb.com/releases/vox-ai-to-debut-the-worlds-most-intelligent-conversational-voice-ai-for-drive-thru-restaurants-at-ces-2024-302020996.html",
+    "情報ソースURL_5": "https://restauranttechnologynews.com/2024/03/spotlight-interview-maurice-kroon-ceo-and-founder-of-vox-ai/",
+    "情報ソースURL_6": "https://www.webpronews.com/vox-ai-raises-e7-5m-for-98-accurate-drive-thru-voice-tech/",
+    "情報ソースURL_7": "https://www.qsrmagazine.com/news/vox-ai-announces-8-7m-seed-funding-round/",
+    "情報ソースURL_8": "https://www.startuphub.ai/ai-news/funding-round/2025/vox-ai-secures-e7-5m-seed-for-drive-thru-voice-ai-expansion/",
+    "情報ソースURL_9": "https://www.verdictfoodservice.com/news/vox-ai-seed-funding-restaurants/",
+    "情報ソースURL_10": "https://pulse2.com/vox-ai-8-7-million-seed-funding-secured-for-restaurant-focused-voice-ai-platform/",
+    "情報ソースURL_11": "https://www.finsmes.com/2025/08/vox-ai-raises-e7-5m-in-seed-funding.html",
+    "情報ソースURL_12": "https://techstartups.com/2025/08/27/vox-ai-raises-8-7m-seed-funding-to-transform-drive-thru-ordering-with-voice-ai/",
+    "情報ソースURL_13": "https://cxmtoday.com/news/vox-ai-raises-8-7-million-in-seed-funding/",
+    "情報ソースURL_14": "https://www.foodservicecentral.com/doc/vox-ai-conversational-voice-ai-for-drive-thru-restaurants-at-ces-0001",
+    "情報ソースURL_15": "",
+    "情報ソースURL_16": "",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  }
+}
