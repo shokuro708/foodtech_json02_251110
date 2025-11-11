@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "41",
+    "タイトル": "レストラン・ホテル・カフェ向けに調達プロセスをデジタル化し、自動発注・在庫管理・リアルタイム分析を提供するクラウドベース調達プラットフォーム「Suplyd」",
+    "概要1": "エジプトのカイロに本拠を置くSuplydは、2022年にGohar Said、Karim Selima、Ahmed ElMahdyにより設立されたレストラン向けデジタルプラットフォーム企業である。同社は、レストラン・ホテル・カフェ（HORECA）セクターの調達サプライチェーンプロセスをデジタル化し、複数のサプライヤーを統合した単一のクラウドベースプラットフォームを通じて、調達業務を効率化するサービス「Suplyd」を提供している。",
+    "概要2": "同プラットフォームは、1,000以上の製品と200以上のブランドを統合したデジタルマーケットプレイスを提供し、レストランが複数のサプライヤーへの個別発注を単一のプラットフォームでの発注に置き換えることを可能とする。自動発注機能により、手動での発注作業を削減し、スケジュール設定により必要なタイミングでの納品を実現する。在庫管理機能は、リアルタイムでの在庫レベルの同期により、過剰在庫や不要な購入のリスクを低減する。また、リアルタイム分析機能により、発注データから市場トレンドの推奨を提供し、スマート予測により調達の最適化を支援する。さらに、配送追跡機能と翌日配送保証により、信頼性の高いサプライチェーンを構築する。",
+    "概要3": "同プラットフォームは、手動発注エラーの削減と在庫レベルの最適化により、廃棄物の削減とコスト削減を実現する。デジタル化されたトレイル（記録）により、調達プロセスの透明性を向上させ、サプライチェーンの予測可能性を改善する。また、電子請求書とデジタル決済オプションの統合により、取引プロセスを簡素化し、財務管理を効率化する。Foodicsとの統合により、POSシステムと連携した在庫補充の自動化が可能であり、在庫管理の精度が向上する。モバイルアプリ（iOS 13.4以降、Android対応）により、24時間体制での発注と技術サポートが利用可能である。",
+    "概要4": "同プラットフォームは、エジプトの中小規模レストラン、ホテル、カフェを対象としており、断片化された100億ドル規模のHORECAサプライチェーンの効率化を目的としている。2025年の資金調達により、調達機能を超えた包括的なレストラン運営インフラの構築と、エジプト国内の未開拓地域への拡大を計画している。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・エジプトの40万以上のレストラン・ホテル業界では、複数のサプライヤーへの個別発注による断片化、配送の信頼性の欠如、透明性の不足が課題となっていた。\n・従来の手動発注プロセスは、発注エラーと在庫管理の非効率性により、過剰在庫や廃棄物の発生、コスト増加を引き起こしていた。",
+    "注目ポイント2": "・同プラットフォームは、200以上のブランドと1,000以上の製品を単一のデジタルマーケットプレイスに統合し、複数のサプライヤーと請求書を管理する必要性を排除する。\n・自動発注とスケジュール機能により、手動作業を削減し、翌日配送保証により信頼性の高いサプライチェーンを実現する。\n・Foodics POSシステムとの統合により、在庫レベルのリアルタイム同期と在庫補充プロセスの自動化を実現する。\n・スマート予測機能により、発注データと市場トレンドから調達の推奨を提供し、調達の最適化を支援する。",
+    "注目ポイント3": "・2022年に1.6百万ドルのプレシード資金調達（Endure Capital、Seedstars、Camel Ventures、Falak Startupsが参加）を完了した。\n・2025年8月に2百万ドルのプレシリーズA資金調達（4DX Ventures、Camel Ventures、Plus VCがリード、Seedstarsと既存投資家が参加）を完了した。\n・2022年の設立以来、提供するレストラン数と配送商品価値において約20倍の成長を達成し、5,000以上のレストラン顧客を獲得した。\n・2023年11月に、MENA地域の主要なレストラン管理および決済ソリューションプロバイダーであるFoodicsとのパートナーシップを発表した。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.suplyd.app/",
+    "発表年または出願年": "2022年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Suplyd",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "エジプト",
+    "組織設立年": "2022年",
+    "組織URL": "https://www.suplyd.app/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.suplyd.app/",
+    "情報ソースURL_2": "https://techcrunch.com/2022/12/14/egypts-suplyd-raises-1-6-to-digitize-restaurants-supply-chain/",
+    "情報ソースURL_3": "https://www.wamda.com/2025/08/suplyd-raises-2-million-pre-series-a-build-gen-restaurant-infrastructure",
+    "情報ソースURL_4": "https://www.finsmes.com/2025/08/suplyd-raises-2m-in-pre-series-a-funding.html",
+    "情報ソースURL_5": "https://www.foodics.com/portfolio/suplyd/",
+    "情報ソースURL_6": "https://www.foodics.com/press/foodics-in-egypt-partners-with-suplyd-to-automate-procurement-supply-chain-for-restaurants/",
+    "情報ソースURL_7": "https://techmoran.com/2025/08/04/suplyd-egypts-restaurant-platform-raises-2-million-to-expand-across-egypt/",
+    "情報ソースURL_8": "https://arabfounders.net/en/suplyd-raises-2m-pre-series-a-egypt-restaurant-procurement/",
+    "情報ソースURL_9": "https://www.zawya.com/en/press-release/companies-news/suplyd-raises-2mln-to-further-enhance-restaurants-supply-chain-beyond-distribution-ydkap4as",
+    "情報ソースURL_10": "https://www.menabytes.com/suplyd-pre-series-a/",
+    "情報ソースURL_11": "https://technext24.com/2025/08/04/suplyd-raises-2m-strengthen-supply-chain/",
+    "情報ソースURL_12": "https://waya.media/suplyd-raises-2m-to-build-the-digital-backbone-of-egypts-restaurant-supply-chain/",
+    "情報ソースURL_13": "https://www.crowdfundinsider.com/2023/11/216365-payments-fintech-foodics-in-egypt-and-suplyd-to-automate-procurement-supply-chain-for-restaurants/",
+    "情報ソースURL_14": "https://www.dabafinance.com/en/news/suplyd-raises-2m-egypt-fnb-procurement-expansion",
+    "情報ソースURL_15": "https://techbuild.africa/egypts-suplyd-national-2m-pre-series-a-funding/",
+    "情報ソースURL_16": "https://waya.media/suplyd-egypts-digital-supply-chain-startup-raises-1-6m-in-a-pre-seed-round/",
+    "情報ソースURL_17": "https://disruptafrica.com/2025/08/06/egypts-suplyd-raises-2m-to-enhance-restaurants-supply-chain-beyond-distribution/",
+    "情報ソースURL_18": "https://play.google.com/store/apps/details?id=com.suplyd.Suplyd&hl=en_US",
+    "情報ソースURL_19": "https://apps.apple.com/eg/app/suplyd/id6467871109",
+    "情報ソースURL_20": "https://eg.linkedin.com/company/suplyd-app"
+  }
+}

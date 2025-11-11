@@ -1,0 +1,56 @@
+{
+  "基本情報": {
+    "ID": "045",
+    "タイトル": "Bluetooth通信対応スマート注ぎ口とクラウドプラットフォームによるリアルタイム飲料在庫管理システム「Pourify」",
+    "概要1": "オランダのホスピタリティ向けSaaSソリューション企業Pourify BVは、Bluetooth通信機能を備えたスマート注ぎ口とクラウドベースのデータプラットフォームにより、バー・レストラン・ホテルにおける飲料在庫をミリリットル単位でリアルタイムに追跡・管理するシステム「Pourify」を開発・販売している。",
+    "概要2": "同システムは、ボトルに装着するBluetooth対応スマート注ぎ口、Wi-Fi接続のハブ、モバイルアプリケーションで構成される。スマート注ぎ口は注がれる飲料の量をミリリットル単位で計測し、Bluetooth経由でハブにリアルタイムでデータを送信する。ハブはWi-Fi経由でクラウドプラットフォームにデータを同期し、アプリケーションを通じて注量、時刻、担当者を含む詳細なデータをダッシュボードで可視化する。スマート注ぎ口は1〜2年間のバッテリー寿命を持ち、交換可能である。",
+    "概要3": "同システムは、過剰注ぎや無駄を防止し、標準的な注量での一貫した提供を実現する。リアルタイムのデータ追跡により、POSシステムとの照合が可能であり、在庫差異を即座に検出できる。AI分析機能を備えたダッシュボードは自動レポートを生成し、手作業による在庫管理を不要とする。バーテンダーのパフォーマンスをゲーミフィケーションにより追跡し、スタッフの一貫性と速度の向上を支援する。",
+    "概要4": "同システムは、バー、レストラン、ホテル、ナイトクラブなどの飲食業態において、飲料在庫管理の自動化、廃棄削減、利益率向上、業務効率改善を目的とする施設をターゲットとしている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の飲食業界における在庫管理は手作業に依存しており、平均的なバーでは在庫差異率が34%、在庫損失率が23%に達し、年間で数万から数十万ドルの利益損失が発生していた。\n・過剰注ぎや無駄による飲料ロスは、従業員の手動計測に頼る限り正確な把握が困難であった。",
+    "注目ポイント2": "・同システムのスマート注ぎ口は、Bluetooth通信機能を内蔵し、注がれる飲料をミリリットル単位でリアルタイムに計測・送信する。\n・ハブは複数のスマート注ぎ口をBluetoothで接続し、Wi-Fi経由でクラウドプラットフォームにデータを同期する。\n・AI分析機能を備えたダッシュボードは、リアルタイムのデータ可視化、自動レポート生成、POS連携による在庫差異検出を実現する。\n・セットアップは60秒未満で完了し、月額契約でキャンセル可能なサブスクリプションモデルを採用している。",
+    "注目ポイント3": "・同社は、2024年にオランダのホスピタリティ業界展示会Horecavaにおいて、設備・サービス部門でHorecava Innovation Awardを受賞した。\n・審査員は「プラグアンドプレイで手頃な価格であり、迅速に誰でも使用できる」と評価した。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://pourify.com/",
+    "発表年または出願年": "2022年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Pourify BV",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "オランダ",
+    "組織設立年": "2022年",
+    "組織URL": "https://pourify.com/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://pourify.com/",
+    "情報ソースURL_2": "https://www.crunchbase.com/organization/pourify",
+    "情報ソースURL_3": "https://www.emerce.nl/wire/pourify-wint-horecava-innovation-award-2024",
+    "情報ソースURL_4": "https://www.horecava.nl/en/press-releases/alle-winnaars-van-horecava-2024-op-een-rij",
+    "情報ソースURL_5": "https://apssupply.nl/en/collections/pourify",
+    "情報ソースURL_6": "https://www.pourifyshop.com/en/products/pourify-smart-pourer-5-pack",
+    "情報ソースURL_7": "https://www.pourifyshop.com/en/products/smart-pourer-starter-package",
+    "情報ソースURL_8": "https://www.pourifyshop.com/en/products/certainly-heres-an-optimized-product-page-description-for-the-pourify-hub-on-your-shopify-store-pourify-hub",
+    "情報ソースURL_9": "https://pourify.com/en/articles/from-chaos-to-control-how-smart-pouring-tech-saves-bars-thousands",
+    "情報ソースURL_10": "https://pourify.com/en/articles/how-ai-smart-tech-are-transforming-hospitality-in-2025",
+    "情報ソースURL_11": "https://appadvice.com/app/pourify/6445948579",
+    "情報ソースURL_12": "https://www.trustpilot.com/review/pourify.com",
+    "情報ソースURL_13": "https://www.horecatrends.com/en/pourify-pourer-make-every-drop-count/",
+    "情報ソースURL_14": "https://tracxn.com/d/companies/pourify/__nVqLLZUJBgcCX19UnSiFRaH9CQQqyARaGOqC_C12CbU",
+    "情報ソースURL_15": "https://nl.linkedin.com/company/pourify",
+    "情報ソースURL_16": "https://apssupply.nl/en/products/pourify-hub-1-pcs",
+    "情報ソースURL_17": "https://apssupply.nl/en/products/pourify-smart-pourer-5-pack",
+    "情報ソースURL_18": "https://pourify.com/join",
+    "情報ソースURL_19": "https://pourify.com/pricing",
+    "情報ソースURL_20": "https://fonkmagazine.nl/artikelen/awards/pourify-wint-de-horecava-innovation-award-2024-67282.html"
+  },
+  "分類": {
+    "技術分類": "kitchentech and robotics;restaurant and retail tech",
+    "機能分類": "bartending service;efficiency tracker;inventory tracking;liquor services;waste reduction"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "基本情報": {
+    "ID": "50",
+    "タイトル": "屋内ピックルボール施設におけるコート予約管理システム「CourtReserve」とLED照明技術を統合した複合スポーツ施設「The Pickle Lodge」",
+    "概要1": "米国オハイオ州のPickle Lodge Holdings, Inc.（通称：The Pickle Lodge）は、Mitch DunnとJoe Frankが2020年に設立し、2023年7月に開業した屋内ピックルボール施設を運営している。同社は、60,000平方フィートの施設に17の屋内コートと6の屋外コートを備え、レストラン、バー、イベントスペースを併設した米国第2位の規模の屋内ピックルボール施設を運営している。",
+    "概要2": "同施設は、各コートを個別にフェンスで仕切り、12層のクッション性のある競技面を採用している。照明システムには、LSI IndustriesのZONE Indirect Sports Light（ZNIA）を使用し、55,000～75,000ルーメンの出力で、グレアのない間接照明を実現している。コート予約管理には、Ashtow Technology Groupが開発したCourtReserveシステムを採用し、ウェブサイトおよびモバイルアプリを通じて、コート予約、決済、会員管理を統合的に処理している。",
+    "概要3": "同施設のCourtReserveシステムは、会員レベルに応じた階層的予約ウィンドウを設定している。創設者会員は3週間前、ファナティック会員は2週間前、フレンド会員は1週間前から予約可能であり、非会員は1日前から予約できる。会員料金は月額29～139ドルである。利用料金は翌月1日に自動課金される。同システムにより、会員の予約満足度を維持しつつ、施設稼働率を最大化している。",
+    "概要4": "同施設は、ピックルボール愛好者をターゲットとし、オープンプレイ、リーグ、クリニック、レッスンを提供している。また、レストラン、バー、イベントスペースを併設し、企業イベントやプライベートイベント会場としても利用されている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来のピックルボール施設では、コート予約管理が煩雑であり、電話やメールでの予約対応に多大な人的リソースを要していた。\n・会員と非会員の公平な予約機会の確保、および予約可能期間の適切な管理が課題となっていた。\n・屋内ピックルボール施設における照明のグレアが、競技の視認性を低下させる課題があった。",
+    "注目ポイント2": "・同施設は、CourtReserveシステムを導入し、オンラインおよびモバイルアプリを通じた24時間予約受付を実現している。\n・会員ランク別の予約ウィンドウを設定し、上位会員ほど早期予約が可能な階層的予約システムを採用し、会員の予約満足度と施設稼働率を最適化している。\n・12層のクッション性競技面とLSI Industries製のグレアのないLED間接照明により、高品質な競技環境を提供している。\n・レストラン、バー、イベントスペースを統合し、スポーツと社交を融合した複合施設設計を採用している。",
+    "注目ポイント3": "・同施設は、2023年7月1日に9コートでソフトオープンし、2024年1月に全17コートの全面オープンを達成した。\n・同施設は、米国で2番目に大きい屋内ピックルボール施設として認知されている。\n・2025年には、旧Eastern Hills Indoor Tennis Club（55,000平方フィート）を買収し、Lunken Landing地区に16の屋内コートを備えた第2拠点の開設を計画している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://thepicklelodge.com/",
+    "発表年または出願年": "2023年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Pickle Lodge Holdings, Inc.",
+    "組織タイプ": "中小企業",
+    "国名": "米国",
+    "組織設立年": "2020年",
+    "組織URL": "https://thepicklelodge.com/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://thepicklelodge.com/",
+    "情報ソースURL_2": "https://www.linkedin.com/company/the-pickle-lodge",
+    "情報ソースURL_3": "https://www.wlwt.com/article/second-largest-indoor-pickleball-facility-greater-cincinnati/41780774",
+    "情報ソースURL_4": "https://www.wcpo.com/news/local-news/butler-county/west-chester/the-pickle-lodge-60-000-square-foot-pickleball-complex-to-partially-open",
+    "情報ソースURL_5": "https://pickleballclubmag.com/2025/02/18/the-pickle-lodge-ensures-member-satisfaction-with-court-time-availability/",
+    "情報ソースURL_6": "https://lsicorp.com/lighting/case-studies/the-pickle-lodge/",
+    "情報ソースURL_7": "https://courtreserve.com/pickleball/",
+    "情報ソースURL_8": "https://www.travelbutlercounty.com/blog/post/americas-pickleball-powerhouse-play-pickle-lodge",
+    "情報ソースURL_9": "https://pickleballclubmag.com/2025/09/04/programming-pickleball-how-mitch-dunn-builds-community-at-the-pickle-lodge/",
+    "情報ソースURL_10": "https://www.wcpo.com/news/region-east-cincinnati/the-pickle-lodge-teams-up-with-aces-pickleball-for-new-lunken-landing-location",
+    "情報ソースURL_11": "https://www.citybeat.com/arts/the-pickle-lodge-to-open-second-location-in-linwood-18967282",
+    "情報ソースURL_12": "https://local12.com/news/local/suburban-cincinnati-pickleball-facility-hits-milestone-west-chester-pickle-lodge-court-yard-sportsplex",
+    "情報ソースURL_13": "https://www.travelbutlercounty.com/listing/pickle-lodge-north-shore",
+    "情報ソースURL_14": "https://pickleballinnovators.com/the-pickle-lodges-visionary-approach-to-pickleball-in-cincinnati/",
+    "情報ソースURL_15": "https://local12.com/news/local/pickleball-company-raise-three-million-dollars-plans-new-cincinnati-locations-pickle-lodge-west-chester-township-linwood-eastern-hills-tennis-millions",
+    "情報ソースURL_16": "https://www.wlwt.com/article/west-chester-pickleball-facility-pickle-lodge-opening/60582909",
+    "情報ソースURL_17": "https://www.wcpo.com/news/local-news/butler-county/west-chester/the-pickle-lodge-adding-six-new-outdoor-pickleball-courts",
+    "情報ソースURL_18": "https://thepicklelodge.com/host-an-event/",
+    "情報ソースURL_19": "https://play.google.com/store/apps/details?id=com.courtreserve.lodge&hl=en_US",
+    "情報ソースURL_20": "https://www.selkirk.com/blogs/community-highlights/the-pickle-lodge-a-premier-pickleball-haven-opens-in-cincinnati"
+  },
+  "分類": {
+    "施設タイプ": "屋内スポーツ施設;ピックルボールコート;レストラン併設施設",
+    "技術分類": "予約管理システム;スポーツ照明技術;モバイルアプリケーション",
+    "サービス分類": "コート予約;会員管理;イベント運営;飲食サービス"
+  }
+}

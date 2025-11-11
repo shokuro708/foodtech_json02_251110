@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "047",
+    "タイトル": "AI駆動型分子農法によりジャガイモから4種類のカゼインタンパク質を生産する動物フリー乳製品原料「Finally Foods Casein」",
+    "概要1": "イスラエルのRehovotに拠点を置くFinally Foods Ltd.は、2024年に設立されたベンチャー企業である。同社は、Evogene Ltd.とThe Kitchen FoodTech Hubの協力により設立され、AI駆動型分子農法によりジャガイモを生物反応器として利用し、チーズ製造に不可欠なカゼインタンパク質を生産する動物フリー乳製品原料を開発している。",
+    "概要2": "同技術は、Evogene社のGeneRator AIプラットフォームを活用し、遺伝子組換えジャガイモ内で4種類のカゼインタンパク質(α-S1カゼイン、α-S2カゼイン、β-カゼイン、κ-カゼイン)を生産する。同技術では、ジャガイモ内でカゼインタンパク質がミセル構造を形成し、カルシウムおよび他のミネラルとともに溶液中に懸濁される。同社は、遺伝子組換え宿主由来のDNAを含まない純粋なカゼインタンパク質を抽出する独自の抽出・精製プロセスを開発しており、最終製品は遺伝子組換え体ではない。",
+    "概要3": "同技術は、大豆と比較してジャガイモからのカゼインタンパク質の抽出・精製プロセスが簡素化されており、高収量と効率的な抽出を実現している。同社は、AI技術により研究開発サイクルを短縮し、市場投入までの時間を加速している。2024年にイスラエル南部で最初の圃場試験を開始し、3〜4ヶ月間の栽培による技術検証を実施している。",
+    "概要4": "同原料は、チーズ製造業者向けのB2B原料供給を対象としており、従来の乳製品チーズと同等の味と食感を持つ植物由来チーズの製造に使用される。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の動物由来カゼイン生産は、環境負荷が高く、持続可能性の面で課題があった。\n・精密発酵法などの代替技術と比較して、分子農法による植物ベースのタンパク質生産は、スケーラビリティとコスト効率の面で優位性が求められていた。",
+    "注目ポイント2": "・同技術は、Evogene社のGeneRator AIプラットフォームを活用し、タンパク質生産の計画、最適化、効率的な抽出を実現している。\n・同技術は、単一のジャガイモ内で4種類のカゼインタンパク質(α-S1、α-S2、β、κ)を生産する能力を有している。\n・同技術は、大豆と比較して簡素化された抽出・精製プロセスにより、コスト効率的にカゼインタンパク質を生産している。",
+    "注目ポイント3": "・同社は、2024年4月にThe Kitchen FoodTech Hub、Israeli Innovation Authority、ProVeg Incubatorからプレシード資金を獲得した。\n・同社は、イスラエルの飲料・乳製品メーカーであるCBC Groupと商業契約を締結し、CBC Groupが主導する120万ドルの資金調達ラウンドを完了した。\n・Evogene社は、同社の約40%の株式を保有しており、残りの株式は共同創業者とThe Kitchenが保有している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://evogene.com/press_release/evogene-and-the-kitchen-foodtech-hub-by-strauss-group-established-finally-foods-ltd-revolutionizing-protein-production-in-plants-for-the-food-industry/",
+    "発表年または出願年": "2024年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Finally Foods Ltd.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "イスラエル",
+    "組織設立年": "2024年",
+    "組織URL": "https://www.finally-foods.com/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://evogene.com/press_release/evogene-and-the-kitchen-foodtech-hub-by-strauss-group-established-finally-foods-ltd-revolutionizing-protein-production-in-plants-for-the-food-industry/",
+    "情報ソースURL_2": "https://www.prnewswire.com/il/news-releases/evogene-and-the-kitchen-foodtech-hub-by-strauss-group-established-finally-foods-ltd---revolutionizing-protein-production-in-plants-for-the-food-industry-302105556.html",
+    "情報ソースURL_3": "https://agfundernews.com/casein-from-potatoes-molecular-farming-startup-finally-foods-emerges-from-stealth",
+    "情報ソースURL_4": "https://agfundernews.com/molecular-farming-startup-finally-foods-announces-field-trial-of-casein-from-potatoes",
+    "情報ソースURL_5": "https://agfundernews.com/molecular-farming-startup-finally-foods-raises-1-2m-strikes-deal-with-cbc-group",
+    "情報ソースURL_6": "https://www.greenqueen.com.hk/molecular-farming-finally-foods-casein-protein-the-kitchen-hub/",
+    "情報ソースURL_7": "https://www.greenqueen.com.hk/finally-foods-molecular-farming-ai-dairy-protein-potato-casein/",
+    "情報ソースURL_8": "https://www.foodnavigator.com/Article/2024/04/03/finally-foods-making-casein-protein-in-potatoes/",
+    "情報ソースURL_9": "https://www.ynetnews.com/business/article/hksw6cztjx",
+    "情報ソースURL_10": "https://www.potatonewstoday.com/2024/04/03/milky-tuber-tale-molecular-farming-startup-to-produce-dairy-proteins-in-potatoes/",
+    "情報ソースURL_11": "https://provegincubator.com/proveg-incubator-cohort-13/",
+    "情報ソースURL_12": "https://provegincubator.com/introducing-proveg-incubator-cohort-13/",
+    "情報ソースURL_13": "https://www.proteinproductiontechnology.com/post/molecular-farming-startup-finally-foods-secures-pre-seed-funding-from-the-kitchen-foodtech-hub",
+    "情報ソースURL_14": "https://cultivated-x.com/investments-finance/finally-foods-funds-ai-driven-plant-molecular-tech-casein-cheese/",
+    "情報ソースURL_15": "https://vegconomist.com/investments-finance/finally-foods-funds-ai-driven-plant-molecular-tech-casein-cheese/",
+    "情報ソースURL_16": "https://finder.startupnationcentral.org/company_page/finally-foods",
+    "情報ソースURL_17": "https://www.cbinsights.com/company/finally-foods",
+    "情報ソースURL_18": "https://www.crunchbase.com/organization/finally-foods",
+    "情報ソースURL_19": "https://app.dealroom.co/companies/finally_foods_1",
+    "情報ソースURL_20": "https://www.linkedin.com/company/finally-foods-ltd"
+  }
+}

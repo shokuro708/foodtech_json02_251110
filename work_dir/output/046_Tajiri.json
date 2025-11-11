@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "046",
+    "タイトル": "注文管理・在庫管理・売上分析・融資アクセスを統合したアフリカのレストラン向けSaaSプラットフォーム「Tajiri」",
+    "概要1": "コートジボワールのAbidjanに拠点を置くTajiriは、2023年に設立されたフィンテック企業である。同社は、アフリカのフランス語圏のレストラン経営者向けに、注文管理、在庫管理、売上記録、ビジネス分析レポート、融資アクセスを統合したモバイルベースのSaaSプラットフォーム「Tajiri」を提供している。",
+    "概要2": "同プラットフォームは、AndroidおよびiOS対応のモバイルアプリケーションとして提供され、レストランのスタッフが売上を記録し、重要なビジネスデータをモニタリングできる仕組みである。注文の受付と追跡を効率化し、在庫の監視と管理を通じて最適な計画を支援する。また、同プラットフォームは、業績評価とデータ駆動型の意思決定を可能にする分析レポートを提供し、ダイニングエリアとキッチン間のコミュニケーションを改善することで、レストランの運営効率を向上させる。",
+    "概要3": "同プラットフォームは、レストラン経営者が組織化し、構造化し、融資へのアクセスを得ることを可能にする。アフリカのレストラン業界では、組織化と構造化の欠如により、数千のレストラン経営者が投資から利益を得ることや融資にアクセスすることが妨げられているという課題があり、同プラットフォームはこの課題に対処している。Tajiri POS、Tajiri Lite、メインアプリの複数バージョンを提供し、アフリカの現実に適応した機能を備えている。",
+    "概要4": "同プラットフォームは、レストラン、マキ（非公式レストラン）、バー、ナイトクラブ、ファーストフード店など、アフリカのフランス語圏における様々な飲食店を対象としている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・アフリカのフランス語圏では、レストラン業界における組織化と構造化の欠如により、数千のレストラン経営者が投資から利益を得ることや融資にアクセスすることが困難であるという課題があった。\n・従来のレストラン管理システムは、アフリカの現実や非公式セクターのニーズに適応していないことが課題であった。",
+    "注目ポイント2": "・同プラットフォームは、注文管理、在庫管理、売上記録、ビジネス分析レポート、融資アクセスを単一のモバイルアプリケーションに統合している。\n・同プラットフォームは、AndroidおよびiOSの両方に対応し、レストラン、マキ、バー、ナイトクラブ、ファーストフード店など、アフリカの多様な飲食店に適応した機能を提供している。\n・同プラットフォームは、ダイニングエリアとキッチン間のコミュニケーションを改善し、運営効率を向上させる設計となっている。",
+    "注目ポイント3": "・Tajiriは、2023年9月にSaviu VenturesとMstudioから250,000ドルのプレシード資金調達を完了した。\n・同社は、Mstudioのスタートアップスタジオプログラムを通じて設立され、フランス語圏アフリカの非公式セクター変革を目指している。\n・同社は、モバイルアプリケーションの強化、販売チームの拡大、レストラン獲得戦略の改善に資金を投入している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.tajiri.io/",
+    "発表年または出願年": "2023年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Tajiri",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "コートジボワール",
+    "組織設立年": "2023年",
+    "組織URL": "https://www.tajiri.io/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.tajiri.io/",
+    "情報ソースURL_2": "https://www.cbinsights.com/company/tajiri",
+    "情報ソースURL_3": "https://www.crunchbase.com/organization/tajiri",
+    "情報ソースURL_4": "https://ci.linkedin.com/company/tajiriafrica",
+    "情報ソースURL_5": "https://www.wearetech.africa/en/fils-uk/tech-stars/cote-divoire-s-alex-degny-digitizes-restaurant-management-in-africa",
+    "情報ソースURL_6": "https://afriveille.com/deux-foodtech-ivoiriennes-tajiri-et-djoli-levent-des-fonds-en-preseed/",
+    "情報ソースURL_7": "https://techcabal.com/2023/03/24/ivorian-mstudio/",
+    "情報ソースURL_8": "https://techpoint.africa/2023/03/29/mstudio-wants-to-spur-growth-in-francophone-africa/",
+    "情報ソースURL_9": "https://play.google.com/store/apps/details?id=com.tajiri.tablette",
+    "情報ソースURL_10": "https://play.google.com/store/apps/details?id=com.tajiri.lite",
+    "情報ソースURL_11": "https://apps.apple.com/us/app/tajiri/id6462265988",
+    "情報ソースURL_12": "https://www.225tech.info/livoirien-alex-degny-numerise-la-gestion-des-restaurants-en-afrique/",
+    "情報ソースURL_13": "https://ci.linkedin.com/posts/alex-degny-4a7771134_tajiri-tajiri-saas-activity-7008834281418461184-AGGH",
+    "情報ソースURL_14": "https://www.linkedin.com/in/alex-degny-4a7771134/",
+    "情報ソースURL_15": "https://www.linkedin.com/in/serge-th%C3%A9ophile-kokoua/",
+    "情報ソースURL_16": "https://fr.linkedin.com/posts/tajiriafrica_tajiri-organiserstructurerfinancer-foodtech-activity-7148316248634773504-bcrK",
+    "情報ソースURL_17": "https://www.linkedin.com/posts/tajiriafrica_100restaurants-techfood-tajiri-activity-7114609129637171200-c7xv",
+    "情報ソースURL_18": "https://www.appbrain.com/app/tajiri/com.tajiri.mobile",
+    "情報ソースURL_19": "https://afridigest.com/40-african-tech-startups-raised-140m-july/",
+    "情報ソースURL_20": "https://techsafari.beehiiv.com/p/cotedivoire"
+  }
+}
