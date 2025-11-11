@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "059",
+    "タイトル": "ダークストアネットワークと独自オペレーティングシステムによる30分以内の食品・日用品配送プラットフォーム「Ninja」",
+    "概要1": "サウジアラビアのAdvanced Information Technology LLCは、ダークストアネットワークと独自開発のオペレーティングシステムを活用し、食料品・日用品・医薬品を30分以内に配送するクイックコマースプラットフォーム「Ninja」（ananinja.com）を運営している。同社は、HungerStationの創業者であるEbrahim Al-Jassim、Saud Al Qahtani、Canberk Donmezによって2022年に設立された。",
+    "概要2": "同プラットフォームは、戦略的に配置された公開されていないフルフィルメントセンターであるダークストアのネットワークを構築している。同システムは、技術・サプライチェーン・即時配送ロジスティクスを管理する独自のオペレーティングシステムを用いて、15,000点以上の商品と5,000店以上のレストランメニューへのアクセスを提供する。同アプリは、生鮮食品・野菜・乳製品・ビーガン食品・飲料・美容製品・家庭用必需品・医薬品をカバーし、24時間365日稼働する。",
+    "概要3": "同プラットフォームは、30分以内の配送時間を実現し、一部の配送では15分以内の超高速配送を達成している。同サービスは、サウジアラビア全土をカバーし、バーレーン・カタール・クウェートへ事業を拡大した。同社は、2025年7月に2億5,000万米ドルのシリーズA資金調達を完了し、企業評価額15億米ドルのユニコーン企業となった。同社は、運営黒字化を達成し、年間収益約10億米ドルの見通しを示している。",
+    "概要4": "同プラットフォームは、迅速な食料品配送を求める都市部の消費者、健康志向の消費者、ビーガン食品を購入する消費者、レストラン料理を注文する消費者、医薬品や遠隔医療サービスを必要とする消費者を対象としている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の食料品配送サービスは配送時間が長く、消費者の即時需要に対応できないことが課題であった。\n・既存のeコマースプラットフォームは、在庫管理と配送効率の最適化において、リアルタイムのデマンドに応じた柔軟な対応が困難であった。",
+    "注目ポイント2": "・同プラットフォームは、公開されていないダークストアを戦略的に配置し、消費者に近い場所から商品を配送することで配送時間を短縮する。\n・同システムは、独自のオペレーティングシステムを用いて、技術・サプライチェーン・即時配送ロジスティクスを統合管理する。\n・同サービスは、食料品配送に加えて、レストラン配送・医薬品配送・遠隔医療サービスを統合し、幅広い消費者ニーズに対応する。",
+    "注目ポイント3": "・同社は、2025年7月にRiyad Capitalが主導するシリーズA資金調達で2億5,000万米ドルを調達し、企業評価額15億米ドルのユニコーン企業となった。\n・同社は、2026年から2027年にサウジアラビアのTadawul証券取引所での株式公開（IPO）を計画している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://ananinja.com/sa/en/about",
+    "発表年または出願年": "2022",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Advanced Information Technology LLC",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "サウジアラビア",
+    "組織設立年": "2022",
+    "組織URL": "https://ananinja.com"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://ananinja.com/sa/en/about",
+    "情報ソースURL_2": "https://www.wamda.com/2025/07/saudi-q-commerce-ninja-raises-250-million-hits-unicorn-valuation-ahead-planned-ipo",
+    "情報ソースURL_3": "https://www.menabytes.com/ninja-1-5-billion/",
+    "情報ソースURL_4": "https://www.menabytes.com/ninja-saudi-1-billion/",
+    "情報ソースURL_5": "https://www.fwdstart.me/p/ninja-becomes-saudi-arabia-s-latest-tech-unicorn-with-250m-raise-ahead-of-2027-ipo",
+    "情報ソースURL_6": "https://app.dealroom.co/companies/ninja_",
+    "情報ソースURL_7": "https://www.linkedin.com/company/ninja-app",
+    "情報ソースURL_8": "https://tracxn.com/d/companies/ana-ninja/__NFzAOBQCcgpRwhLiQfPz7mgl7akaAfPO3ez8hwJ0bzo",
+    "情報ソースURL_9": "https://www.syntaxdesign.com/work/ninja",
+    "情報ソースURL_10": "https://www.wamda.com/2023/01/q-commerce-startup-ninja-raises-pre-seed-round",
+    "情報ソースURL_11": "https://ananinja.com/bh/en/about",
+    "情報ソースURL_12": "https://play.google.com/store/apps/details?id=com.ananinja.lava",
+    "情報ソースURL_13": "https://apps.apple.com/sa/app/ninja-نينجا/id1620153149",
+    "情報ソースURL_14": "https://www.caproasia.com/2025/09/03/saudi-arabia-quick-delivery-platform-ninja-plans-for-ipo-in-2026-after-raising-250-million-at-1-5-billion-valuation-in-2025-july-founded-in-2022-by-ebrahim-al-jassim-saud-al-qahtani-canberk-donm/",
+    "情報ソースURL_15": "https://www.agbi.com/finance/2025/07/saudi-delivery-startup-ninja-joins-gcc-unicorn-list/",
+    "情報ソースURL_16": "https://www.einnews.com/pr_news/608817284/saudi-quick-commerce-startup-ninja-leaps-out-of-stealth-with-a-mega-seed-round-and-a-clear-path-to-sustainability",
+    "情報ソースURL_17": "https://pitchbook.com/profiles/company/517524-40",
+    "情報ソースURL_18": "https://www.crunchbase.com/organization/ninja-f734",
+    "情報ソースURL_19": "https://termsheet.substack.com/p/ninja-the-return-of-hungerstations",
+    "情報ソースURL_20": "https://enatega.com/grocery-delivery-apps-in-saudi-arabia/"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "055",
+    "タイトル": "3Dバイオプリンティングと血管化技術を用いた細胞培養魚フィレの製造プラットフォーム",
+    "概要1": "米国のバイオテクノロジーベンチャー企業Reel Foods, Inc.は、Harvard UniversityのWyss Instituteで開発されたSWIFT 3Dバイオプリンティング技術を用いて、天然魚と同一の組成を持つ細胞培養魚フィレを開発している。同社は2022年後半に設立され、San Franciscoに拠点を置き、Stanford UniversityのTomKat Centerで事業を展開している。",
+    "概要2": "同技術は、SWIFT（Sacrificial Writing in Functional Tissue）と呼ばれる3Dバイオプリンティング手法を用いて、高密度の細胞組織内に血管ネットワークをパターニングする。同手法では、犠牲インクを円筒形状で細胞組織内にプリントし、温度変化により溶解させることで中空のチャネルを形成し、血管様構造を作り出す。これにより組織全体に酸素と栄養を供給し、老廃物を除去することで、厚い組織における細胞生存率を維持し、弾力性と硬さを持つ構造化組織を実現する。",
+    "概要3": "同技術は、魚種に依存しないプラットフォームであり、植物由来の足場材料や添加物を使用せずに、天然魚と見分けがつかない質感と構造を持つホールカットの魚フィレを作製することが可能である。同製品は、水銀、PCB、PFAS等の汚染物質を含まない認証済みのクリーンな魚フィレとして提供される。同社は白身魚のプロトタイプを開発済みであり、商業製品第一弾としてブルーフィンマグロのサクブロックを開発中である。",
+    "概要4": "同技術は、乱獲により漁獲制限がある高級魚（ブルーフィンマグロ、オヒョウ、チリアンシーバス等）の持続可能な代替品として、海洋保全と安全な水産物供給を目的としている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・細胞培養肉の生産において、血管構造を持たない厚い組織では、薄い外殻を超えた細胞が酸素不足により死滅し、タピオカパールの中身のように死細胞が滲み出ることが課題となっていた。\n・従来の細胞培養魚は、スケールアップ時のコストと品質、および天然魚特有のフレーク状の質感の再現が課題となっていた。",
+    "注目ポイント2": "・同技術は、心臓組織工学のために開発されたSWIFT法を応用し、細胞組織内に3Dバイオプリンティングで血管チャネルを形成することで、細胞生存率を維持し、弾力性と硬さを持つ構造化組織を実現する。\n・同技術は、魚種に依存しないプラットフォームであり、白身魚のプロトタイプを開発済みで、ブルーフィンマグロのサクブロックを商業製品第一弾として開発中である。\n・同技術は、植物由来の足場材料や添加物を使用せず、細胞自体から味と質感を生み出すホールカットフィレを作製する。",
+    "注目ポイント3": "・同社の創業者John Ahrens（Harvard University生体工学博士）とRobert Weeks（Harvard University機械工学博士）はWyss Lumineers Class of 2023に選出された。\n・同社は血管化技術に関する特許を取得し、2022年後半にRefactor Capital主導で250万ドルのプレシード資金調達を完了し、2025年初頭にシード資金調達ラウンドの開始を予定している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://wyss.harvard.edu/technology/reel-foods-cultivated-fillets-of-fish-for-healthier-people-and-planet/",
+    "発表年または出願年": "2022",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Reel Foods, Inc.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "米国",
+    "組織設立年": "2022",
+    "組織URL": "https://www.reelfoods.co/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://wyss.harvard.edu/technology/reel-foods-cultivated-fillets-of-fish-for-healthier-people-and-planet/",
+    "情報ソースURL_2": "https://seas.harvard.edu/news/2023/06/reel-hope-ocean-conservation",
+    "情報ソースURL_3": "https://otd.harvard.edu/news/reel-hope-for-ocean-conservation/",
+    "情報ソースURL_4": "https://gsas.harvard.edu/news/reel-hope-ocean-conservation",
+    "情報ソースURL_5": "https://wyss.harvard.edu/news/introducing-the-wyss-lumineers-class-of-2023/",
+    "情報ソースURL_6": "https://tomkat.stanford.edu/innovation-transfer/reel-foods",
+    "情報ソースURL_7": "https://www.reelfoods.co/team",
+    "情報ソースURL_8": "https://wyss.harvard.edu/team/core-faculty/jennifer-lewis/",
+    "情報ソースURL_9": "https://wyss.harvard.edu/technology/3d-bioprinting/",
+    "情報ソースURL_10": "https://pitchbook.com/profiles/company/519649-30",
+    "情報ソースURL_11": "https://www.linkedin.com/company/reel-foods",
+    "情報ソースURL_12": "https://app.dealroom.co/companies/reelfoods",
+    "情報ソースURL_13": "https://www.reelfoods.co/how-it-works-concept",
+    "情報ソースURL_14": "https://www.reelfoods.co/tissueengineer",
+    "情報ソースURL_15": "https://ecosystem.gfi.org/company/reel-foods/",
+    "情報ソースURL_16": "",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  }
+}
