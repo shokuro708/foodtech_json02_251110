@@ -1,0 +1,56 @@
+{
+  "基本情報": {
+    "ID": "3",
+    "タイトル": "自然な人間のような音声AIで24時間365日電話対応・リード獲得・予約管理を自動化するソロプレナー向けAIビジネスアシスタント「Cactus」",
+    "概要1": "米国のベンチャー企業Cravd, Inc.は、自然な人間のような音声AIを用いて、電話対応、顧客の資格審査、予約管理、フォローアップを24時間365日自動化するソロプレナーおよびホームサービス事業者向けAIビジネスアシスタントプラットフォーム「Cactus」を開発し、販売している。",
+    "概要2": "同プラットフォームは、AIビジネスアシスタント「Pam」を中心に構成されている。同プラットフォームは、会話型AIを用いて着信電話に即座に応答し、顧客からの問い合わせ内容や仕事の詳細を聴取する。同プラットフォームは、収集した情報から潜在顧客を自動的に資格審査し、真剣な顧客と興味本位の問い合わせを選別する。同プラットフォームは、資格審査を通過した顧客に対して予約をカレンダーまたはCRM（顧客関係管理システム）に直接スケジューリングし、電話、電子メール、テキストメッセージを通じて自動的にフォローアップを実施する。",
+    "概要3": "同プラットフォームは、基本的なAI電話応答ツールとは異なり、電話、電子メール、テキストによる組み込みフォローアップ機能を備えており、サービス提供者が定期的な仕事を再予約し、リマインダーを送信し、リピートビジネスを育成することを可能にする。このアフターケア自動化により、サービス提供者は顧客を維持し、予測可能なサブスクリプション型の収益を構築することができる。同プラットフォームは、追加スタッフを雇用することなく、より多くのリードを獲得し、より多くの顧客を維持することを可能にする。",
+    "概要4": "同プラットフォームは、プライベートシェフ、ケータリング業者、写真家、パーソナルトレーナー、ビジネスコンサルタント、コーチング代理店、HVAC、配管、電気工事、請負業者など、大量の問い合わせや電話を管理するあらゆる起業家を対象としている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・HVAC、配管、電気工事、請負業などのホームサービス業界は、依然として電話対応、スケジューリング、フォローアップを手作業で処理しており、ソロプレナーや小規模チームは本業に集中できず、管理業務に時間を取られることが課題となっていた。\n・従来のAI電話応答ツールは、電話対応のみに限定されており、予約後のフォローアップや顧客維持のための機能が不足していることが課題であった。",
+    "注目ポイント2": "・同プラットフォームは、自然な人間のような音声AIを用いて、顧客との会話を人間に近い精度で管理し、エンドツーエンドの顧客コミュニケーションを実現する。\n・同プラットフォームは、電話応答、リード獲得、仕事のスケジューリング、電話、テキスト、電子メールによる自動フォローアップを統合したAIコパイロットである。\n・同プラットフォームは、顧客の資格審査から予約、請求までのすべてを処理し、スマート自動化によって事業者が時間を節約し、収益を増加させ、業務を合理化することを可能にする。",
+    "注目ポイント3": "・同社は、Y Combinator Winter 2025コホートに参加し、Wellington Management、Pelion Venture Partners、Rebel Fundおよび戦略的投資家からシードラウンドで700万ドルの資金を調達した（2025年11月）。\n・同プラットフォームは、すでに100人以上のシェフによって採用されており、初期ユーザーは予約率が2倍になり、顧客満足度が向上したと報告している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.ycombinator.com/companies/oncactus",
+    "発表年または出願年": "2024",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "該当なし"
+  },
+  "組織情報": {
+    "組織名": "Cravd, Inc.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "米国",
+    "組織設立年": "2024",
+    "組織URL": "https://oncactus.com"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.ycombinator.com/companies/oncactus",
+    "情報ソースURL_2": "https://www.ycombinator.com/launches/NSp-cactus-ai-copilot-for-solopreneurs",
+    "情報ソースURL_3": "https://www.prnewswire.com/news-releases/cactus-raises-7m-seed-round-to-launch-ai-copilot-for-home-service-businesses-302605470.html",
+    "情報ソースURL_4": "https://www.crunchbase.com/organization/cravd",
+    "情報ソースURL_5": "https://pitchbook.com/profiles/company/620741-89",
+    "情報ソースURL_6": "https://techfundingnews.com/cactus-raises-7m-ai-automation-home-services/",
+    "情報ソースURL_7": "https://www.finsmes.com/2025/11/cactus-raises-7m-in-seed-funding.html",
+    "情報ソースURL_8": "https://www.thesaasnews.com/news/cactus-raises-7-million-in-seed-round",
+    "情報ソースURL_9": "https://cravd.com/about",
+    "情報ソースURL_10": "https://www.everythingmarketplaces.com/post/member-feature-ajith-govind-cravd",
+    "情報ソースURL_11": "https://partnergrow.substack.com/p/building-a-marketplace-for-home-chefs",
+    "情報ソースURL_12": "https://www.linkedin.com/in/ajith-govind/",
+    "情報ソースURL_13": "https://www.linkedin.com/in/joshi-avinash/",
+    "情報ソースURL_14": "https://americanbazaaronline.com/2025/05/21/cactus-startup-empowering-solopreneurs-with-ai-driven-freedom-462906/",
+    "情報ソースURL_15": "https://www.tryfondo.com/blog/cactus-launches",
+    "情報ソースURL_16": "https://www.everythingmarketplaces.com/marketplace-launch/cactus",
+    "情報ソースURL_17": "https://vcnewsdaily.com/cactus/venture-capital-funding/ccrckfjryd",
+    "情報ソースURL_18": "https://pulse2.com/cactus-7-million-seed-funding-raised-to-launch-ai-copilot-for-home-service-businesses/",
+    "情報ソースURL_19": "https://finance.yahoo.com/news/cactus-raises-7m-seed-round-150000525.html",
+    "情報ソースURL_20": "https://www.linkedin.com/company/oncactus"
+  },
+  "分類": {
+    "形状分類": "該当なし",
+    "センシング対象": "該当なし"
+  }
+}

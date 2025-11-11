@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "7",
+    "タイトル": "地球の歳差運動にインスパイアされたブレードレスミキシング技術による低シア応力バイオリアクターシステム「SoftXS」",
+    "概要1": "フランスのバイオテクノロジー企業SOFT CELL THERAPEUTICS SASは、Aix-Marseille大学のCNRS IRPHE研究所との7年間の共同研究により、地球の歳差運動にインスパイアされたブレードレスミキシング技術を用いた低シア応力バイオリアクター「SoftXS」を開発した。同社は2022年に創業者Olivier DetournayとEmmanuel Sobraにより設立され、マルセイユに本拠を置き、細胞治療、培養肉、幹細胞研究向けの3次元細胞培養ソリューションを提供している。",
+    "概要2": "同製品は、部分的に液体を充填した円筒容器を垂直軸に対して傾けて回転させる歳差運動により、内部の液体を均質に混合する。同原理は地球の核内で液体鉄を混合する自然現象を模倣したものであり、ブレードや撹拌翼を使用せずに流体を混合する。同製品は0.2 L、0.5 L、1.2 Lの3種類の容器サイズに対応し、0から99 rpmの回転速度で操作する。同製品は磁気カップリングにより環境を密閉し、0.22 μmのポリフッ化ビニリデン（Polyvinylidene Difluoride:PVDF）フィルター付きベントキャップによりガス交換を行いながら無菌性を保持する。",
+    "概要3": "同製品は、60 rpmでのシア応力が約2 mPaであり、従来の撹拌翼式バイオリアクターの約100 mPaと比較して50分の1に低減される。同製品は、スケールアップ時に混合速度を維持してもシア応力が増加しないという特性を持つ。同製品は、シア応力に敏感な人工多能性幹細胞（induced Pluripotent Stem Cells:iPSC）、ナチュラルキラー細胞（Natural Killer cells:NK細胞）、T細胞、オルガノイド、肝幹細胞、渦鞭毛藻などの細胞を対象に、3次元培養における細胞の自己複製能、多能性、生存率、機能性を維持する。",
+    "概要4": "同製品は、がん免疫療法および感染症治療のための免疫細胞の拡張、再生医療のための幹細胞拡張、疾患モデリングおよび創薬スクリーニングのためのオルガノイド培養、培養肉生産のための細胞拡張に適用される。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の撹拌翼式バイオリアクターは、撹拌翼による高いシア応力により、人工多能性幹細胞や免疫細胞などのシア応力に敏感な細胞の生存率と機能性を低下させることが課題であった。\n・従来のバイオリアクターは、スケールアップ時に同じ混合速度を維持するとシア応力が増加するため、細胞治療製品の大規模製造が困難であった。",
+    "注目ポイント2": "・同製品は、地球の核内で液体鉄を混合する歳差運動を模倣した独自の設計により、ブレードレスで均質な混合を実現する。\n・同製品のシア応力は従来型の50分の1であり、細胞の生存率と機能性を大幅に向上させる。\n・同製品は、スケールアップ時に混合速度を維持してもシア応力が増加しないため、大規模製造への移行が容易である。\n・同製品は、シア保護剤を必要としないため、細胞治療製品の製造プロセスを簡素化し、コストを削減する。",
+    "注目ポイント3": "・同技術は、特許WO2017149034A1およびFR3117505A1により保護されている。\n・同社は、Seed For Good、Angels Bay Invest、Bpifrance、ファミリーオフィスから120万ユーロの資金調達を完了した（2023-2024年）。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://cellura.io/",
+    "発表年または出願年": "2022年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "SOFT CELL THERAPEUTICS SAS",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "フランス",
+    "組織設立年": "2022年",
+    "組織URL": "https://cellura.io/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://cellura.io/",
+    "情報ソースURL_2": "https://cellura.io/products/",
+    "情報ソースURL_3": "https://cellura.io/our-technology/",
+    "情報ソースURL_4": "https://cellura.io/applications/",
+    "情報ソースURL_5": "https://cellura.io/our-company/",
+    "情報ソースURL_6": "https://gomet.net/cellura-marseille-leve-12-million-e-pour-industrialiser-ses-bioreacteurs-cellulaires/",
+    "情報ソースURL_7": "https://www.marseille-innov.org/cellura-leve-12m-euros-pour-industrialiser-et-licencier-sa-technologie-de-bioreacteurs-cellulaires/",
+    "情報ソースURL_8": "https://www.innovativetherapiesdays.com/news/discover-a-geoinspired-bioreactor-the-softxs/",
+    "情報ソースURL_9": "https://tracxn.com/d/companies/cellura/__-QVm6PAqXMwutRL_mtm6tuU9FMgjBWPOoBHtzxC-LeE",
+    "情報ソースURL_10": "https://www.pappers.fr/entreprise/sct-soft-cell-therapeutics-917498362",
+    "情報ソースURL_11": "https://www.linkedin.com/in/olivier-detournay-5b157417/",
+    "情報ソースURL_12": "https://irphe.univ-amu.fr/en",
+    "情報ソースURL_13": "",
+    "情報ソースURL_14": "",
+    "情報ソースURL_15": "",
+    "情報ソースURL_16": "",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  }
+}

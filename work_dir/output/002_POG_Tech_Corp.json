@@ -1,0 +1,57 @@
+{
+  "基本情報": {
+    "ID": "2",
+    "タイトル": "ダークキッチンモデルと自社配送システムを用いた30分以内配達のクックトゥオーダー型フードデリバリーサービス「Sizl」",
+    "概要1": "米国のフードテックベンチャー企業POG Tech Corp.は、注文後に調理を開始し30分以内に配達するクックトゥオーダー型フードデリバリーサービス「Sizl」を開発/運営している。同社の創業者は、東欧最大のダークキッチンネットワークLocal Kitchenを年間売上4,600万ドルまで成長させた実績を持つウクライナ出身の起業家である。",
+    "概要2": "同サービスは、ダークキッチン（ゴーストキッチン）モデルを採用し、地元農家から調達した新鮮な食材を用いて、注文を受けてから調理を開始する。調理に約15分、電動自転車による配達に約15分を要し、合計30分以内の配達を実現する。同社は、自社開発のERPシステムとモバイルアプリ、自社配送チームを保有し、キッチンの稼働状況と配達員の配置に基づいて到着予定時刻を動的に算出する。同システムは、当初Kotlin Multiplatformで開発されたが、保守性と機能展開速度の向上のためReact Nativeに移行され、顧客アプリ、配達員アプリ、サポートツールが単一のコードベースを共有しながら独立して進化する設計となっている。",
+    "概要3": "同サービスは、自社アプリを通じた直接注文を推進しており、注文の50%以上が自社アプリ経由となることで、DoorDashやUber Eatsなどのアグリゲータプラットフォームと比較して高い利益率を実現している。同アプリは、ゲーミフィケーション要素（テーマカード収集、アプリ内通貨mojis、ミニゲーム）を実装し、全注文に対して3%のキャッシュバックを提供する。顧客は待機中にアプリ内でゲームをプレイし、ロイヤルティポイントや特典をアンロックできる。また、同アプリは、ピックアップ機能やイベントケータリング機能を搭載し、多言語対応を実現している。同社のアプリダウンロード数は約5,000件であり、アクティブユーザーは月平均4回注文している。",
+    "概要4": "同サービスは、健康志向で迅速な食事を求める都市部の消費者をターゲットとし、シカゴを拠点に展開している。同社は、チキンキーウ、ピエロギ、シャワルマ、トリュフマッシュ、ファラフェル、アボカドトースト、グリルチーズ、スパゲッティボロネーゼなど約60品目のメニューを提供している。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来のミールキット配送サービスは顧客が自ら調理する必要があり、従来のフードデリバリーサービスは既に調理済みの食品を配達するため新鮮さが失われることが課題であった。\n・ダークキッチン事業者の多くは、複数のレストランブランドの共有スペースとして機能するが、品質管理と配達時間の最適化が課題であった。",
+    "注目ポイント2": "・同サービスは、注文後に調理を開始するクックトゥオーダーモデルと30分以内配達を組み合わせ、新鮮さと利便性を両立している。\n・同サービスは、Kotlin Multiplatformで開発された初期アプリをReact Nativeに移行し、保守性と機能展開速度を向上させた。顧客アプリ、配達員アプリ、サポートツールが単一のコードベースを共有しながら独立して進化する統一アーキテクチャを採用している。\n・同サービスは、ウクライナ人料理人とシカゴの料理人チームが運営するダークキッチンで、約60品目のメニューを提供し、地元農家から調達した新鮮な食材を使用している。",
+    "注目ポイント3": "・同社は、2025年4月に350万ドルのシード資金調達を実施し、ポストマネーバリュエーション1,200万ドルを達成した（TechCrunch 2025年4月8日）。\n・同社は、1日約100件の注文を処理し、月間売上8万～10万ドルを達成しており、第1拠点はレストランレベルで黒字化している。同社は、2025年中にシカゴに最大4カ所の追加キッチンを開設し、ボストン、シャーロット、サンフランシスコベイエリアへの展開を検討している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "WEBメディア",
+    "主要情報ソースURL": "https://techcrunch.com/2025/04/08/sizl-raises-3-5m-to-expand-its-cook-to-order-food-delivery-service/",
+    "発表年または出願年": "2022",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "POG Tech Corp.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "米国",
+    "組織設立年": "2022",
+    "組織URL": "https://www.sizl.com"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://techcrunch.com/2025/04/08/sizl-raises-3-5m-to-expand-its-cook-to-order-food-delivery-service/",
+    "情報ソースURL_2": "https://www.restaurantbusinessonline.com/technology/meet-sizl-chicago-ghost-kitchen-wants-replace-groceries",
+    "情報ソースURL_3": "https://dev.family/portfolio/sizl",
+    "情報ソースURL_4": "https://franetic.com/sizl-secures-3-5m-to-grow-its-cook-to-order-delivery-service/",
+    "情報ソースURL_5": "https://www.crunchbase.com/organization/sizl",
+    "情報ソースURL_6": "https://apps.apple.com/us/app/sizl/id6446316183",
+    "情報ソースURL_7": "https://play.google.com/store/apps/details?id=com.sizl.pepper.client.android&hl=en_US",
+    "情報ソースURL_8": "https://www.linkedin.com/in/alex-kolesnikov-20235017/",
+    "情報ソースURL_9": "https://www.linkedin.com/in/akalinkina/",
+    "情報ソースURL_10": "https://newsnreleases.com/2025/04/08/sizl-raises-funds-to-expand/",
+    "情報ソースURL_11": "https://www.cspdailynews.com/technologyservices/meet-sizl-chicago-ghost-kitchen-wants-replace-groceries",
+    "情報ソースURL_12": "https://devcuration.substack.com/p/sizl-seed-round-35m",
+    "情報ソースURL_13": "https://www.lemon8-app.com/@sergelato/7384615367249756677?region=us",
+    "情報ソースURL_14": "https://www.facebook.com/sizlcom/",
+    "情報ソースURL_15": "https://www.sizl.com/terms-of-service/",
+    "情報ソースURL_16": "https://www.sizl.com/privacy-policy/",
+    "情報ソースURL_17": "https://legal.sizl.com/",
+    "情報ソースURL_18": "https://apps.apple.com/us/developer/pog-tech-corp/id1639876482",
+    "情報ソースURL_19": "https://play.google.com/store/apps/developer?id=POG+Tech+Corp.&hl=en_US",
+    "情報ソースURL_20": ""
+  },
+  "分類": {
+    "サービス形態": "フードデリバリー;ダークキッチン;クックトゥオーダー",
+    "技術分野": "モバイルアプリケーション;配送管理システム;ERPシステム",
+    "ビジネスモデル": "B2C;自社配送;自社プラットフォーム"
+  }
+}

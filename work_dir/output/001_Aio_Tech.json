@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "001",
+    "タイトル": "おが屑等のリグノセルロース系バイオマスを原料とし、酵母発酵により脂質含有率約60%の微生物油脂を生成する精密発酵技術",
+    "概要1": "Äio Tech OÜは、Tallinn University of Technologyのスピンオフ企業として2022年に設立された、エストニアに本拠を置くバイオテクノロジー企業である。同社は、おが屑や農業残渣などのリグノセルロース系バイオマスを原料とし、独自の酵母菌株を用いた精密発酵技術により、パーム油や動物性脂肪の代替となる微生物油脂を生産している。",
+    "概要2": "同技術は、「レッドバグ」と呼ばれる独自の酵母菌株を用いて、リグノセルロース系バイオマスに含まれるセルロース糖を脂質に変換する精密発酵プロセスである。酵母菌株は自然進化により耐性と効率性が向上しており、おが屑、糖蜜、ホエイ、醸造粕などの産業副産物を炭素源として利用する。350 Lバイオリアクターでの食品グレード生産が可能であり、最終製品は脂質含有率約60%の酵母バイオマスであり、タンパク質、繊維、アミノ酸も含有する。粉末形態または液状・固形脂肪として提供される。",
+    "概要3": "同技術により生産される微生物油脂は、パーム油と類似した栄養プロファイルを持ち、さらにオメガ3脂肪酸を含む健康的な多価不飽和脂肪酸、抗酸化物質、色素を含有する。液状製品はパーム油に、固形製品は鶏脂に近い組成を示す。環境面では、従来のパーム油生産と比較して土地使用量を97%削減し、水使用量を10分の1に削減する。また、生産速度は発酵により10倍高速化される。2024年後半から2025年中旬にかけて、実験室規模から300倍のスケールアップとなる1トンの生産を達成した。",
+    "概要4": "植物性代替食品のパティやベーカリー製品への利用が可能である。また、化粧品、家庭用品、動物飼料への応用も検討されている。将来的には、合成生物学を用いてEPAやDHAなどのオメガ3脂肪酸を高含有する高付加価値脂質の開発も計画されている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・パーム油や動物性脂肪の生産は環境負荷が高く、持続可能な代替品が必要とされている\n・従来の植物油生産は土地使用量と水使用量が膨大である\n・EU市場での新規食品承認が必要である",
+    "注目ポイント2": "・リグノセルロース系バイオマス(おが屑、農業残渣)を原料として利用し、産業副産物のアップサイクルを実現している\n・独自の酵母菌株「レッドバグ」は自然進化により耐性と効率性が向上しており、特許取得済みである\n・土地使用量97%削減、水使用量10分の1削減、生産速度10倍という顕著な環境性能を実現している\n・脂質含有率約60%の酵母バイオマスを生産し、タンパク質、繊維、アミノ酸も含有する多機能性原料である\n・食品、化粧品、動物飼料への多様な応用が可能である",
+    "注目ポイント3": "・2024年後半から2025年中旬にかけて、実験室規模から300倍のスケールアップとなる1トンの生産を達成した\n・2024年9月にVoima Ventures、2C Ventures、SmartCap、Nordic Foodtech VCから610万ユーロの資金調達を完了した\n・2026年完成予定のデモプラントでは年間数十トンの生産が計画されている\n・将来的に年間2,000トンの商業生産施設の設立を目指している"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:パイロット/実証段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://aio.bio/",
+    "発表年または出願年": "2022年",
+    "代表的な図のURL": "",
+    "図の掲載ページURL": ""
+  },
+  "組織情報": {
+    "組織名": "Äio Tech OÜ",
+    "組織タイプ": "スタートアップ企業(大学スピンオフ)",
+    "国名": "エストニア",
+    "組織設立年": "2022年",
+    "組織URL": "https://aio.bio/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://aio.bio/",
+    "情報ソースURL_2": "https://agfundernews.com/meet-the-founders-aio-looks-to-upcycled-feedstocks-to-fuel-biomanufacturing-platform",
+    "情報ソースURL_3": "https://insights.figlobal.com/ingredients/io-fermenting-fats-future",
+    "情報ソースURL_4": "https://www.greenqueen.com.hk/estonia-aio-palm-oil-fats-alternative-yeast-fermentation-funding/",
+    "情報ソースURL_5": "https://investinestonia.com/estonian-biotech-aio-secures-e6-1m-for-sustainable-oil-production/",
+    "情報ソースURL_6": "https://www.eu-startups.com/2025/07/estonian-biotech-developer-aio-secures-e1-million-to-develop-greener-alternatives-in-cosmetics-products/",
+    "情報ソースURL_7": "https://aio.bio/foodtech/good-fat-works/",
+    "情報ソースURL_8": "https://aio.bio/foodtech/aio-fibenol-piloting-microbial-oil-production/",
+    "情報ソースURL_9": "https://techfundingnews.com/estonian-aio-lands-e1m-to-turn-industry-waste-into-the-future-of-sustainable-beauty/",
+    "情報ソースURL_10": "https://tech.eu/2023/09/19/estonian-startup-aio-sustainable-alternative-to-palm-and-coconut-oil/",
+    "情報ソースURL_11": "https://estonianworld.com/business/estonian-food-tech-startup-aio-secures-e6-million-for-demo-plant/",
+    "情報ソースURL_12": "https://taltech.ee/en/news/estonian-start-raised-1-million-euros-create-alternative-oils-and-fats",
+    "情報ソースURL_13": "https://bioenergyinternational.com/aio-produces-first-tonne-of-yeast-based-alternative-to-traditional-oils/",
+    "情報ソースURL_14": "https://renewable-carbon.eu/news/biotechnology-company-aio-successfully-produces-first-tonne-of-its-yeast-based-alternative-to-traditional-oils-for-cosmetics-and-food-applications/",
+    "情報ソースURL_15": "https://www.proteinproductiontechnology.com/post/aio-achieves-major-milestone-with-10-000-liter-production-of-sustainable-fats-and-oils",
+    "情報ソースURL_16": "https://vegconomist.com/investments-finance/aio-awarded-1m-development-yeast-based-oils-cosmetics-applications/",
+    "情報ソースURL_17": "https://tradewithestonia.com/estonian-biotech-startup-aio-introduced-novel-foods-in-tallinn/",
+    "情報ソースURL_18": "https://innovationsoftheworld.com/aio-from-vision-to-realitythe-story-of-aio/",
+    "情報ソースURL_19": "https://www.vestbee.com/blog/articles/aio-secures-6-1-m",
+    "情報ソースURL_20": "https://vegconomist.com/ingredients/estonias-aio-first-tonne-yeast-based-alternative-traditional-oils/"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "基本情報": {
+    "ID": "6",
+    "タイトル": "AIを活用した需要予測システムと温度管理型サプライチェーンにより、農場から飲食店へ新鮮野菜と半加工食品を供給するB2Bプラットフォーム「Fambo」",
+    "概要1": "インドのFambo Innovation Private Limitedは、2022年にAkshay Tripathi、Sudarshan Satle、Sushanta Kumarにより設立された、ノイダに本拠を置くフードテック企業である。同社は、GAP認証農場から調達した新鮮な農産物を、マイクロプロセッシングセンターで半加工し、レストラン、ホテル、クラウドキッチンなどのHoReCaセクターに供給するB2Bプラットフォームを運営している。",
+    "概要2": "同プラットフォームは、AIを活用した需要予測システムと物流計画の最適化により、レストランの在庫管理を効率化し、食品廃棄を削減する。75エーカー以上のGAP認証農場を有する農場ネットワークと連携し、4,000人以上の農家から年間12,000トン以上の農産物を調達する。ノイダのマイクロプロセッシングセンターでは、温度管理設備と自動化システムを用いて、カット野菜、サラダボックス、ビリヤニミックス、ソース、チャツネ、冷凍食品などの顧客仕様に合わせた半加工食品を製造する。同施設は、GAP、FSSAI、ISO、NSF、Global GAPの認証を取得しており、食品安全トレーニングを受けたスタッフにより管理されている。",
+    "概要3": "同プラットフォームは、AI駆動型物流計画により最適化された温度管理型配送ネットワークを通じて、冷蔵および冷凍食品の鮮度を維持しながら、農場から飲食店までの完全なトレーサビリティを確保する。同社は、北・中央インドにおいて1,000以上のレストラン・クラウドキッチンにサービスを提供し、McDonald's、Burger King、Burger Singh、California Burrito、Nomad Pizza、Barbeque Nationを含む50以上の主要クライアントを有する。2025年10月時点で、同社はFY25に20.3億ルピーの売上を達成し、FY26上半期に21億ルピーの売上を記録し、収益性を維持している。",
+    "概要4": "同プラットフォームは、ファストフードチェーン、ピザ店、中華料理店、企業食堂、バーベキューチェーン、ビリヤニブランド、南インド料理店、航空会社向けのケータリングなど、幅広い飲食業態における食材供給に適用されている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・インドの農場から飲食店への食品サプライチェーンは高度に断片化されており、鮮度の低下、食品廃棄、品質の不安定性が課題となっていた。\n・従来の食品流通は、中間業者が多く、トレーサビリティの欠如と温度管理の不備により、食品安全性の確保が困難であった。",
+    "注目ポイント2": "・同プラットフォームは、AI駆動型の需要予測システムにより、レストランの在庫管理を効率化し、食品廃棄を削減する。\n・75エーカー以上のGAP認証農場との直接連携により、作物計画段階からの品質管理とトレーサビリティを実現している。\n・マイクロプロセッシングセンターでの自動化と温度管理により、顧客仕様に合わせた半加工食品を効率的に製造する。\n・GAP、FSSAI、ISO、NSF、Global GAPの認証を取得し、食品安全基準への適合性を確保している。\n・AI最適化された温度管理型物流ネットワークにより、冷蔵・冷凍食品の鮮度を維持しながら配送コストを削減する。",
+    "注目ポイント3": "・同社は、2025年1月にEV2 Ventures主導で21億ルピーの資金調達を実施した。\n・同社は、2025年10月にNABVENTURES管理のAgriSURE Fund主導で21.55億ルピーのシリーズA資金調達を完了した。\n・同社は、FY26第2四半期に50億ルピーのARR達成を目標としている。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://fambo.in/",
+    "発表年または出願年": "2022年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Fambo Innovation Private Limited",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "インド",
+    "組織設立年": "2022年",
+    "組織URL": "https://www.fambo.in/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://fambo.in/",
+    "情報ソースURL_2": "https://inc42.com/startups/can-fambo-fix-indias-broken-food-supply-chains/",
+    "情報ソースURL_3": "https://arabfounders.net/en/fambo-raises-2-4m-series-a-agrisure-fund/",
+    "情報ソースURL_4": "https://mediabrief.com/fambo-raises-%E2%82%B921-55-crore-in-funding-round-led-by-agrisure-fund-and-ev2-ventures/",
+    "情報ソースURL_5": "https://startuptalky.com/news/fambo-raises-series-a-funding/",
+    "情報ソースURL_6": "https://www.entrepreneur.com/en-in/news-and-trends/food-solutions-startup-fambo-secures-inr-2155-cr-funding/498888",
+    "情報ソースURL_7": "https://entrackr.com/snippets/fambo-raises-rs-2155-cr-series-a-round-led-by-agrisure-fund-10602888",
+    "情報ソースURL_8": "https://tracxn.com/d/companies/fambo/__LjA2qhbYaDWlpdvAI7wnnhQrTehkLsfVeCv0nwq1lY4",
+    "情報ソースURL_9": "https://app.dealroom.co/companies/fambo_1",
+    "情報ソースURL_10": "https://in.linkedin.com/company/famboinn",
+    "情報ソースURL_11": "https://www.bloomberg.com/profile/company/2542344D:IN",
+    "情報ソースURL_12": "https://www.kitchenherald.com/fambo-raises-rs-21-crore-in-pre-series-to-transform-food-service-industry-with-innovative-solutions/",
+    "情報ソースURL_13": "https://hdfcsky.com/news/fambo-secures-fresh-funding-of-rs-21-55-crore",
+    "情報ソースURL_14": "https://www.businessoutreach.in/fambo-raises-fund-to-scale-up-agritech/",
+    "情報ソースURL_15": "https://entrackr.com/snippets/foodtech-startup-fambo-raises-rs-21-cr-in-pre-series-a-funding-8626412",
+    "情報ソースURL_16": "https://www.zaubacorp.com/FAMBO-INNOVATION-PRIVATE-LIMITED-U72900UP2022PTC160501",
+    "情報ソースURL_17": "https://www.thecompanycheck.com/company/fambo-innovation-private-limited/U72900UP2022PTC160501",
+    "情報ソースURL_18": "https://www.indiamart.com/fambo-innovation-private-limited/",
+    "情報ソースURL_19": "https://pvtltdcompany.co.in/company/fambo-innovation-private-limited/u72900up2022ptc160501/",
+    "情報ソースURL_20": "https://www.tofler.in/fambo-innovation-private-limited/company/U72900UP2022PTC160501"
+  },
+  "分類": {
+    "技術分野": "フードテック;アグリテック;サプライチェーン管理",
+    "製品カテゴリ": "B2B食品供給プラットフォーム;半加工食品;新鮮野菜",
+    "主要技術": "AI需要予測;温度管理型物流;トレーサビリティシステム"
+  }
+}

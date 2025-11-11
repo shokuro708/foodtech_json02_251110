@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "010",
+    "タイトル": "KUKAロボットアームとインピンジメントオーブン、バックエンドソフトウェアを用いた自動化ファストフードレストランシステム「Counter Service」",
+    "概要1": "米国のKernel Foods, Inc.は、Chipotle Mexican Grillの創業者であるSteve Ellsが2023年に設立したファストフードレストラン運営企業である。同社は、ロボット技術とセントラルキッチンを活用した植物ベースのファストフードチェーン「Kernel」として2024年2月にニューヨークで開業し、2025年4月にベジタブルフォワードなサンドイッチコンセプト「Counter Service」にリブランドした。",
+    "概要2": "同システムは、セントラルキッチンで調理した食材を複数の小規模サテライト店舗に供給するハブアンドスポークモデルを採用する。当初の「Kernel」では、KUKA社のKR 10 AGILUS R1100 HO（Hygienic Oil）ロボットアームが、予め調理済みの食材トレイをラックシステムから自動コンベアベルトに搬送し、インピンジメントオーブンで加熱した後、別のコンベアベルトに載せて従業員が最終組み立てを行う。また、WebサイトおよびiOS/Androidアプリによるデジタルオーダリングシステムと、スマートロッカーによる非接触ピックアップシステムを提供する。",
+    "概要3": "同システムは、従来のファストフードレストランが12人の従業員を要するのに対し、3人で運営可能であり、従業員の時給は25ドルとニューヨーク市の最低賃金を上回る。顧客はWebサイトまたはアプリで注文し、正確な受け取り時間が分単位で通知され、準備完了時にはテキストまたはメールで連絡を受ける。2025年4月の「Counter Service」へのリブランドでは、顧客向けロボットをバックエンドに移動し、予測分析と機械学習を活用したソフトウェアによる在庫管理、注文フロー、スタッフ配置の最適化に注力している。",
+    "概要4": "同システムは、ニューヨーク市内の複数店舗で展開されており、2026年にはさらに4店舗の開業が計画されている。ハブアンドスポークモデルにより、小規模店舗（800-1,200平方フィート）での効率的な運営を実現し、セントラルキッチンから最大25店舗への供給が可能である。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来のファストフードレストランは、多数の従業員を必要とし、複雑な厨房機器と換気システムを要するため、店舗運営コストが高く、人材確保が課題となっていた。\n・ロボット技術を導入したレストランは、顧客体験において技術が前面に出すぎると、逆に受け入れられにくいという課題があった。",
+    "注目ポイント2": "・同システムは、KUKA社の多軸ロボットアームと独自開発のソフトウェア、自動化技術を組み合わせることで、運営を簡素化する。\n・ハブアンドスポークモデルにより、セントラルキッチンでの集中調理と小規模サテライト店舗での提供を実現し、厨房換気設備が不要な電気インピンジメントオーブンのみで運営できる。\n・「Counter Service」へのリブランドでは、バックエンドソフトウェアによる予測分析と機械学習を用いて、在庫管理、注文フロー、スタッフ配置を最適化し、技術が見えない顧客体験を提供する。",
+    "注目ポイント3": "・同社は、2024年3月にRaga Partners、Willoughby Capital、Rethink Food、Virtuなどから3,600万ドルのシリーズA資金調達を完了した。\n・同社は、2024年2月にニューヨークのPark Avenue Southに第1号店を開業し、2025年には「Counter Service」として複数店舗を展開している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.kuka.com/en-us/industries/solutions-database/2024/12/kernel-foods",
+    "発表年または出願年": "2024年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Kernel Foods, Inc.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "米国",
+    "組織設立年": "2023年",
+    "組織URL": "https://counterservice.com/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.kuka.com/en-us/industries/solutions-database/2024/12/kernel-foods",
+    "情報ソースURL_2": "https://www.restaurantbusinessonline.com/operations/how-humans-robots-get-along-steve-ells-kernel",
+    "情報ソースURL_3": "https://www.restaurantbusinessonline.com/emerging-brands/steve-ells-startup-kernel-being-reborn-sandwich-concept",
+    "情報ソースURL_4": "https://www.restaurantbusinessonline.com/emerging-brands/counter-service-chipotle-founder-steve-ells-has-found-new-groove",
+    "情報ソースURL_5": "https://foodondemand.com/02262024/chipotle-founder-steve-ells-wants-to-change-the-way-restaurants-operate-with-kernel/",
+    "情報ソースURL_6": "https://foodondemand.com/04102025/steve-ells-startup-kernel-axes-robots-and-rebrands/",
+    "情報ソースURL_7": "https://www.crunchbase.com/organization/kernel-foods",
+    "情報ソースURL_8": "https://www.cbinsights.com/company/kernel-foods",
+    "情報ソースURL_9": "https://www.restaurantbusinessonline.com/technology/chipotle-founder-steve-ells-developing-new-automated-restaurant-be-called-kernel",
+    "情報ソースURL_10": "https://www.expedite.news/p/kernels-robots-take-indefinite-leave",
+    "情報ソースURL_11": "https://nyunews.com/culture/dining/2025/03/21/counter-service",
+    "情報ソースURL_12": "https://www.axios.com/2024/03/11/chipotle-founder-kernel-robots-vegan-new-restaurant",
+    "情報ソースURL_13": "https://fortune.com/2024/03/22/kernel-restaurant-nyc-vegan-robot-kuka-steve-ells/",
+    "情報ソースURL_14": "https://totalfood.com/kernel-restaurant-nyc-behind-the-kitchen-options/",
+    "情報ソースURL_15": "https://foodondemand.com/10082025/steve-ells-counter-service-expands-to-nycs-upper-east-side/",
+    "情報ソースURL_16": "https://www.mensjournal.com/food/chipotle-founder-launches-restaurant-concept-aiming-to-reinvent-the-sandwich-market",
+    "情報ソースURL_17": "https://thespoon.tech/less-robots-more-turkey-chipotle-founders-big-pivot/",
+    "情報ソースURL_18": "https://canvasbusinessmodel.com/blogs/how-it-works/kernel-foods-how-it-works",
+    "情報ソースURL_19": "https://www.restaurantbusinessonline.com/operations/steve-ells-raises-36m-new-kernel",
+    "情報ソースURL_20": "https://thespoon.tech/robot-restaurant-concepts-have-struggled-will-kernel-buck-the-trend/"
+  }
+}
