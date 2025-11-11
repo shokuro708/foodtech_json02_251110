@@ -1,0 +1,58 @@
+{
+  "基本情報": {
+    "ID": "29",
+    "タイトル": "農産業廃棄物から生産したPHAバイオポリマーを用いた繊維ベース包装用バリアコーティング",
+    "概要1": "米国のバイオポリマー技術開発企業であるRETRN Bioworks Inc.は、農産業廃棄物（麦ぬかや製紙廃棄物など）をアップサイクルし、調整可能で機能化可能なポリヒドロキシアルカノエート（Polyhydroxyalkanoate:PHA）バイオポリマーを生産し、繊維ベース包装向けのバリアコーティングを開発している。",
+    "概要2": "同技術は、醸造所から排出される麦ぬかや製紙工場の余剰廃棄物などの低コストな農産業廃棄物を原料として、バクテリアによる生物工学的プロセスを用いてPHAコポリマーとブレンドを生産する。同技術により生産されたPHAポリマーは、異なる用途や製造プロセスに合わせて特性を調整可能であり、繊維ベース包装材料の表面に塗布するバリアコーティングとして機能する。同コーティングは、コーヒーカップやテイクアウト容器などの紙製食品包装において、従来の石油由来プラスチックライナーの代替として適用される。",
+    "概要3": "同技術により生産されたバリアコーティングは、リパルプ可能、家庭堆肥化可能、海洋生分解性を有する特性を持ち、繊維ベース包装のリサイクル性と堆肥化可能性を向上させる。同コーティングは、複数の繊維ベース包装製造ラインの要件に対応可能な調整性を持ち、製造コストを増加させることなく環境適合性を実現する。廃棄物資源からのPHA生産により、石油由来プラスチックの代替に必要な技術的課題に対処し、生産コストの削減と持続可能性の向上を可能にする。",
+    "概要4": "同技術は、紙製コーヒーカップ、テイクアウト容器、その他の繊維ベース食品包装製品において、石油由来プラスチックライナーを代替する用途を対象としている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来のPHA生産は、コストが高く持続可能性に課題があり、包装用途における石油由来プラスチックの代替を妨げていた。\n・紙製包装に使用される石油由来プラスチックライナーは、リサイクル性と堆肥化可能性を阻害し、プラスチック汚染の原因となっていた。",
+    "注目ポイント2": "・同技術は、醸造所や製紙工場から排出される豊富な農産業廃棄物をアップサイクルし、廃棄物資源からPHAバイオポリマーを生産することで、原料コストを削減する。\n・同技術により生産されるPHAポリマーは、異なる製造プロセスや用途に合わせて特性を調整可能な独自技術を有する。\n・同バリアコーティングは、リパルプ可能、家庭堆肥化可能、海洋生分解性を同時に実現し、繊維ベース包装の環境適合性を向上させる。",
+    "注目ポイント3": "・同社は、National Science Foundation（NSF）からI-Corpsプログラムの支援を受け、Phase I STTRを獲得した（2021年）。\n・同社は、130万ドルの助成金をUSDA/NIFA、NSF STTR、FuzeHub、Venture For ClimateTechなどから調達し、Venture For ClimateTech Cohort 4に選出された（2024年5月）。\n・同社は、Cornell UniversityのCenter for Life Science Venturesインキュベーターに参加し、研究開発とビジネス計画の強化を進めている（2024年6月）。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://lifescienceventures.cornell.edu/2024/06/10/startup-aiming-to-reduce-plastic-reliance-joins-cornell-incubator/",
+    "発表年または出願年": "2024",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "RETRN Bioworks Inc.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "米国",
+    "組織設立年": "2023",
+    "組織URL": "https://www.retrnbio.com/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://lifescienceventures.cornell.edu/2024/06/10/startup-aiming-to-reduce-plastic-reliance-joins-cornell-incubator/",
+    "情報ソースURL_2": "https://news.cornell.edu/stories/2024/06/startup-aiming-reduce-plastic-reliance-joins-cornell-incubator",
+    "情報ソースURL_3": "https://www.in-icorps.org/syracuse-startup-battling-plastic-pollution-creates-8-local-jobs-raises-1-3m/",
+    "情報ソースURL_4": "https://forclimatetech.org/retrn-bioworks-inc/",
+    "情報ソースURL_5": "https://lifescienceventures.cornell.edu/companies/retrn-bio/",
+    "情報ソースURL_6": "https://www.cbinsights.com/company/retrn-bioworks",
+    "情報ソースURL_7": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2146711",
+    "情報ソースURL_8": "https://www.globenewswire.com/en/news-release/2024/05/29/2889937/0/en/20-High-Impact-Companies-Selected-to-Join-Cohort-4-of-Venture-for-ClimateTech-to-Curb-Greenhouse-Gas-Emissions.html",
+    "情報ソースURL_9": "https://www.ststartup.com/2024/06/20/retrn-bio-joins-cornells-center-for-life-science-ventures-incubator/",
+    "情報ソースURL_10": "https://www.retrnbio.com/",
+    "情報ソースURL_11": "",
+    "情報ソースURL_12": "",
+    "情報ソースURL_13": "",
+    "情報ソースURL_14": "",
+    "情報ソースURL_15": "",
+    "情報ソースURL_16": "",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  },
+  "分類": {
+    "技術分野": "バイオポリマー;生分解性プラスチック;バリアコーティング",
+    "原料": "農産業廃棄物;麦ぬか;製紙廃棄物",
+    "用途": "食品包装;コーヒーカップ;テイクアウト容器",
+    "環境特性": "堆肥化可能;リパルプ可能;海洋生分解性"
+  }
+}

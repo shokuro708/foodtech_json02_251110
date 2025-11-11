@@ -1,0 +1,56 @@
+{
+  "基本情報": {
+    "ID": "27",
+    "タイトル": "乳腺細胞培養による細胞分泌ミルクの生産技術",
+    "概要1": "ドイツのバイオテクノロジーベンチャー企業Senara GmbHは、動物から採取したミルクから乳腺細胞を選別し、カスタム設計したバイオリアクターで培養して、細胞が分泌するミルクを収穫する細胞培養ミルク生産技術を開発している。",
+    "概要2": "同技術は、動物の生体から細胞を採取するのではなく、動物が生産したミルクから乳腺細胞を選別し、バイオリアクター内で培養する。同技術は、培養した細胞が分泌するミルクを直接収穫するため、培養肉のようにバイオマスからタンパク質を分離する工程を必要としない。同社は、乳腺細胞の成長と寿命を最適化するために、特許出願中のカスタムバイオリアクターを開発した。同バイオリアクターは、連続的で高スループットなプロセスを実現し、生産コストを削減する。同技術は、遺伝子組み換えを使用せず、細菌や酵母を含まないミルクを生産する。",
+    "概要3": "同技術により生産されるミルクは、従来のミルクと同じ栄養プロファイル（乳糖、カゼイン、ホエイ、微量栄養素）を有する。同技術は、バイオリアクター内で直接、A2タンパク質を豊富に含むミルクや乳糖フリーのミルクを生産することが可能であり、追加の酵素処理を必要としない。同技術により生産されるミルクは、細菌や酵母を含まないため、従来のミルクと比較して冷却の必要性が低い。同社は、100リットルのパイロット規模バイオリアクターで稼働しており、2025年初頭に前工業規模バイオリアクターシステムの稼働を予定している。",
+    "概要4": "同技術により生産されるミルクは、飲用ミルク、ヨーグルト、クリーム、チーズ、アイスクリーム、チョコレート菓子などの乳製品への応用を意図している。同社は、牛だけでなく、山羊、羊、ロバ、水牛、バイソンなど多様な動物のミルク生産を計画している。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の乳製品生産は動物からの搾乳を必要とし、環境負荷が高いことが課題であった。\n・一部の消費者は乳糖不耐症やA1タンパク質による消化の問題を抱えており、従来のミルクを消化できないことが課題であった。",
+    "注目ポイント2": "・同技術は、動物の生体からではなく、ミルクから乳腺細胞を選別することで、動物への介入を最小限に抑え、最も効率的な細胞を選択する。\n・同技術は、細胞が分泌するミルクを直接収穫するため、バイオマスからのタンパク質分離工程が不要であり、エネルギー効率が高い。\n・同技術は、バイオリアクター内で直接A2タンパク質を豊富に含むミルクや乳糖フリーのミルクを生産でき、追加の酵素処理を必要としない。",
+    "注目ポイント3": "・同社は、FoodBev's World Cell-Based Innovation Awards 2023においてMakeItMatter-AwardおよびBest Cell-Based Drinkを受賞した。\n・同社は、Positron Ventures、PurpleOrange Ventures、Partners in Clime、Black Forest Business Angels、SquareOne Foodsから投資を受けている。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "WEBメディア",
+    "主要情報ソースURL": "https://www.greenqueen.com.hk/senara-cell-cultured-dairy-lab-grown-milk/",
+    "発表年または出願年": "2023",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Senara GmbH",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "ドイツ",
+    "組織設立年": "2022",
+    "組織URL": "https://www.senara.bio"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.greenqueen.com.hk/senara-cell-cultured-dairy-lab-grown-milk/",
+    "情報ソースURL_2": "https://www.gulfood.com/insights/blending-tradition-innovation-senara-emerges-stealth-europes-first-cultured-dairy-startup",
+    "情報ソースURL_3": "https://cultivated-x.com/interviews/senara-cultivated-cow-milk-without-cow-opportunities-virtually-limitless/",
+    "情報ソースURL_4": "https://vegconomist.com/cultivated-cell-cultured-biotechnology/senara-cell-cultivated-milk-technology-produce-real-milk/",
+    "情報ソースURL_5": "https://www.foodnavigator.com/Article/2023/12/11/senara-cultivated-milk-start-up-emerges-from-stealth-mode/",
+    "情報ソースURL_6": "https://www.eitfood.eu/community/startups/eitfoodacceleratornetwork-senara",
+    "情報ソースURL_7": "https://cultivated-x.com/milk-and-dairy/senara-ceo-producing-cell-cultivated-milk/",
+    "情報ソースURL_8": "https://cultivated-x.com/organisations_and_brands/senara/",
+    "情報ソースURL_9": "https://insights.figlobal.com/foodtech/senara-s-biotech-solution-for-sustainable-animal-free-milk",
+    "情報ソースURL_10": "https://www.thecellbase.com/news/senara-unveils-cell-based-milk-technology",
+    "情報ソースURL_11": "https://de.linkedin.com/company/senaradairy",
+    "情報ソースURL_12": "https://tracxn.com/d/companies/senara/__wxBMlzX7FNlMGRhWhzQyUaoCEuYjpLiP9Gp9nUfVSoI",
+    "情報ソースURL_13": "https://pitchbook.com/profiles/company/515269-18",
+    "情報ソースURL_14": "https://www.thenew.money/article/europes-first-cell-cultivated-milk",
+    "情報ソースURL_15": "https://meat-milk.ro/en/article/a-inceput-productia-de-lapte-obtinut-prin-cultivare-celulara-in-magazine-va-fi-din-2028-jXaBt8a3",
+    "情報ソースURL_16": "",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  },
+  "分類": {
+    "技術分野": "細胞培養;乳製品;代替タンパク質",
+    "製品カテゴリ": "飲用ミルク;ヨーグルト;クリーム;チーズ;アイスクリーム"
+  }
+}

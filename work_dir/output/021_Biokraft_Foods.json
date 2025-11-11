@@ -1,0 +1,57 @@
+{
+  "基本情報": {
+    "ID": "21",
+    "タイトル": "3Dバイオプリンティングと藻類ベースバイオポリマーを用いた培養チキンおよび培養マス",
+    "概要1": "インドのフードテック系ベンチャー企業Biokraft Foods Private Limitedは、3Dバイオプリンティング技術と細胞生物学を組み合わせ、不死化チキン細胞と藻類ベースバイオポリマーから培養チキンを開発している。同社は、Indian Council of Agricultural Research - Central Institute of Coldwater Fisheries Research（ICAR-CICFR）との共同研究により、レインボートラウトの培養マスフィレも開発している。",
+    "概要2": "同技術は、不死化チキン細胞を抗生物質フリーの栄養培地で培養し、同細胞を藻類ベースおよび植物ベースのバイオポリマーと組み合わせた食品グレードのバイオインクを使用する。同社は、独自開発したバイオインクに含まれる成分により、チキン肉の感覚的特性と物理的特性を再現し、3Dバイオプリンティング技術を用いて最終的なチキンブレスト構造を製造する。培養マスについても、同社の独自3Dバイオプリンティング技術とバイオインク技術を活用し、ネイティブなインド種のトラウト細胞株から、ホールカットの培養フィレを製造する。",
+    "概要3": "同技術は、従来のチキン肉およびマス肉の味、食感、栄養プロファイルを再現することが可能である。同社の3Dバイオプリンティング技術は、懸濁培養やモールディングなどの他の手法と比較して高い精度を提供し、自然な肉の質感と構造を正確に再現することで廃棄物を削減し、さらなる加工の必要性を低減する。同社は、400件以上の消費者トライアルを実施し、肯定的な結果を得ている。",
+    "概要4": "同製品は、持続可能性を重視する消費者、食品メーカー、レストラン、次世代タンパク質代替品を求める小売業者を対象としている。同社は、2026年までに培養チキンと培養マスの両製品の商業化を目指している。",
+    "概要5": ""
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の畜産業は環境負荷と倫理的課題があり、培養肉は動物を屠殺せずに肉を生産する代替手段として注目されていた。\n・インドにおいてマスなどの冷水魚は地理的・気候的制約により入手可能性が限られており、コストとアクセシビリティが課題となっていた。",
+    "注目ポイント2": "・同技術は、不死化チキン細胞を抗生物質フリーの栄養培地で培養し、藻類ベースおよび植物ベースのバイオポリマーを用いたバイオインクと組み合わせて3Dバイオプリンティングする。\n・同技術は、精密な3Dバイオプリンティング技術により、チキン肉およびマス肉の構造、味、食感、栄養プロファイルを正確に再現する。\n・同社は、培養チキンに加え、ICAR-CICFRとの共同研究により、インド固有種であるレインボートラウトから魚類細胞株を開発し、培養マスフィレを開発した。",
+    "注目ポイント3": "・同社は、2024年12月にインド初の培養肉の公開試食会をムンバイで開催し、30名以上の業界関係者が参加した。\n・同社は、ICT Mumbai、SP-TBI、iCreateからインキュベーション支援を受け、2025年9月にGVFLから2クロールルピー（約23万ドル）のプレシード資金調達を実施した。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.biokraftfoods.com/",
+    "発表年または出願年": "2023",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Biokraft Foods Private Limited",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "インド",
+    "組織設立年": "2023",
+    "組織URL": "https://www.biokraftfoods.com/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.biokraftfoods.com/",
+    "情報ソースURL_2": "https://vegconomist.com/cultivated-cell-cultured-biotechnology/cultivated-meat/biokraft-foods-cultivated-chicken-at-indias-first-ever-public-tasting-cultivated-meat/",
+    "情報ソースURL_3": "https://www.greenqueen.com.hk/biokraft-foods-lab-grown-meat-cultivated-chicken-india-fssai/",
+    "情報ソースURL_4": "https://aim2flourish.com/innovations/revolutionizing-food-production-biokraft-foods-journey-towards-sustainable-cultivated-meat",
+    "情報ソースURL_5": "https://vegconomist.com/cultivated-cell-cultured-biotechnology/cultivated-seafood/biokraft-foods-india-cultivated-trout-fillet/",
+    "情報ソースURL_6": "https://www.foodnavigator-asia.com/Article/2025/06/03/biokraft-foods-2026-cultivated-seafood-launch/",
+    "情報ソースURL_7": "https://vegconomist.com/investments-finance/indias-biokraft-foods-raise-high-quality-cultivated-meat/",
+    "情報ソースURL_8": "https://cultivated-x.com/meat/biokraft-foods-cultivated-chicken-at-indias-first-ever-public-tasting-cultivated-meat/",
+    "情報ソースURL_9": "https://www.betterbioeconomy.com/p/biokraft-foods-is-using-3d-bioprinting",
+    "情報ソースURL_10": "https://nuffoodsspectrum.in/2025/04/15/biokraft-foods-launches-cultivated-trout-fillets-in-collaboration-with-icar-cicfr.html",
+    "情報ソースURL_11": "https://cultivated-x.com/seafood/biokraft-foods-india-cultivated-trout-fillet/",
+    "情報ソースURL_12": "https://www.foodnavigator-asia.com/Article/2025/02/03/sixty-percent-of-consumers-in-india-are-willing-to-consume-cultivated-meat-and-46-percent-would-pay-a-premium-for-it-according-to-a-survey-by-biokraft-foods-a-biotech-start-up-aiming-to-leverage-this-interest-by-launching-3d-printed-chicken-in-2025/",
+    "情報ソースURL_13": "https://indianstartupnews.com/funding/venture-capital-firm-gvfl-invests-rs-2-crore-in-foodtech-startup-biokraft-foods-10279329",
+    "情報ソースURL_14": "https://startupnews.fyi/2025/09/13/biokraft-raises-rs-2-cr-in-pre-seed-round-from-gvfl/",
+    "情報ソースURL_15": "https://www.foodbusinessmea.com/biokraft-foods-to-launch-indias-first-3d-printed-cultivated-rainbow-trout-fillet/",
+    "情報ソースURL_16": "https://seafoodofindia.com/indias-biokraft-foods-unveils-cultivated-trout-targeting-2026-commercial-rollout/",
+    "情報ソースURL_17": "https://www.indianweb2.com/2025/09/gvfl-backs-biokrafts-vision-for-ethical.html",
+    "情報ソースURL_18": "https://www.whatiscultivatedmeat.com/post/the-first-public-tasting-of-cultivated-meat-in-mumbai",
+    "情報ソースURL_19": "https://cultivatedmeats.org/indians-get-a-taste-of-cultivated-meat/",
+    "情報ソースURL_20": "https://www.entrepreneur.com/en-in/news-and-trends/crion-technologies-biokraft-foods-and-peakamp-raise/497094"
+  },
+  "分類": {
+    "技術分野": "3Dバイオプリンティング;細胞培養;バイオプロセスエンジニアリング;セルラーアグリカルチャー",
+    "製品カテゴリ": "培養チキン;培養マス"
+  }
+}
