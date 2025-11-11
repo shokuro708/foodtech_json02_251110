@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "078",
+    "タイトル": "細胞株、培地、バイオリアクターを統合した細胞農業技術プラットフォーム「BlueCell」による細胞培養タコ・魚類・軟体動物の開発",
+    "概要1": "ポルトガルのディープテックバイオテクノロジースタートアップCell4Food, SAは、細胞農業技術を用いてタコ・魚類・甲殻類・軟体動物の細胞培養食品を製造する技術プラットフォーム「BlueCell」を開発している。同社は、細胞培養タコの開発に取り組む世界唯一の企業である。",
+    "概要2": "同技術は、海洋生物から採取した細胞を分離・培養し、専用に調整された培地とバイオリアクターシステムを用いて増殖・分化させることで、細胞培養シーフードバイオマスを生産する。同技術は、細胞株の確立、培養条件の最適化、スケールアップのためのバイオリアクター設計を統合したプラットフォームとして機能する。同技術では、魚類細胞が低酸素条件に対する耐性を有することを利用し、哺乳類細胞と比較して積極的な酸素供給の必要性を低減する。",
+    "概要3": "同技術は、従来の水産養殖と比較して土地・水資源の使用を最小化し、汚染を削減し、生物多様性を保全する環境持続可能性を実現する。同技術は、動物の屠殺を必要としない動物福祉への配慮、管理された生産環境による食品安全性の向上、気候関連の混乱の影響を受けにくいスケーラビリティを特徴とする。同社は、B2Bライセンスビジネスモデルにより、開発した細胞培養シーフード技術を他企業にライセンス供与する。",
+    "概要4": "同技術は、持続可能で倫理的なシーフード代替品の製造を目的としており、特にタコ・魚類・軟体動物の細胞培養製品の開発に適用されている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の水産養殖は大規模な施設を必要とし、水資源の大量使用、汚染の発生、生物多様性への影響が課題となっていた。\n・タコは英国の動物福祉法（2022年）において感覚を持つ生物として認識され、倫理的な観点から代替手段の必要性が高まっていた。",
+    "注目ポイント2": "・同社は、細胞株、培地、バイオリアクターシステムを統合した技術プラットフォーム「BlueCell」により、海洋生物由来の細胞培養食品バイオマスを製造する。\n・同社は、タコの細胞培養に特化した研究開発を行っており、2023年時点で細胞培養タコの製造を発表した世界唯一の企業である。\n・同社は、University of Porto（CIIMAR）、University of Azores（CBA）、University of Minho（IB-S）、University of Lisbon（IBB IST）との共同研究プロセスを展開している。",
+    "注目ポイント3": "・同社は、2024年6月にポルトガルのベンチャーキャピタルであるPortugal VenturesおよびInsight Ventureから初回シード資金調達ラウンドを完了した。\n・同社は、2025年1月にポルトガルバイオ産業協会（P-BIO）の会員となった。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://cell4food.eu/",
+    "発表年または出願年": "2022",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Cell4Food, SA",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "ポルトガル",
+    "組織設立年": "2022",
+    "組織URL": "https://cell4food.eu/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://cell4food.eu/",
+    "情報ソースURL_2": "https://www.portugalventures.pt/en/portfolio/cell4food/",
+    "情報ソースURL_3": "https://www.ciimar.up.pt/ciimar-agreement-with-cell4food/",
+    "情報ソースURL_4": "https://insightventure.pt/pt-pt/2024/06/17/cell4food/",
+    "情報ソースURL_5": "https://www.hipersuper.pt/2024/06/03/cell4food-conclui-sucesso-primeira-ronda-angariacao-capital",
+    "情報ソースURL_6": "https://cellagri.pt/cellagri2024",
+    "情報ソースURL_7": "https://gfieurope.org/blog/meet-the-researcher-expanding-the-tentacles-of-alternative-seafood-research-with-frederico-ferreira/",
+    "情報ソースURL_8": "https://provegincubator.com/cultivated-octopus/",
+    "情報ソースURL_9": "https://p-bio.org/noticias/cell4food-torna-se-associada-da-p-bio/",
+    "情報ソースURL_10": "https://vozdocampo.pt/2023/03/17/cell4food-1a-empresa-portuguesa-em-agricultura-celular-na-area-alimentar-faz-1-ano/",
+    "情報ソースURL_11": "https://www.crunchbase.com/organization/cell4food",
+    "情報ソースURL_12": "https://tracxn.com/d/companies/cell4food/__U-ngCZHKKxsthtPohjNWSPVTPHdr6ZWz5r7YtrxeSfU",
+    "情報ソースURL_13": "https://pt.linkedin.com/company/cell4food",
+    "情報ソースURL_14": "https://jbioleng.biomedcentral.com/articles/10.1186/s13036-024-00436-1",
+    "情報ソースURL_15": "https://www.rmsbiotechconsulting.com/blog/head-to-head-cultivating-vs-farming-octopus",
+    "情報ソースURL_16": "https://ecosystem.gfi.org/company/cell4food/",
+    "情報ソースURL_17": "https://www.linkedin.com/in/vitorverdelho/",
+    "情報ソースURL_18": "https://www.linkedin.com/in/filipa-soares-research-and-innovation/",
+    "情報ソースURL_19": "https://p-bio.org/en/members/",
+    "情報ソースURL_20": ""
+  }
+}

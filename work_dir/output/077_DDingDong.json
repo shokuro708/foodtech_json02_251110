@@ -1,0 +1,60 @@
+{
+  "基本情報": {
+    "ID": "077",
+    "タイトル": "飲食業界における高度な技術とパーソナライズされたプロモーションでレストランと顧客をつなぐプラットフォーム「DDingDong」",
+    "概要1": "米国Georgia Institute of Technologyの学生が設立したDDingDongは、飲食業界を対象に、高度な技術と効率的なコミュニケーションを活用して、レストランと顧客をパーソナライズされたプロモーションを通じて接続するプラットフォームを開発している。",
+    "概要2": "同プラットフォームは、高度な技術を用いてレストランと顧客間のコミュニケーションを効率化する。同システムは、顧客の行動データや嗜好に基づいてパーソナライズされたプロモーションを生成し、レストランと顧客を接続する。同プラットフォームは、従来の一律的なプロモーション配信ではなく、個々の顧客に最適化されたプロモーションを提供することで、レストランのマーケティング効率を向上させる。",
+    "概要3": "同プラットフォームは、顧客エンゲージメントの向上とレストランの収益増加を実現する。パーソナライズされたプロモーションにより、顧客は自身の嗜好に合った情報を受け取ることができ、レストラン側は効率的なマーケティング施策を実施できる。同プラットフォームは、飲食業界におけるデジタルマーケティングの効率化と顧客体験の向上を可能にする。",
+    "概要4": "同プラットフォームは、飲食業界のレストラン事業者と顧客をターゲットとし、マーケティング効率の向上と顧客エンゲージメントの強化に用いられる。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・飲食業界において、従来の一律的なプロモーション配信は顧客の多様な嗜好に対応できず、マーケティング効率が低いことが課題であった。\n・レストランと顧客間のコミュニケーションが非効率であり、適切なタイミングで適切な情報を届けることが困難であった。",
+    "注目ポイント2": "・同プラットフォームは、高度な技術を用いて顧客データを分析し、個々の顧客に最適化されたパーソナライズプロモーションを生成する。\n・同プラットフォームは、効率的なコミュニケーション機能により、レストランと顧客間の情報伝達を円滑化する。\n・同プラットフォームは、飲食業界に特化した顧客エンゲージメント向上ソリューションである。",
+    "注目ポイント3": "・同社は、Georgia Institute of TechnologyのKlaus Startup Challengeにおいて優勝し、Fusenから150,000米ドルの資金調達を実施した（2025年5月）。\n・同社は、アイデア段階から約3ヶ月で製品、チーム、企業体制を構築し、Delaware C Corporationとして設立された。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://news.gatech.edu/news/2025/05/20/klaus-startup-challenge-showcases-georgia-techs-rising-entrepreneurial-talent",
+    "発表年または出願年": "2025",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "DDingDong",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "米国",
+    "組織設立年": "2025",
+    "組織URL": "不明"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://news.gatech.edu/news/2025/05/20/klaus-startup-challenge-showcases-georgia-techs-rising-entrepreneurial-talent",
+    "情報ソースURL_2": "https://www.gatech.edu/news/2025/05/20/klaus-startup-challenge-showcases-georgia-techs-rising-entrepreneurial-talent",
+    "情報ソースURL_3": "https://www.cc.gatech.edu/news/klaus-startup-challenge-showcases-georgia-techs-rising-entrepreneurial-talent",
+    "情報ソースURL_4": "https://pitchbook.com/profiles/company/438207-58",
+    "情報ソースURL_5": "https://pitchbook.com/profiles/investor/844671-70",
+    "情報ソースURL_6": "https://www.cc.gatech.edu/klaus-startup-challenge",
+    "情報ソースURL_7": "https://create-x.gatech.edu/",
+    "情報ソースURL_8": "https://fusen.world/c/KlausStartupChalleng",
+    "情報ソースURL_9": "https://www.incentivio.com/blog-news-restaurant-industry/how-ai-and-machine-learning-are-revolutionizing-restaurant-customer-engagement",
+    "情報ソースURL_10": "https://www.paytronix.com/platform/artificial-intelligence/",
+    "情報ソースURL_11": "",
+    "情報ソースURL_12": "",
+    "情報ソースURL_13": "",
+    "情報ソースURL_14": "",
+    "情報ソースURL_15": "",
+    "情報ソースURL_16": "",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  },
+  "分類または補足情報": {
+    "技術分野": "飲食業界向けデジタルマーケティングプラットフォーム",
+    "サービスカテゴリ": "顧客エンゲージメント;パーソナライゼーション;プロモーション管理",
+    "対象市場": "レストラン;飲食店;ホスピタリティ業界",
+    "創業者": "Seung Taek Lee (CS 25);Sunny Park (CS BS/MS);Seongyeon Cho (Business)",
+    "資金調達状況": "Klaus Startup Challenge優勝（150,000米ドル、2025年5月）",
+    "法人形態": "Delaware C Corporation"
+  }
+}

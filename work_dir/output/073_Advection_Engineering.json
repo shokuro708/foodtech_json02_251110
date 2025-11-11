@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "073",
+    "タイトル": "移流加工技術により筋線維構造と霜降り脂肪分布を再現した植物性または細胞性タンパク質由来の全筋カット代替肉",
+    "概要1": "スイスのフードテック企業Advection Engineeringは、移流加工技術（Advective Processing）を用いて、植物性タンパク質または細胞性タンパク質から筋線維構造と霜降り状の脂肪分布を再現した全筋カット代替肉（Wholecut Analogue）を製造する技術プラットフォームを開発している。同社は、ETH ZurichのPioneer Fellowプログラムから設立され、食品企業向けにB2B技術プラットフォームを提供することで、食肉産業の脱炭素化を支援することを目指している。",
+    "概要2": "同技術は、エンドウ豆タンパク質と脂肪を用いた押出成形システムと独自開発のソフトウェア制御による混合プロセスを組み合わせている。具体的には、タンパク質用の2つの押出ダイと脂肪用の1つの押出ダイを使用し、カスタマイズされたポンプシーケンスプログラムにより、タンパク質生地と脂肪を連続的に押し込み混合することで、所望の複雑な構造と霜降り状の脂肪分布を形成する。同技術は、静止混合器（Static Mixer）の一種である移流加工を活用し、タンパク質配合物の構造化と脂肪分布を制御する。同手法は、従来の3D印刷技術とは異なり、連続処理方式を採用しており、生産速度と厚みの面で既存手法を上回る性能を示している。",
+    "概要3": "同技術は、タンパク質源に依存しない汎用性を有し、植物性タンパク質と細胞性タンパク質の両方に適用可能である。また、同技術により製造された代替肉は、筋肉の繊維状テクスチャーと筋肉内脂肪の複雑な霜降り分布の相互作用を再現することで、本物の肉に近い柔らかさと食感を実現している。同技術の開発は、ETH Zurichの軟質材料研究グループにおける乳濁液の流動特性と混合挙動に関する研究に基づいており、油と水の非常に薄い層を流動中に制御して一貫した構造の乳濁液を生成する手法を応用している。",
+    "概要4": "同技術は、食品企業が植物性または細胞性タンパク質源を用いて霜降り全筋カット代替肉を製造することを可能にし、食肉産業の脱炭素化に貢献することを意図している。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の代替肉製品は、パティやソーセージなどの加工肉製品が中心であり、ステーキなどの全筋カット製品は市場に少なく、特に筋線維の複雑な構造と筋肉内脂肪の霜降り分布を再現することが技術的課題となっていた。\n・3D印刷技術による代替肉製造は、生産速度と製品厚みの面で制約があり、大規模生産への適用が困難であった。",
+    "注目ポイント2": "・同技術は、移流加工という連続処理方式を採用し、従来の3D印刷技術と比較して生産速度と製品厚みの面で優れた性能を示している。\n・同技術は、タンパク質源に依存せず、植物性タンパク質と細胞性タンパク質の両方に適用可能なプラットフォーム技術である。\n・同技術の開発者であるMartin Hofmannは、軟質材料の流動特性と混合挙動に関する博士研究において、油と水の薄層を制御して一貫した乳濁液構造を生成する手法を確立し、これを代替肉の霜降り再現に応用した。",
+    "注目ポイント3": "・同社は、2023年にスイスのスタートアップ支援プログラムVenture Kickの第1段階（CHF 10,000）および第2段階（CHF 40,000）の資金援助を獲得した。\n・同社は、EIT Foodプログラムに選定され、€7,000のエクイティフリー資金援助を受け、最大€10,000の追加資金援助を受ける機会を得た。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://phys.org/news/2022-03-plant-based-steak-pea-protein.html",
+    "発表年または出願年": "2022",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Advection Engineering",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "スイス",
+    "組織設立年": "2023",
+    "組織URL": "https://www.advection-e.com/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://phys.org/news/2022-03-plant-based-steak-pea-protein.html",
+    "情報ソースURL_2": "https://www.venturekick.ch/CHF-40000-for-meat-analogs-the-nextgen-search-engine-and-a-virtual-lawyer-service",
+    "情報ソースURL_3": "https://www.venturekick.ch/Startups-developing-meat-analogs-the-nextgen-search-engine-an-adjunct-treatment-to-insulin-therapy-a-virtual-lawyer-service-and-unique-climbing-shoes-each-win-CHF-10000",
+    "情報ソースURL_4": "https://www.sciena.ch/tech-transfer/plantbased-steak-made-from-pea-protein.html",
+    "情報ソースURL_5": "https://www.cbinsights.com/company/advection-engineering",
+    "情報ソースURL_6": "https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.17192",
+    "情報ソースURL_7": "https://softmat.mat.ethz.ch/people/person-detail.MjAzNTI5.TGlzdC81NTQsLTc4NTU2NTkxNg==.html",
+    "情報ソースURL_8": "https://www.advection-e.com/",
+    "情報ソースURL_9": "https://www.linkedin.com/in/mhofmannch/",
+    "情報ソースURL_10": "https://mat.ethz.ch/department/people/person-detail.MjAzNTI5.TGlzdC8yNTQzLC0xNjM2MjE2MDE=.html",
+    "情報ソースURL_11": "",
+    "情報ソースURL_12": "",
+    "情報ソースURL_13": "",
+    "情報ソースURL_14": "",
+    "情報ソースURL_15": "",
+    "情報ソースURL_16": "",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  }
+}

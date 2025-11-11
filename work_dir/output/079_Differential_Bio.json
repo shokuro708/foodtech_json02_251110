@@ -1,0 +1,57 @@
+{
+  "基本情報": {
+    "ID": "079",
+    "タイトル": "AI駆動型ロボット実験室とマイクロリッタースケール発酵実験によるバイオプロセス最適化プラットフォーム「Virtual Scale-up Platform」",
+    "概要1": "ドイツのバイオテクノロジースタートアップ企業Differential Bio GmbHは、ロボット実験室自動化システムと人工知能アルゴリズムを統合し、微生物増殖および発酵プロセスを予測可能かつスケーラブルに最適化する仮想スケールアッププラットフォーム「Virtual Scale-up Platform」を開発している。",
+    "概要2": "同プラットフォームは、マイクロリッタースケールの環境で大規模産業ストレス因子をシミュレートすることにより、高スループット実験データを迅速かつ低コストで収集する。同プラットフォームは、ロボット実験室自動化システムを用いて実験ワークフローを自動化し、高品質な実験データを生成する。同システムは、収集したデータを特殊なAIモデルに統合し、バイオマス増殖、タンパク質発現、生成物収量、細胞生存率などの主要パフォーマンス指標を正確に予測する。同デジタルモデリング技術により、高コストな大規模発酵実験を実施する前に、無制限の仮想実験を実行してプロセスパラメータを最適化することが可能である。",
+    "概要3": "同プラットフォームは、プロバイオティクス産業において動物由来培地から植物由来培地への移行プロジェクトに適用され、バイオマス収量を4倍に増加させ、生産効率を向上させるとともに、生産コストを16%削減することに成功した。同プラットフォームは、培地最適化、細胞栄養評価、微生物ホスト選択、副産物および廃棄物流評価、上流および下流プロセス最適化、保存安定性評価など、バイオプロセスパイプライン全体に対応可能である。",
+    "概要4": "同プラットフォームは、プロバイオティクス、精密発酵、乳製品代替品、食品添加物、バイオ燃料、化粧品、特殊化学品の製造プロセスに適用される。",
+    "タイトル英語": "AI-Driven Virtual Scale-up Platform for Bioprocess Optimization Using Robotic Laboratory and Microliter-Scale Fermentation"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・バイオ製造において実験室スケールから産業スケールへの移行時に、微生物の増殖条件やプロセスパラメータが予測困難であり、スケールアップに多大な時間とコストを要することが課題となっていた。\n・従来の大規模発酵実験は、設備投資と運用コストが高く、多数の条件を効率的に検証することが困難であった。",
+    "注目ポイント2": "・同プラットフォームは、先進的微生物学、ロボティクス、人工知能アルゴリズムの3つの中核技術を統合することで、発酵プロセスをマイクロリッタースケールに微小化し、大規模産業環境のストレス因子を模擬する。\n・同プラットフォームは、E. coli、酵母、Lactobacillusを含む複数の微生物株に対応しており、次世代プロバイオティクスの開発において高い需要が確認されている。\n・同プラットフォームは、持続可能性と収益性の両立を実証し、動物由来培地から植物由来培地への移行を可能にする多目的最適化機能を有している。",
+    "注目ポイント3": "・同社は、Ananda Impact VenturesおよびReGen Venturesが主導し、Carbon13、Climate Capital、Better Ventures、CDTM Ventures、エンジェル投資家が参加する200万ユーロのプレシード資金調達を完了した（2025年3月）。\n・同社は、プロバイオティクスに関する研究成果をコペンハーゲンで開催された主要なプロバイオティクス会議で発表し、業界リーダーから高い関心を集めた（2025年）。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://tech.eu/2025/03/26/differential-bio-emerges-from-stealth-with-2m-funding-to-solve-biomanufacturing-s-scaling-problem/",
+    "発表年または出願年": "2025",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Differential Bio GmbH",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "ドイツ",
+    "組織設立年": "2023",
+    "組織URL": "https://www.differential.bio/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://tech.eu/2025/03/26/differential-bio-emerges-from-stealth-with-2m-funding-to-solve-biomanufacturing-s-scaling-problem/",
+    "情報ソースURL_2": "https://agfundernews.com/differential-bio-emerges-from-stealth-with-virtual-scaleup-platform-for-bioprocess-optimization",
+    "情報ソースURL_3": "https://theaiinsider.tech/2025/04/01/munich-based-ai-biotech-startup-differential-bio-emerges-from-stealth-with-e2m-pre-seed-to-transform-biomanufacturing-with-cutting-edge-virtual-scale-up-platform/",
+    "情報ソースURL_4": "https://www.munich-startup.de/en/startups/differential-bio/",
+    "情報ソースURL_5": "https://www.proteinproductiontechnology.com/post/differential-bio-secures-eu2-million-to-launch-ai-driven-platform-for-scaling-biomanufacturing",
+    "情報ソースURL_6": "https://vegconomist.com/investments-finance/munich-startup-differential-bio-raises-2-million-transform-biomanufacturing-ai/",
+    "情報ソースURL_7": "https://worldbiomarketinsights.com/differential-bio-launches-with-e2-m-pre-seed-funding-to-transform-biomanufacturing/",
+    "情報ソースURL_8": "https://www.biopharmatrend.com/news/differential-bio-emerges-from-stealth-with-2m-to-scale-ai-driven-biomanufacturing-1190/",
+    "情報ソースURL_9": "https://www.crunchbase.com/organization/differential-bio",
+    "情報ソースURL_10": "https://app.dealroom.co/companies/differential_bio",
+    "情報ソースURL_11": "https://pitchbook.com/profiles/company/731655-46",
+    "情報ソースURL_12": "https://techfundingnews.com/munich-based-diverse-female-co-led-startup-differential-bio-lands-e2m-for-sustainable-biomanufacturing/",
+    "情報ソースURL_13": "https://cultivated-x.com/software-ai/munich-startup-differential-bio-raises-2-million-transform-biomanufacturing-ai/",
+    "情報ソースURL_14": "https://justainews.com/companies/funding-news/differential-bio-raises-e2-million-in-pre-seed-funding/",
+    "情報ソースURL_15": "https://www.startbase.com/news/differential-bio-sichert-sich-e2-millionen-pre-seed/",
+    "情報ソースURL_16": "https://renewable-carbon.eu/news/munich-based-ai-biotech-startup-differential-bio-emerges-from-stealth-with-e2m-pre-seed-to-transform-biomanufacturing-with-cutting-edge-virtual-scale-up-platform/",
+    "情報ソースURL_17": "https://www.linkedin.com/company/differential-bio",
+    "情報ソースURL_18": "https://insights.munich-startup.de/companies/differential_bio",
+    "情報ソースURL_19": "https://www.companyhouse.de/en/Differential-Bio-GmbH-Kirchheim-bei-Muenchen",
+    "情報ソースURL_20": "https://www.bloomberg.com/profile/company/2560553D:GR"
+  },
+  "分類または補足情報": {
+    "技術分野": "バイオプロセス最適化;AI駆動型プラットフォーム;ロボット実験室自動化",
+    "適用市場": "プロバイオティクス;精密発酵;乳製品代替品;食品添加物;バイオ燃料;化粧品;特殊化学品"
+  }
+}

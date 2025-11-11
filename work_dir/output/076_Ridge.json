@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "076",
+    "タイトル": "既存のデータセンターインフラ上にマネージドKubernetesを展開する分散エッジクラウドプラットフォーム「Ridge Cloud」",
+    "概要1": "米国およびイスラエルのクラウドサービスプロバイダーであるRidgeは、既存のデータセンターインフラストラクチャを活用し、グローバルに分散されたエッジロケーションでクラウドネイティブアプリケーションを展開可能にする分散クラウドプラットフォーム「Ridge Cloud」を開発した。",
+    "概要2": "同プラットフォームは、単一のAPIを通じて既存のインフラストラクチャ（IaaS、仮想化環境、ベアメタルサーバー）上にクラウドネイティブ機能を提供する。同プラットフォームは、世界中の100以上のデータセンターをフェデレーションし、統合されたネットワークを構築する。同プラットフォームは、CNCF認定のマネージドKubernetesサービス（RKS）、コンテナサービス（RCS）、オブジェクトストレージ（ROS）を提供し、開発者は単一のポータルを通じてハイブリッドおよびマルチクラウド環境全体のワークロードを管理できる。",
+    "概要3": "同プラットフォームは、インストールやCAPEXを必要とせず、既存のサーバー上でアプリケーションワークロードを実行することを可能とする。同プラットフォームは、エンドユーザーおよびエンドデバイスに近い場所でコンピューティングリソースを提供することにより、低レイテンシー、高スループット、データ主権を実現する。同プラットフォームは、パブリッククラウド、プライベートクラウド、オンプレミス施設を統合し、単一のガラスペインを通じて管理する。",
+    "概要4": "同プラットフォームは、ビデオストリーミング、IoTアプリケーション、リモート患者モニタリング、テレヘルス、ドローン、ロボティクス、コネクテッドカー、自律走行車、環境モニタリングなど、レイテンシーに敏感なアプリケーションに適用される。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来のパブリッククラウドは、特定の地理的ロケーションに集中しており、エッジに近い場所でのデプロイメントやデータ主権の要件を満たすことが課題であった。\n・大規模な分散環境において、異なる技術スタックを持つ複数のデータセンターを統一的に管理することが困難であった。",
+    "注目ポイント2": "・同プラットフォームは、既存のデータセンター事業者とパートナーシップを結び、そのインフラストラクチャ上にマネージドサービスレイヤーを展開することで、新たなPaaSオファリングを創出する。\n・同プラットフォームは、異なる技術スタック（VMware、ベアメタル、OpenStackなど）を抽象化し、単一のAPIを通じて均質なクラウドプラットフォームに変換する。\n・同プラットフォームは、2022年8月にハイブリッドクラウドソリューションをリリースし、パブリック、プライベート、オンプレミスのすべてのロケーションをハイブリッドプラットフォームに統合した。",
+    "注目ポイント3": "・同社は、2022年12月にGartner Cool Vendor in Cloud-Native Computingに選出された。\n・同社は、2022年1月にNFX主導でMayfield、Slow Ventures、Violaの参加により2,200万ドルの資金調達を完了し、累計4,400万ドルの資金を調達した。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.ridge.co/",
+    "発表年または出願年": "2020",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Ridge",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "米国",
+    "組織設立年": "2018",
+    "組織URL": "https://www.ridge.co/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.ridge.co/",
+    "情報ソースURL_2": "https://www.ridge.co/platform/",
+    "情報ソースURL_3": "https://www.prweb.com/releases/2022/01/prweb18452303.htm",
+    "情報ソースURL_4": "https://www.prweb.com/releases/2022/12/prweb19070290.htm",
+    "情報ソースURL_5": "https://www.ridge.co/gartner-cool-vendor-2022-cloud-computing/",
+    "情報ソースURL_6": "https://www.edgeir.com/ridge-taps-into-22m-round-for-kubernetes-ready-edge-cloud-service-20220127",
+    "情報ソースURL_7": "https://www.edgeir.com/ridge-launches-hybrid-cloud-to-speed-up-deployments-from-cloud-to-edge-20220825",
+    "情報ソースURL_8": "https://www.ridge.co/platform/rks/",
+    "情報ソースURL_9": "https://www.ridge.co/platform/rcs/",
+    "情報ソースURL_10": "https://www.ridge.co/platform/ros/",
+    "情報ソースURL_11": "https://www.crunchbase.com/organization/tectonic-c189",
+    "情報ソースURL_12": "https://www.edgeir.com/stealth-startup-ridge-co-aims-to-build-edge-cloud-offering-with-the-help-of-data-center-providers-20200729",
+    "情報ソースURL_13": "https://www.cloudcomputing-news.net/news/2021/jul/09/ridge-is-bringing-full-cloud-public-cloud-capabilities-to-local-data-centres/",
+    "情報ソースURL_14": "https://www.ridge.co/cloud-solutions/hybrid-cloud/",
+    "情報ソースURL_15": "https://www.ridge.co/cloud-solutions/edge-cloud/",
+    "情報ソースURL_16": "https://www.finsmes.com/2022/01/ridge-raises-22m-in-early-stage-funding.html",
+    "情報ソースURL_17": "https://www.calcalistech.com/ctech/articles/0,7340,L-3927837,00.html",
+    "情報ソースURL_18": "https://finder.startupnationcentral.org/company_page/tectonic",
+    "情報ソースURL_19": "https://www.ridge.co/blog/gartner-cool-vendor-2022-cloud-native-computing-blog/",
+    "情報ソースURL_20": "https://en.everybodywiki.com/Ridge_Cloud"
+  }
+}

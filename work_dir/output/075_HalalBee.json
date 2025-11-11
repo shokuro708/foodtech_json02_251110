@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "075",
+    "タイトル": "ハラール認証飲食店の検証とマーケットプレイス機能を提供するデジタルディレクトリプラットフォーム「HalalBee」",
+    "概要1": "英国のHALALBEE LTDは、ハラール対応飲食店の認証状態を検証し、ハラール料理を求める消費者と飲食事業者を接続するデジタルマーケットプレイスプラットフォーム「HalalBee」を開発した。同社は2016年9月に英国サウソール地区で設立され、インターネット経由の小売販売事業として登録されたが、2018年12月に解散している。",
+    "概要2": "同プラットフォームは、飲食事業者向けのプレミアム認証サービスとマーケットプレイスディレクトリ機能を提供する。飲食事業者は同プラットフォーム上で自社のハラール対応状況を表示し、ハラール認証の有無や対応範囲を明示することができる。同プラットフォームのマーケットプレイスディレクトリには、認証済み飲食店の情報が掲載され、消費者は地域や料理種類によって検索することが可能である。同サービスは、ハラール認証を持つ飲食店と、ハラール対応メニューを提供する飲食店の両方を対象としている。",
+    "概要3": "同プラットフォームは、飲食事業者に対して、ハラール料理を求める消費者層へのリーチを拡大し、新規顧客獲得の機会を提供する。マーケットプレイスディレクトリへの掲載により、事業者の可視性が向上し、ハラール認証状態の透明性を確保することで消費者からの信頼獲得を支援する。ハラール料理を求める消費者にとっては、認証済み飲食店を効率的に発見することができ、各飲食店のハラール対応範囲を事前に確認できる利便性を提供する。",
+    "概要4": "同プラットフォームは、ハラール認証を取得した飲食店、またはハラール対応メニューを提供する飲食店が、ムスリム消費者および広くハラール料理を求める消費者層に対してリーチを拡大する用途に適用される。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・ハラール認証飲食店の情報が分散しており、消費者が信頼できるハラール対応飲食店を発見することが困難であった。\n・飲食事業者がハラール認証状態を効果的に伝達し、ムスリム消費者層にリーチする手段が限定的であった。",
+    "注目ポイント2": "・同プラットフォームは、飲食事業者向けのプレミアム認証サービスを提供し、ハラール対応状況の検証を支援する。\n・マーケットプレイスディレクトリ機能により、認証済み飲食店の情報を集約し、消費者の検索と発見を容易にする。\n・インターネットベースのプラットフォームとして、地域横断的なハラール飲食店情報へのアクセスを実現する。",
+    "注目ポイント3": "・HALALBEE LTDは2016年9月2日に英国で法人登録され、2018年12月18日に解散した。\n・同社の登録事業活動は、郵便注文またはインターネット経由の小売販売であった。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://halalbee.webflow.io/",
+    "発表年または出願年": "2016年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "HALALBEE LTD",
+    "組織タイプ": "中小企業",
+    "国名": "英国",
+    "組織設立年": "2016年",
+    "組織URL": "https://halalbee.webflow.io/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://halalbee.webflow.io/",
+    "情報ソースURL_2": "https://find-and-update.company-information.service.gov.uk/company/10356190",
+    "情報ソースURL_3": "https://www.linkedin.com/company/halalbees",
+    "情報ソースURL_4": "https://halalworthy.com/blog/halal-restaurant-finder-apps-in-2024/",
+    "情報ソースURL_5": "https://www.halaltimes.com/how-are-food-tech-and-halal-startups-transforming-the-uk-muslim-food-industry/",
+    "情報ソースURL_6": "https://www.halaltimes.com/attracting-investment-funding-opportunities-for-halal-startups-in-the-uk/",
+    "情報ソースURL_7": "https://gorideng.com/digital-directories-with-purpose-how-halalindy-connects-muslim-businesses-and-customers/",
+    "情報ソースURL_8": "https://www.halaltimes.com/the-role-of-mobile-apps-in-halal-food-shopping-in-the-us/",
+    "情報ソースURL_9": "https://www.halaltimes.com/halal-verification-methods-ensuring-authenticity-in-the-us/",
+    "情報ソースURL_10": "https://www.halaltimes.com/blockchain-for-halal-traceability-enhancing-trust-in-uk-market/",
+    "情報ソースURL_11": "",
+    "情報ソースURL_12": "",
+    "情報ソースURL_13": "",
+    "情報ソースURL_14": "",
+    "情報ソースURL_15": "",
+    "情報ソースURL_16": "",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  }
+}
