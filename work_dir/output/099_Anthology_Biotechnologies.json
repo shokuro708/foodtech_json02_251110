@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "099",
+    "タイトル": "トランスポゾンを用いてゲノムの多様性を加速的に生成し糸状菌および独立栄養細菌を最適化するバイオマニュファクチャリングプラットフォーム",
+    "概要1": "米国のバイオテクノロジー企業Anthology Biotechnologies, Inc.は、糸状菌および独立栄養細菌などの未開拓微生物のゲノムを最適化し、酵素、食品原料、気候技術製品を生物学的に生産するためのゲノム進化プラットフォームを開発している。同社は2023年にMassachusetts Institute of Technology（MIT）、Boston University、Harvard Universityにルーツを持つJing Zhang氏（CEO）、Tzu-Chieh Tang氏（CTO）、Charles Jo氏により設立された。",
+    "概要2": "同プラットフォームは、トランスポゾン（転移因子）を遠縁宿主から取得し、現代の遺伝子工学ツールを用いてその機能と制御性を付加することで、目的宿主においてゲノム変異を精密に調整する。同プラットフォームは、ゲノム工学、ハードウェア工学、計算生物学からの技術を統合し、ゲノム変異の生成プロセスを加速し、カスタム構築されたデバイスから最適な変異体を選別する。同技術により、数千から数百万の多様なゲノム変異体を生成し、自動化された選別およびスクリーニングシステムを用いて、遺伝子型と表現型を紐づける大規模データセットを構築する。",
+    "概要3": "同プラットフォームは、従来の実験室進化法を大幅に拡張し、高度に多様化されたゲノムを生成することで、バイオマニュファクチャリングを変革する表現型を発見する確率を飛躍的に向上させる。同技術は、未開拓微生物である糸状菌を第一の対象生物として活用し、糸状菌が持つ最大150 g/Lに達するタンパク質生産能力を利用する。同プラットフォームにより、再生可能な原料や二酸化炭素を用いて効率的に増殖する微生物を適応させ、酵素および食品原料の発見とスケールアップを実現する。",
+    "概要4": "同プラットフォームは、糸状菌および独立栄養細菌を用いた酵素生産、食品原料製造、気候技術製品の開発に適用される。同技術は、カーボンニュートラルおよびカーボンネガティブな生産を可能とするバイオエコノミーの実現を目指している。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の実験室進化法では、限定的な変異導入速度により、微生物の表現型最適化に長期間を要することが課題であった。\n・産業用バイオマニュファクチャリングにおいて、モデル生物以外の未開拓微生物の遺伝子改変技術が不足しており、多様な原料や製品に対応できる生物の開発が困難であった。",
+    "注目ポイント2": "・同技術は、トランスポゾン技術を活用し、従来法の数百倍から数千倍のスケールでゲノム変異を生成する。\n・同技術は、糸状菌および独立栄養細菌という未開拓微生物群を対象とし、二酸化炭素などの再生可能原料からの物質生産を可能とする。\n・同プラットフォームは、遺伝子型と表現型のマッピングデータから生成的ゲノム設計を実現し、目的の原料や製品に最適化されたゲノムを設計する能力を提供する。",
+    "注目ポイント3": "・同社は、Defense Advanced Research Projects Agency（DARPA）、BoxOne Ventures、E14 Fund、Alumni Ventures、Climate Capital、Lever VCなど12の投資家から資金を調達している。\n・同社の創業者であるJing Zhang氏は、The EngineのTechnology Venture Fellowshipプログラムに参加し、Activate Fellowshipの支援を受けている。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://anthology.bio/",
+    "発表年または出願年": "2023",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Anthology Biotechnologies, Inc.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "米国",
+    "組織設立年": "2023",
+    "組織URL": "https://anthology.bio/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://anthology.bio/",
+    "情報ソースURL_2": "https://www.activate.org/anthology",
+    "情報ソースURL_3": "https://engineventures.com/companies/anthology",
+    "情報ソースURL_4": "https://engine.xyz/ventures/companies/anthology",
+    "情報ソースURL_5": "https://agfundernews.com/from-jumping-genes-to-designer-genomes-anthologys-blueprint-for-smarter-bioproduction-strains",
+    "情報ソースURL_6": "https://www.linkedin.com/company/anthologybio",
+    "情報ソースURL_7": "https://www.crunchbase.com/organization/anthology-f72c",
+    "情報ソースURL_8": "https://pitchbook.com/profiles/company/552760-66",
+    "情報ソースURL_9": "https://engine.xyz/people/jing-zhang",
+    "情報ソースURL_10": "https://wyss.harvard.edu/team/postdoctoral-fellow/tzu-chieh-zijay-tang/",
+    "情報ソースURL_11": "https://churchlab.hms.harvard.edu/church-lab-member/tzu-chieh-zijay-tang",
+    "情報ソースURL_12": "https://www.linkedin.com/in/jingzhangsynbio/",
+    "情報ソースURL_13": "https://www.linkedin.com/in/tzu-chieh-tang/",
+    "情報ソースURL_14": "https://scholar.google.com/citations?user=hI8s29IAAAAJ&hl=en",
+    "情報ソースURL_15": "https://scholar.google.com/citations?user=7NGTSw0AAAAJ&hl=en",
+    "情報ソースURL_16": "https://jobs.polymer.co/anthology-biotechnologies-inc/29965",
+    "情報ソースURL_17": "https://jobs.polymer.co/anthology-biotechnologies-inc/29504",
+    "情報ソースURL_18": "https://tracxn.com/d/companies/anthology/__a8pRy-nnydHOATo3ri_OKnYfETGaNilt5yDGDGg8Lc0",
+    "情報ソースURL_19": "https://theorg.com/org/anthology-3/org-chart/jing-zhang",
+    "情報ソースURL_20": "https://theorg.com/org/anthology-3/org-chart/tzu-chieh-tang"
+  }
+}

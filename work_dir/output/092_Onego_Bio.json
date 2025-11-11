@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "092",
+    "タイトル": "精密発酵によりTrichoderma reeseiを用いて動物フリーの卵白タンパク質を生産する技術「Bioalbumen」",
+    "概要1": "フィンランドのフードテック企業Onego Bio Ltd.は、精密発酵技術を用いて動物を使用せずに卵白タンパク質を生産する技術を開発した。同社は2022年にVTT Technical Research Centre of Finlandのスピンオフとして、代替タンパク質のパイオニアであるMaija Itkonen氏（CEO）と精密発酵の専門家Christopher Landowski氏（CTO）により設立された。",
+    "概要2": "同技術は、糸状菌Trichoderma reeseiに卵白タンパク質オボアルブミンの遺伝子設計図を導入し、発酵プロセスを通じて動物フリーの卵白タンパク質を生産する。同プロセスでは、微生物に糖を供給し、栄養制限状態に置くことでタンパク質を分泌させる。発酵タンクで水と菌体バイオマスと共に培養した後、菌体を分離して卵白タンパク質を含む液体を得て、これを乾燥させて粉末状の製品Bioalbumenを製造する。同技術は250,000 Lの発酵槽で120 g/Lの生産性を実現する特許技術である。",
+    "概要3": "同製品Bioalbumenは、鶏卵白の主要タンパク質であるオボアルブミンと生化学的に同一であり、全必須アミノ酸を含む栄養学的に完全なタンパク質である。同製品は、タンパク質消化性補正アミノ酸スコア（PDCAAS）が最高値の1.0を示し、100 g当たり90 g以上のタンパク質を含有する。同製品は、起泡性、乳化性、結合性、ゲル化性など従来の卵白が持つ全ての機能的特性を提供し、ベーカリー製品、菓子、ソース、パスタ、代替肉製品など幅広い食品用途に適用できる。",
+    "概要4": "同製品は、食品メーカー向けの産業用原料として、ベーカリー製品、菓子類、スナック、ソース、パスタ、代替肉製品などの食品製造に使用される。同社は25社以上の大手消費財メーカーと協業している。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の卵生産は、供給の不安定性、価格変動、動物福祉に関する倫理的課題、および環境負荷が大きいことが課題となっていた。\n・食品製造において卵白タンパク質は20種類以上の機能的特性を提供する重要な原料であるが、安定供給と持続可能性の確保が課題であった。",
+    "注目ポイント2": "・同技術は、産業用酵素生産で実績のあるTrichoderma reeseiを宿主として使用し、数十年にわたる開発により確立された高生産性と産業規模でのスケーラビリティを実現する。\n・同技術は、200万リットルの発酵容量を持つ1つの製造ユニットで、600万羽の採卵鶏を持つ養鶏場に相当する卵白タンパク質を生産できる。\n・同技術は、従来の卵生産と比較して、温室効果ガス排出量を89%、土地使用量を95%、水使用量を87%削減する。",
+    "注目ポイント3": "・同社は、2023年5月にFast Companyの「World Changing Ideas Awards 2023」において食品部門の最優秀賞および農業部門のファイナリストに選出された。\n・同社の製品Bioalbumenは、2025年9月に米国食品医薬品局（FDA）からGRAS（Generally Recognized As Safe）認証に関する「異議なし」レターを取得した（GRAS Notice No. GRN 1249）。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.onego.bio/",
+    "発表年または出願年": "2022",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Onego Bio Ltd.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "フィンランド",
+    "組織設立年": "2022",
+    "組織URL": "https://www.onego.bio/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.onego.bio/",
+    "情報ソースURL_2": "https://www.businesswire.com/news/home/20250922863937/en/Onego-Bio-Receives-FDA-No-Questions-Letter-on-GRAS-Status-of-Bioalbumen",
+    "情報ソースURL_3": "https://www.onego.bio/press/our-news/series-a-funding",
+    "情報ソースURL_4": "https://www.vttresearch.com/en/news-and-ideas/finnish-food-biotech-startup-onego-bio-presents-egg-protein-fermentation-no-animals",
+    "情報ソースURL_5": "https://www.onego.bio/ourway/technology",
+    "情報ソースURL_6": "https://www.businesswire.com/news/home/20250312405040/en/Onego-Bio-Chooses-Jefferson-County-Wisconsin-for-Flagship-Egg-Protein-Manufacturing-Facility",
+    "情報ソースURL_7": "https://www.onego.bio/press/our-news/onego-bio-opens-san-diego-office-with-focus-on-scaling-us-commercial-and-manufacturing-capabilities-dz7m6",
+    "情報ソースURL_8": "https://www.onego.bio/press/our-news/world-changing-ideas-award",
+    "情報ソースURL_9": "https://www.onego.bio/press/our-news/onego-bio-awarded-2-million-by-the-department-of-defense-for-distributed-bioindustrial-manufacturing-program",
+    "情報ソースURL_10": "https://www.onego.bio/press/our-news/food-tech-leaders-come-together-to-form-the-precision-fermentation-alliance-to-champion-a-more-resilient-and-sustainable-future",
+    "情報ソースURL_11": "https://www.foodnavigator-usa.com/Article/2025/09/24/fda-greenlights-onego-bios-bio-identical-egg-white-protein-gras-dossier/",
+    "情報ソースURL_12": "https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/",
+    "情報ソースURL_13": "https://www.greenqueen.com.hk/onego-bio-gras-fda-recombinant-egg-protein-ovalbumin-fermentation/",
+    "情報ソースURL_14": "https://agfundernews.com/exclusive-onego-bio-nets-15-2m-to-advance-animal-free-egg-protein-production",
+    "情報ソースURL_15": "https://nordicninja.com/onego-bio/",
+    "情報ソースURL_16": "https://www.eitfood.eu/community/startups/onego-bio",
+    "情報ソースURL_17": "https://tesi.fi/en/news-item/foodtech-company-onego-bio-secures-some-eur-37-million-in-a-series-a-round/",
+    "情報ソースURL_18": "https://www.sciencedirect.com/science/article/pii/S0963996922011899",
+    "情報ソースURL_19": "https://www.vttresearch.com/en/news-and-ideas/finnish-startup-onego-bio-ltd-raises-eur-10-million-seed-funding-commercialize",
+    "情報ソースURL_20": "https://www.onego.bio/press/our-news/onego-submits-gras-notification-for-bioalbumen"
+  }
+}

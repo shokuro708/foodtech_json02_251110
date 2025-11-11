@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "097",
+    "タイトル": "自然言語処理を用いたレストラン向けAI音声自動化システム「Millie」",
+    "概要1": "英国のホスピタリティ・テクノロジー企業One Touch Systems Ltd.は、自然言語処理（Natural Language Processing:NLP）を用いたAI音声自動化システムを開発している。同社は、レストラン・テクノロジー分野の経験を持つCraig PollockとDavid Downsにより2023年に設立され、Leedsに拠点を置く。同社は、2025年4月に元Veezu最高執行責任者Andrew Pennockから250,000英ポンドのシード投資を獲得した。",
+    "概要2": "同システムは、「Millie」と名付けられたAI音声アシスタントを用いて、レストランへの電話を24時間365日自動応答し、テーブル予約、テイクアウト注文、顧客からの問い合わせを処理する。同システムは、レストランの既存のテーブル予約ソフトウェアに統合され、自然言語処理によりリアルタイムで顧客との音声対話を実行する。同システムは、予約可能な日時を確認し、アレルギー情報などの詳細を聴取し、予約確認を即座に送信する。また、同システムは、レストランが満席の場合、同一ホスピタリティグループまたは地域内の代替レストランを推奨する機能を有する。",
+    "概要3": "同システムは、繁忙時やスタッフ不足時に未対応となる電話の最大85%を捕捉することが可能である。従来、レストランでは平均30%の電話が未対応であり、営業時間外や繁忙時間帯における潜在的な予約機会の損失が発生していた。同システムの導入により、スタッフは電話対応から解放され、店内での顧客サービスに集中できる。同システムは、予約処理の効率化により、レストランの収益向上と顧客満足度の改善を実現する。",
+    "概要4": "同システムは、英国の独立系レストラン、レストラングループ、ホテル、テイクアウト店舗を対象とし、WakefieldのQubana、Fino、The Capriグループなどで導入されている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・レストラン業界では、スタッフ不足と繁忙時間帯において、平均30%の電話が未対応となり、予約機会の損失と顧客満足度の低下が課題となっていた。\n・従来の自動応答システムは、複雑な予約条件やアレルギー情報の聴取など、自然な会話による柔軟な対応が困難であった。",
+    "注目ポイント2": "・同システムは、自然言語処理により、顧客との自然な会話を通じて、予約日時、人数、アレルギー情報などの詳細を聴取し、既存の予約システムに自動入力する。\n・同システムは、24時間365日稼働し、営業時間外の電話にも対応することで、従来捕捉できなかった予約機会を獲得する。\n・同システムは、レストランが満席の場合、同一グループ内または地域内の代替レストランを推奨し、顧客をネットワーク内に維持する機能を有する。",
+    "注目ポイント3": "・同社は、2025年10月にHalifax拠点の予約プラットフォームTogoとのパートナーシップを締結し、Yorkshire地域およびイギリス全土の400店舗以上のレストランへのアクセスを獲得した。\n・同社は、2026年末までに英国内の5,000店舗のレストランへの導入を目標としている。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "WEBメディア",
+    "主要情報ソースURL": "https://www.prolificnorth.co.uk/news/yorkshire-ai-tech-start-up-secures-250k-to-tackle-one-of-hospitalitys-biggest-headaches/",
+    "発表年または出願年": "2023",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "One Touch Systems Ltd.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "英国",
+    "組織設立年": "2023",
+    "組織URL": "https://www.one-touch.co"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.prolificnorth.co.uk/news/yorkshire-ai-tech-start-up-secures-250k-to-tackle-one-of-hospitalitys-biggest-headaches/",
+    "情報ソースURL_2": "https://restaurantindustry.co.uk/2025/06/09/one-touch-teams-up-with-yorkshire-restaurant-qubana-on-ai-bookings/",
+    "情報ソースURL_3": "https://www.yorkshireeveningpost.co.uk/business/one-touch-secures-six-figure-funding-to-future-proof-restaurant-bookings-5072896",
+    "情報ソースURL_4": "https://bdaily.co.uk/articles/2025/10/01/one-touch-looks-to-scale-with-togo-partnership",
+    "情報ソースURL_5": "https://www.wakefieldexpress.co.uk/business/one-touch-accelerates-growth-after-securing-togo-partnership-5339145",
+    "情報ソースURL_6": "https://www.thebusinessdesk.com/yorkshire/news/2137404-start-up-secures-six-figure-funding-deal/",
+    "情報ソースURL_7": "https://bdaily.co.uk/articles/2025/04/09/250000-boost-puts-growth-on-menu-for-tech-firm",
+    "情報ソースURL_8": "https://www.insidermedia.com/news/yorkshire/restaurant-booking-tech-start-up-secures-six-figure-funding",
+    "情報ソースURL_9": "https://www.linkedin.com/company/one-touch-hospitality",
+    "情報ソースURL_10": "https://www.one-touch.co",
+    "情報ソースURL_11": "",
+    "情報ソースURL_12": "",
+    "情報ソースURL_13": "",
+    "情報ソースURL_14": "",
+    "情報ソースURL_15": "",
+    "情報ソースURL_16": "",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  }
+}
