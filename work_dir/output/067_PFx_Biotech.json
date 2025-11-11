@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "067",
+    "タイトル": "精密発酵技術によるヒト母乳タンパク質の大規模生産プラットフォーム",
+    "概要1": "ポルトガルのバイオテクノロジー企業PFx Biotech, Ldaは、精密発酵とシステム生物学を用いて、ラクトフェリン、α-ラクトアルブミン、オステオポンチンなどのヒト母乳タンパク質を生産する技術プラットフォームを開発している。同社は2022年にCEO Ali Osman、COO Harry Barraza、R&D責任者Diana Oliveiraの3名により設立され、Porto大学のUPTECインキュベーターに拠点を置いている。",
+    "概要2": "同技術は、ヒトラクトフェリン遺伝子を独自開発した微生物株に組み込み、バイオリアクター内で水、糖、栄養素を供給して培養する精密発酵プロセスを用いる。同技術では、遺伝子組換え微生物が目的タンパク質を分泌するように設計されており、高収率でのタンパク質生産を実現している。生産後は、先進的な下流工程処理技術を用いてタンパク質の精製と回収を行う。同プラットフォームは、150 Lのパイロット規模から1,500 L～75,000 Lのスケールまで対応可能な発酵槽を用いることで、実験室規模から産業規模への拡張を可能としている。",
+    "概要3": "同技術により生産されるヒト母乳タンパク質は、ヒト母乳中のタンパク質と構造的および機能的に同一であり、アレルゲンフリーの特性を有している。ラクトフェリンは、鉄調節機能、腸管強化作用、抗菌特性、抗癌特性を持つホエイタンパク質である。同技術により、従来の牛乳由来タンパク質では対応できなかった牛乳タンパク質アレルギー（CMPA）を持つ乳児に対しても、安全な栄養補給を提供できる。また、スケールアップにより、キログラム単位での生産量を実現し、商業パートナーとの材料移転契約（MTA）に基づくサンプリングを可能としている。",
+    "概要4": "同技術により生産されるタンパク質は、乳児用調製粉乳、スポーツ栄養製品、高齢者向け栄養製品に配合される。また、筋肉および骨の健康をサポートする製品への応用も検討されている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の牛乳タンパク質を使用した乳児用調製粉乳は、牛乳タンパク質アレルギー（CMPA）を持つ乳児（世界で1,500万人以上）に対して適用できないという課題があった。\n・従来の牛由来ラクトフェリンは、ヒト母乳中のラクトフェリンとは構造および機能が異なり、アレルギー反応を引き起こす可能性があるという課題があった。",
+    "注目ポイント2": "・同技術は、精密発酵により、ヒト母乳中のタンパク質と構造的および機能的に同一のタンパク質を生産する。\n・同技術は、独自開発した遺伝子組換え微生物株を用いることで、高収率でのヒト母乳タンパク質の分泌を実現している。\n・同技術により生産されるタンパク質は、アレルゲンフリーであり、牛乳タンパク質アレルギーを持つ乳児にも適用可能である。",
+    "注目ポイント3": "・同社は、2024年10月にEuropean Innovation Council（EIC）Acceleratorから€9.5Mの資金援助を獲得し、2025年6月にBuenavista Equity Partners主導でEIT FoodとBeta Capitalからの€2.5Mのシード資金と、EIC AcceleratorからのさらなるSMEs Executive Agency（EISMEA）助成金€2.5Mを獲得し、合計€14.5Mの資金を調達した。\n・同社は、2025年5月にバルセロナで開催されたVitafoods Europe 2025のStartup Challengeにおいて、Most Innovative Nutraceutical Ingredient部門で優勝した。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.greenqueen.com.hk/pfx-biotech-precision-fermentation-human-milk-proteins-lactoferrin-funding/",
+    "発表年または出願年": "2022",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "PFx Biotech, Lda",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "ポルトガル",
+    "組織設立年": "2022",
+    "組織URL": "https://pfxbiotech.com/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.greenqueen.com.hk/pfx-biotech-precision-fermentation-human-milk-proteins-lactoferrin-funding/",
+    "情報ソースURL_2": "https://www.eu-startups.com/2025/06/reinventing-milk-portuguese-startup-pfx-biotech-lands-e2-5-million-to-develop-allergy-free-human-milk-proteins/",
+    "情報ソースURL_3": "https://www.innovationnewsnetwork.com/pfx-biotech-advances-precision-fermentation-to-deliver-human-lactoferrin-at-scale/63404/",
+    "情報ソースURL_4": "https://portugalstartupnews.com/2025/06/08/pfx-biotech-raises-e2-5m-to-scale-human-milk-inspired-proteins-for-nutrition-innovation/",
+    "情報ソースURL_5": "https://cultivated-x.com/fermentation/pfx-biotech-funding-bioidentical-human-milk-proteins-precision-fermentation/",
+    "情報ソースURL_6": "https://www.vitafoodsinsights.com/startups/meet-the-winners-of-the-vitafoods-europe-startup-challenge-2025",
+    "情報ソースURL_7": "https://ani.pt/en/portuguese-company-pfxbiotech-raises-e9-5m-from-the-european-innovation-council/",
+    "情報ソースURL_8": "https://www.proteinproductiontechnology.com/post/pfx-biotech-closes-us-2-7-million-seed-round-to-scale-up-production-of-human-milk-proteins",
+    "情報ソースURL_9": "https://www.foodnavigator-usa.com/Article/2024/06/27/video-pfx-biotech-co-founder-on-using-precision-fermentation-to-bolster-infant-formula-supply-chain/",
+    "情報ソースURL_10": "https://cordis.europa.eu/project/id/101218593",
+    "情報ソースURL_11": "https://businessleadersreview.com/pfx-biotech-revolutionizing-the-future-of-food-with-precision-fermentation/",
+    "情報ソースURL_12": "https://www.eitfood.eu/community/startups/pfx-biotech-lda",
+    "情報ソースURL_13": "https://uptec.up.pt/uptec-startup-raises-9-5-million-in-european-accelerator/",
+    "情報ソースURL_14": "https://www.theportugalnews.com/news/2025-03-21/pfxbiotech-leads-the-way-in-next-generation-bioactive-ingredients/96273",
+    "情報ソースURL_15": "",
+    "情報ソースURL_16": "",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  }
+}

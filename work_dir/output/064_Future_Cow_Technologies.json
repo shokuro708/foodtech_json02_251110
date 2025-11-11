@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "064",
+    "タイトル": "酵母を宿主とした精密発酵技術によりカゼインおよびホエイプロテインを動物を介さず生産する代替乳タンパク質製造プラットフォーム",
+    "概要1": "ブラジルのバイオテクノロジー企業Future Cow Technologies LTDAは、2023年に起業家Leonardo Vieiraと食品科学者Rosana Goldbeck博士により設立された。同社は、精密発酵技術を用いて牛を介さずに牛乳タンパク質（カゼインおよびホエイプロテイン）を生産し、食品業界向けにライセンス供与するビジネスモデルを展開している。",
+    "概要2": "同技術は、牛乳タンパク質を産生する遺伝子配列を牛のDNAから特定し、その配列を酵母に組み込むことで、酵母を宿主として牛乳タンパク質を生産する精密発酵プロセスである。酵母は発酵槽内で糖質を栄養源として増殖し、組み込まれた遺伝情報に基づきカゼインおよびホエイプロテインを産生する。発酵後の液体を濾過・乾燥することで、牛乳由来のものと分子レベルで同一のタンパク質粉末が得られる。同社は当初15 Lの発酵槽で最初のミルクプロトタイプを開発し、現在は200 L、2,000 L、5,000 Lへのスケールアップを段階的に進めている。",
+    "概要3": "同技術により生産される乳タンパク質は、従来の牛乳生産と比較して温室効果ガス排出量を97%削減し、水使用量を99%削減する。ブラジルは精密発酵に必要な水、砂糖、再生可能エネルギーの3つの重要資源が豊富に存在する唯一の国である。同社は食品・乳製品企業にバイオ同一性乳タンパク質を供給するB2Bモデルを採用しており、チーズ、ヨーグルト、代替乳製品、チョコレート、ホエイプロテインパウダー、飲料などの製造に利用される。技術的および経済的分析により、300,000 Lスケールでの生産コストは従来の生産方法よりも低価格になることが示されている。",
+    "概要4": "同技術により生産されるカゼインおよびホエイプロテインは、食品企業および乳製品企業によるチーズ、ヨーグルト、代替乳製品、チョコレート、ホエイプロテインサプリメント、飲料などの製造用途を対象としている。同社は2026年末までに商業化を目指している。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の牛乳生産は温室効果ガス排出量と水使用量が膨大であり、持続可能な代替生産方法が求められている\n・精密発酵技術による乳タンパク質生産は新興分野であり、ブラジルにおいては先駆的な取り組みである",
+    "注目ポイント2": "・酵母を宿主として牛の遺伝情報を組み込み、牛乳タンパク質を動物を介さずに生産する精密発酵技術である\n・カゼインとホエイプロテインという牛乳の主要タンパク質2種類を対象としている\n・15 Lから5,000 Lへの段階的スケールアップにより工業生産への移行を進めている\n・ブラジルの豊富な水、砂糖、再生可能エネルギーを活用し、精密発酵に適した生産環境を構築している\n・温室効果ガス排出量97%削減、水使用量99%削減という顕著な環境性能を実現している",
+    "注目ポイント3": "・2024年にR$4.85百万（約88.5万米ドル）の資金調達を完了し、内訳はクラウドファンディングR$1.27百万、FAPESPからR$1.5百万、EmbrapiiからR$2.2百万である\n・Big Idea VenturesおよびAntlerが主導するNew Protein Fund IIの第1コホートにおいてR$2百万（約41万米ドル）の投資を受けた\n・2024年The Earthshot Prize公式ノミネート、2024年Singapore Week of Innovationトップ50ファイナリストに選出された\n・2025年6月にパリで開催されるViva Technology 2025においてブラジル代表企業として選出された\n・Supera Technology Park（リベイラン・プレト、サンパウロ州）およびCNPEMのDeepTech Acceleration Program（PACE）に参加している"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.futurecow.com.br/",
+    "発表年または出願年": "2023年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Future Cow Technologies LTDA",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "ブラジル",
+    "組織設立年": "2023年",
+    "組織URL": "https://www.futurecow.com.br/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.futurecow.com.br/",
+    "情報ソースURL_2": "https://agencia.fapesp.br/biotech-develops-technology-to-produce-milk-proteins-without-cows/54837",
+    "情報ソースURL_3": "https://www.eurekalert.org/news-releases/1086348",
+    "情報ソースURL_4": "https://cultivated-x.com/fermentation/brazils-first-precision-fermentation-startup-future-cow-scale-animal-free-milk/",
+    "情報ソースURL_5": "https://vegconomist.com/fermentation/brazils-first-precision-fermentation-startup-future-cow-scale-animal-free-milk/",
+    "情報ソースURL_6": "https://www.greenqueen.com.hk/future-cow-brazil-precision-fermentation-dairy-protein-funding/",
+    "情報ソースURL_7": "https://vegconomist.com/investments-finance/brazils-future-cow-raise-advance-production-animal-free-dairy-proteins/",
+    "情報ソースURL_8": "https://cultivated-x.com/investments-finance/brazils-future-cow-raise-advance-production-animal-free-dairy-proteins/",
+    "情報ソースURL_9": "https://dairynews.today/news/brazil-innovates-dairy-proteins-without-cows-by-2026.html",
+    "情報ソースURL_10": "https://www.thebullvine.com/news/how-brazils-cow-free-proteins-challenge-everything-we-know-about-milk/",
+    "情報ソースURL_11": "https://www.proteinproductiontechnology.com/post/brazils-future-cow-uses-fermentation-to-make-milk-without-cows",
+    "情報ソースURL_12": "https://www.crunchbase.com/organization/future-cow",
+    "情報ソースURL_13": "https://br.linkedin.com/company/future-cow",
+    "情報ソースURL_14": "https://www.dairyprocessing.com/articles/1822-future-cow-receives-funds-from-foodtech-investor",
+    "情報ソースURL_15": "https://phys.org/news/2025-06-biotech-fermentation-proteins-cows.html",
+    "情報ソースURL_16": "https://bv.fapesp.br/en/empresas/4712/FUTURE COW TECHNOLOGIES LTDA/",
+    "情報ソースURL_17": "https://superaparque.com.br/startups-from-supera-park-represent-brazil-at-viva-technology-2025-in-paris/",
+    "情報ソースURL_18": "https://www.thecooldown.com/sustainable-food/future-cow-dairy-industry-milk-proteins/",
+    "情報ソースURL_19": "https://www.linkedin.com/in/leonardovieira2024/",
+    "情報ソースURL_20": "https://www.linkedin.com/in/rosana-goldbeck-52005539/"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "069",
+    "タイトル": "AIマッチング技術とゼロ在庫JITモデルにより農場から6~7時間以内に新鮮な青果物を配送するフレッシュコマースプラットフォーム「Handpickd」",
+    "概要1": "インドのA.N. Farm Assortment Private Limitedは、フレッシュコマースプラットフォーム「Handpickd」を運営するベンチャー企業である。同社は2022年に「Sorted」として創業し、2023年10月に法人として設立され、2024年4月に「Handpickd」としてリブランドした。創業者はMilkbasket創業者のAnant Goel、Nitin Gupta、Sahil Madanである。同プラットフォームは、ゼロ在庫・ゼロ倉庫・ゼロダークストアモデルを採用し、顧客が熟度・サイズ・甘さ・食感・無農薬などの詳細な好みを指定できる青果物配送サービスを提供している。",
+    "概要2": "同プラットフォームは、需要予測を行わず、まず顧客から注文を収集し、その後に農家から正確な数量と品質の青果物を直接調達し、早朝に顧客へ配送するゼロ在庫モデルを採用している。購入から配送までのプロセスは6~7時間以内に完了し、高度なジャストインタイム（JIT）方式により保管の必要性を排除している。同プラットフォームは、AIを活用したマッチングシステムを搭載しており、顧客が指定した熟度・サイズ・甘さ・食感・無農薬などの好みを正確な選別とグレーディングに変換する。また、過去の購入履歴と顧客の嗜好に基づいて製品を推奨する高度なアルゴリズムを使用し、各家族の味覚と要求に合わせた青果物を正確に配送する。配送は開放式のリターナブルトレイで行われ、プラスチック包装を使用せず、青果物をほぼ自然な状態で保存する。",
+    "概要3": "同プラットフォームは、選別時の不合格品をジャストインタイムで従来の生鮮サプライチェーンに再導入することで、生鮮食品の廃棄や投棄の必要性を排除し、農場から消費者への直接供給チェーンにおける廃棄を体系的に削減している。また、従来のパーム油生産と比較して、土地使用量を97%削減し、水使用量を10分の1に削減する。顧客は収穫から7~8時間以内に超新鮮な青果物を受け取ることが可能である。グルガオンの顧客は、同プラットフォームで月平均4,000ルピーを生鮮食品に支出しており、これはクイックコマースプラットフォームや従来のオンライン食料品店の10倍および5倍に相当する。同社は、グルガオンでEBITDA黒字を達成し、2つのマイクロマーケットで10万件以上の注文を完了し、40万キログラム以上の生鮮食品を配送した。",
+    "概要4": "同プラットフォームは、グルガオン、ノイダ、ベンガルールで運営されており、健康志向の消費者や生鮮食品の品質にこだわる家庭をターゲットとしている。同社は2025年に30以上の新しいマイクロマーケットの展開を計画している。また、AIを活用した機能により、顧客の購入行動を分析し、次に調理すべき料理を提案する機能も開発中である。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の青果物配送は需要予測に基づく在庫管理を行うため、廃棄が多く、鮮度が低下することが課題であった\n・消費者がオンラインで青果物を購入する際、熟度やサイズなどの詳細な好みを指定できず、オフラインの触覚的な買い物体験を再現することが困難であった",
+    "注目ポイント2": "・同プラットフォームは、需要予測を行わず、顧客の注文後に農家から直接調達するゼロ在庫モデルを採用し、倉庫とダークストアを排除している\n・AIを活用したマッチングシステムにより、顧客が指定した熟度・サイズ・甘さ・食感・無農薬などの好みを正確な選別とグレーディングに変換し、各家族の味覚に合わせた青果物を配送する\n・購入から配送までのプロセスを6~7時間以内に完了し、収穫から7~8時間以内に顧客へ配送することで、超新鮮な青果物を提供する\n・選別時の不合格品をジャストインタイムで従来のサプライチェーンに再導入することで、廃棄を排除している\n・配送はリターナブルトレイで行われ、プラスチック包装を使用しない持続可能な配送方式を採用している",
+    "注目ポイント3": "・同社は2025年9月にBertelsmann India Investmentsが主導するシリーズAラウンドで1,500万ドルを調達し、Titan Capital Winners Fundおよび既存投資家が参加した\n・2025年6月にGenesia VenturesおよびNitin Guptaが主導するシード延長ラウンドで21.7クローレルピー（約250万ドル）を調達した\n・同社は2つのマイクロマーケットで10万件以上の注文を完了し、40万キログラム以上の生鮮食品を配送した（2024年）\n・グルガオンでEBITDA黒字を達成し、ベンガルールに展開した（2025年）"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://yourstory.com/2025/09/handpickd-raises-series-a-bertelsmann-india-investments",
+    "発表年または出願年": "2024年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "A.N. Farm Assortment Private Limited",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "インド",
+    "組織設立年": "2022年",
+    "組織URL": "https://play.google.com/store/apps/details?id=com.sorted.consumerflutterapp"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://yourstory.com/2025/09/handpickd-raises-series-a-bertelsmann-india-investments",
+    "情報ソースURL_2": "https://inc42.com/buzz/handpickd-raises-15-mn-to-optimise-fruits-vegetables-supply-chain/",
+    "情報ソースURL_3": "https://indianstartupnews.com/funding/indias-first-zero-stock-fresh-commerce-startup-handpickd-raises-15-million-in-funding-10501154",
+    "情報ソースURL_4": "https://www.localsamosa.com/news/handpickd-10501038",
+    "情報ソースURL_5": "https://tracxn.com/d/companies/handpickd/__JiMCn-groc22I1Kj6SyDhhR8UD3M8BkMaGa3jXdM7eY",
+    "情報ソースURL_6": "https://www.indianretailer.com/news/retail-india-news-anant-goels-handpickd-pioneers-personalized-sustainable-fresh-produce",
+    "情報ソースURL_7": "https://entrackr.com/news/handpickd-raises-15-mn-from-bertelsmann-and-titan-capital-winners-fund-10499839",
+    "情報ソースURL_8": "https://www.indianstartuptimes.com/interviews/reimagining-fresh-commerce-in-india-anant-goel-on-building-handpickd/",
+    "情報ソースURL_9": "https://theentrepreneurstory.com/startup/handpickd-the-fresh-produce-startup-co-founded-by-milkbaskets-anant-goel-expands-to-bengaluru-after-turning-profitable/",
+    "情報ソースURL_10": "https://www.adgully.com/post/6059/after-milkbasket-anant-goel-bets-on-online-personalized-fresh-buying-with-handpickd",
+    "情報ソースURL_11": "https://inc42.com/buzz/anant-goels-sorted-rebrands-to-handpickd-aims-to-sharpen-focus-on-online-play/",
+    "情報ソースURL_12": "https://snackfax.com/ecommerce/handpickd-to-expand-its-fresh-produce-delivery-service-across-gurgaon-and-delhi-ncr/",
+    "情報ソースURL_13": "https://www.indiaretailing.com/2024/12/26/fresh-commerce-platform-handpickd-aims-to-launch-30-new-micro-markets-in-2025/",
+    "情報ソースURL_14": "https://zoonop.com/articles/handpickd",
+    "情報ソースURL_15": "https://www.entrepreneur.com/en-in/news-and-trends/handpickd-raises-inr-217-cr-funding-led-by-genesia/492786",
+    "情報ソースURL_16": "https://entrackr.com/exclusive/exclusive-anant-goels-handpickd-raises-fresh-funds-9334697",
+    "情報ソースURL_17": "https://ipocentral.in/handpickd-extended-seed-round-bag-22-cr-eyes-scaling/",
+    "情報ソースURL_18": "https://play.google.com/store/apps/details?id=com.sorted.consumerflutterapp",
+    "情報ソースURL_19": "https://apps.apple.com/in/app/handpickd-fruits-veggies/id6443906235",
+    "情報ソースURL_20": "https://www.thecompanycheck.com/company/an-farm-assortment-private-limited/U46309DL2023PTC420761"
+  }
+}

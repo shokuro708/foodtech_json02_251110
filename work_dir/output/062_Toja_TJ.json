@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "062",
+    "タイトル": "AIレコメンデーションとグループ投票機能を搭載したレストラン発見・予約ソーシャルマーケットプレイス「Appetite」",
+    "概要1": "英国のフードテック企業TOJA. TJ Ltdは、AIチャットボット「Pierre Pomme」による個別化レコメンデーション機能、グループチャット、カレンダー同期、投票機能を統合したレストラン発見・予約ソーシャルマーケットプレイスアプリ「Appetite」を開発・運営している。",
+    "概要2": "同アプリは、ユーザーの嗜好と行動データを学習するAIチャットボット「Pierre Pomme」を搭載し、個人およびグループの好みに基づいてレストランとバーを推奨する。同アプリのグループ機能では、複数のユーザーがダイニンググループチャットを作成し、カレンダーを同期し、レストランオプションについて投票することで、グループ全体の嗜好に基づくAI生成の推奨を受け取ることができる。また、同アプリは、友人からの推奨レストランリストを共有・発見できるソーシャルフィード機能と、予約機能を統合している。",
+    "概要3": "同アプリは、複数のプラットフォームを横断する煩雑なレストラン予約プロセスを簡素化し、グループでの外食計画を効率化することを可能とした。また、「Appetite Drops」と呼ばれる報酬プログラムにより、ユーザーは無料のレストラン料理、テーブルタブなどを獲得でき、レストランパートナーへの露出機会を提供しながら、ユーザーコミュニティに価値を還元している。同アプリは、2023年11月に14,000人のベータテストユーザーを経て英国全体で公式にリリースされ、iOSおよびAndroidの両プラットフォームで利用可能である。",
+    "概要4": "同アプリは、友人や家族との外食計画を効率化したいユーザー、新しいレストランやバーを発見したいフーディー、お得な特典を求める消費者を対象としている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来のレストラン予約では、レストランの発見、友人との調整、予約の実行が複数のプラットフォームに分散しており、特にグループでの外食計画が非効率的であった。\n・レストラン発見後の予約コンバージョン率が低いことが課題となっていた。",
+    "注目ポイント2": "・同アプリは、AIチャットボット「Pierre Pomme」がユーザーと友人の嗜好を学習し、個別化されたレストラン推奨を提供する。\n・同アプリは、グループチャット、カレンダー同期、投票機能を統合し、グループ全体の嗜好に基づくAI生成推奨を実現している。\n・同アプリは、レストラン発見、計画、予約を単一のプラットフォームに統合し、友人からの推奨をソーシャルフィードで共有できる。",
+    "注目ポイント3": "・同社は、2023年9月にSarah Maxwell、Jonathan Grad、Alok Oberoi、Lisa Tchenguizを含むエンジェル投資家から200万ドルのシード資金を調達した。\n・同アプリは、2023年11月のリリース前に14,000人のベータテストユーザーを獲得し、欧州と米国への展開を計画している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.appetiteapp.uk/",
+    "発表年または出願年": "2023",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "TOJA. TJ LTD",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "英国",
+    "組織設立年": "2019",
+    "組織URL": "https://www.appetiteapp.uk/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.appetiteapp.uk/",
+    "情報ソースURL_2": "https://www.maddyness.com/uk/2024/02/22/appetite-the-social-marketplace-facilitating-great-hospitality-experiences/",
+    "情報ソースURL_3": "https://techcrunch.com/2023/11/06/appetite-wants-to-help-you-and-your-friends-discover-plan-and-book-a-meal-out/",
+    "情報ソースURL_4": "https://www.crunchbase.com/organization/appetite-app",
+    "情報ソースURL_5": "https://find-and-update.company-information.service.gov.uk/company/12063786",
+    "情報ソースURL_6": "https://tracxn.com/d/legal-entities/united-kingdom/toja.tj-ltd/__rfs_lp2sapvLFfTtBqDQE3Wb_o9iF_to8BPcQyck1ew",
+    "情報ソースURL_7": "https://apps.apple.com/us/app/appetite-discover-dine/id6449458382",
+    "情報ソースURL_8": "https://play.google.com/store/apps/details?id=com.tj.appetite",
+    "情報ソースURL_9": "https://passionates.medium.com/revolutionize-your-dining-experience-with-appetite-ai-powered-restaurant-booking-app-now-in-uk-534a97cb202e",
+    "情報ソースURL_10": "https://uk.linkedin.com/company/appetite-app",
+    "情報ソースURL_11": "https://londonite.co.uk/appetite-best-london-foodie-app/",
+    "情報ソースURL_12": "https://www.londondaily.news/big-appetite-weekly-free-dishes-for-londoners/",
+    "情報ソースURL_13": "https://techround.co.uk/techround-100/87-appetite-app/",
+    "情報ソースURL_14": "https://foodism.co.uk/news/appetite-app/",
+    "情報ソースURL_15": "https://tracxn.com/d/companies/appetite/__98i1SmRhcMUig9Opafr1h1JRG2lWPbzFfP2Ju09AXO0",
+    "情報ソースURL_16": "https://www.linkedin.com/in/tobygreen-appetite/",
+    "情報ソースURL_17": "https://www.appetiteapp.uk/privacy-policy",
+    "情報ソースURL_18": "https://www.appetiteapp.uk/terms-and-conditions",
+    "情報ソースURL_19": "https://www.appetiteapp.uk/contact-us",
+    "情報ソースURL_20": "https://pitchbook.com/profiles/company/539498-44"
+  }
+}

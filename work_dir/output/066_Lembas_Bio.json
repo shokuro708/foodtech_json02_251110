@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "066",
+    "タイトル": "AI計算生物学プラットフォームによりGLP-1ホルモン分泌を促進する食品グレード生理活性ペプチド「GLP-1 Edge」",
+    "概要1": "イスラエルのバイオテクノロジースタートアップ企業Lembas Bio Ltdは、独自のAI駆動型計算生物学プラットフォームを用いて、体内のGLP-1（グルカゴン様ペプチド-1）ホルモンの自然分泌を促進し、食欲調節と代謝の健康をサポートする食品グレード生理活性ペプチド「GLP-1 Edge」を開発している。",
+    "概要2": "同技術は、Tel Aviv Universityからライセンス供与された特許出願中のAI計算生物学プラットフォームを使用し、食品グレード生理活性ペプチドの探索、設計、スクリーニングを実施する。同プラットフォームは、AIモデリングを用いて、ペプチドが単一の受容体だけでなく複数の受容体に結合することを予測し、腸管細胞からGLP-1を血流中に分泌する能力を高める。同ペプチドは食品原料として設計されており、バー、シェイク、スナック、飲料、サプリメントなどの製品形態に容易に組み込むことができる。",
+    "概要3": "同技術により開発されたGLP-1 Edgeペプチドは、細胞株、オルガノイド（実験室で培養された簡易臓器モデル）、および動物モデルを用いた前臨床研究において、安全性と有効性が実証されている。肥満ラットを用いた試験では、同ペプチドが安全に消化され、受容体を活性化し、摂食量の減少と体重減少をもたらすことが確認された。また、マウスにおいてグルコースレベルの低下と満腹ホルモンの増加が観察されている。同社は、1年未満の研究開発期間で、細胞および動物モデルにおいて良好な結果を実証し、血中へのGLP-1分泌を成功させた。",
+    "概要4": "同製品は、医薬品を使用せずに自然な体重管理を実現することを目的としており、5,600億ドル規模の世界的な体重管理産業を対象としている。主要顧客は食品およびサプリメント企業であり、B2B原料として供給される。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・米国成人の約75%が過体重または肥満であるが、GLP-1医薬品は多くの人々にとってアクセス困難、高コスト、深刻な副作用などの課題があった。\n・従来のダイエットサプリメントは、自然なGLP-1分泌を十分に促進する科学的根拠が不足していた。",
+    "注目ポイント2": "・AI計算生物学プラットフォームを用いて、複数の受容体に結合するペプチドを迅速に設計し、GLP-1分泌能力を最適化している。\n・食品グレードの生理活性ペプチドとして開発されており、医薬品規制を受けずに機能性食品やサプリメントに組み込むことができる。\n・前臨床試験において、安全性、消化性、受容体活性化、摂食量減少、体重減少の効果が確認されている。",
+    "注目ポイント3": "・2025年6月に総額360万ドルのプレシード資金調達ラウンドを完了し、FLORA Venturesが主導し、Bluestein Ventures、Fresh Fund、Longevity Venture Partners、Maia Ventures、Siddhi Capital、Mandi Ventures、SDHが参加した。\n・ヒト臨床試験が計画されており、米国GRAS認証の取得を目指している。2026年末までに規制承認を取得し、2026年末までにCPG製品の市場投入を目標としている。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://lembas.bio/",
+    "発表年または出願年": "2024年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Lembas Bio Ltd",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "イスラエル",
+    "組織設立年": "2024年",
+    "組織URL": "https://lembas.bio/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://lembas.bio/",
+    "情報ソースURL_2": "https://agfundernews.com/pharma-is-eating-big-foods-lunch-lembas-fights-back-with-glp-1-boosting-peptide",
+    "情報ソースURL_3": "https://www.prnewswire.com/news-releases/lembas-emerges-from-stealth-with-breakthrough-discovery-in-natural-glp-1-for-weight-management-302478808.html",
+    "情報ソースURL_4": "https://www.greenqueen.com.hk/lembas-glp-1-bioactive-peptide-natural-ozempic-food/",
+    "情報ソースURL_5": "https://www.crunchbase.com/organization/lembas-e2e9",
+    "情報ソースURL_6": "https://finder.startupnationcentral.org/company_page/lembas",
+    "情報ソースURL_7": "https://www.finsmes.com/2025/06/lembas-raises-3-6m-in-pre-seed-funding.html",
+    "情報ソースURL_8": "https://www.startup-weekly.com/Lembas-emerges-from-stealth-with-3-6m-for-its-scientific-weight-management-breakthrough/",
+    "情報ソースURL_9": "https://finance.yahoo.com/news/lembas-emerges-stealth-breakthrough-discovery-100000795.html",
+    "情報ソースURL_10": "https://www.morningstar.com/news/pr-newswire/20250611ln06928/lembas-emerges-from-stealth-with-breakthrough-discovery-in-natural-glp-1-for-weight-management",
+    "情報ソースURL_11": "https://en.globes.co.il/en/article-israeli-startup-lembas-unveils-food-additive-for-slimming-1001513552",
+    "情報ソースURL_12": "https://bitcoinethereumnews.com/finance/lembas-glp-1-ingredient-manufacturer-enters-the-market-following-3-6-million-pre-seed-investment/",
+    "情報ソースURL_13": "https://aijourn.com/lembas-emerges-from-stealth-with-breakthrough-discovery-in-natural-glp-1-for-weight-management/",
+    "情報ソースURL_14": "https://unitedwithisrael.org/israeli-startup-develops-a-pill-to-boost-the-metabolism/",
+    "情報ソースURL_15": "https://pitchbook.com/profiles/company/731907-10",
+    "情報ソースURL_16": "https://www.dnb.com/business-directory/company-profiles.lembas_bio_ltd.0a48a6b5c9b6fd4f971cc0534737674d.html",
+    "情報ソースURL_17": "https://www.f6s.com/company/lembas.bio",
+    "情報ソースURL_18": "https://www.startuphub.ai/startups/lembas-bio/",
+    "情報ソースURL_19": "https://www.ivc-online.com/Google-Card?id=9655127c-9e47-f011-b819-00505695cd29",
+    "情報ソースURL_20": ""
+  }
+}
