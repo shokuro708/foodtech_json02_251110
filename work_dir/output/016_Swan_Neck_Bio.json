@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "16",
+    "タイトル": "シングルユースバイオリアクター技術と直接接種用スターターカルチャーを用いた精密発酵およびバイオマス企業向けバイオマニュファクチャリングサービス「FlexCell」と「DIRINOC」",
+    "概要1": "デンマークのバイオテクノロジー企業Swan Neck Bio ApSは、White Labs Copenhagenのスピンオフ企業として2023年に設立され、精密発酵とバイオマス企業向けに微生物のスケーリング、商業化、展開を支援するバイオマニュファクチャリングサービスを提供している。",
+    "概要2": "同社の技術は、シングルユースバイオリアクター技術「FlexCell」と直接接種用スターターカルチャー「DIRINOC」の2つの独自技術で構成される。FlexCellは、10 Lから400 Lのバイオリアクターを用いて、実験室レベルから最大1,000 Lまで微生物を試験、検証、スケーリングすることを可能とする特許取得済みの技術である。同技術は、CIP（定置洗浄）およびSIP（定置滅菌）を必要とせず、ポートとプローブの構成を即座に変更でき、複数の発酵を並行して実施することが可能である。",
+    "概要3": "同社のDIRINOC技術は、保存可能、濃縮、生存可能、品質認証されたスターターカルチャーであり、直接接種用に設計されている。同技術は、生産者が自社で培養を繁殖させる必要なく、生産者の微生物の成長を支援する。これにより、汚染リスクを低減し、出力の予測可能性を提供する。同技術は、廃棄物を削減し、設備ソリューションの総所有コストを低減し、収益性を向上させる。また、シードトレインの準備という規模拡大の主要な障壁の1つを取り除くことで、発酵における新たな効率性を実現する。",
+    "概要4": "同社のサービスは、精密発酵またはバイオマス由来の食品製品を開発する企業を対象としており、パイロットスケールでの微生物の堅牢性向上、収量増加、効率向上、市場投入までの時間短縮を支援する。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の発酵スケーリングでは、多段階のバイオリアクタープロセスが必要であり、シードトレインの準備が規模拡大の主要な障壁となっていた。\n・従来のバイオリアクターは、CIPおよびSIPに時間がかかり、構成の変更が容易ではなく、発酵プロセスの柔軟性と効率性に課題があった。",
+    "注目ポイント2": "・同社のFlexCell技術は、White Labsが醸造業界向けに開発した技術を応用し、酵母を同じ容器で成長させ、パッケージングすることを可能とする。\n・同社のDIRINOC技術は、現場で培養を繁殖させる必要なく試験を開始できるため、シードトレインをアウトソーシングできる。\n・同社の技術は、野生型または遺伝子組み換え生物を含むほぼすべての種を扱うことができ、バイオマニュファクチャリングにおける微生物の生物多様性を解放する。",
+    "注目ポイント3": "・同社は、2024年9月にTetra Pakとパートナーシップを締結し、DIRINOC技術をTetra Pakのプロセス開発エコシステムに組み込んだ。\n・同社の技術は、スウェーデンのKarlshamnに開設されたTetra Pak New Food Technology Development Centreで、他のシードトレインおよび設備ソリューションと併せて利用可能となっている。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://cultivated-x.com/manufacturing-technology/swan-neck-bio-flexcell-fast-cheaper-fermentation-scaling/",
+    "発表年または出願年": "2024",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Swan Neck Bio ApS",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "デンマーク",
+    "組織設立年": "2023",
+    "組織URL": "https://www.swanneck.bio"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://cultivated-x.com/manufacturing-technology/swan-neck-bio-flexcell-fast-cheaper-fermentation-scaling/",
+    "情報ソースURL_2": "https://vegconomist.com/cultivated-cell-cultured-biotechnology/swan-neck-bio-flexcell-fast-cheaper-fermentation-scaling/",
+    "情報ソースURL_3": "https://cultivated-x.com/fermentation/tetra-pak-swan-neck-bio-expand-scaling-opportunities-fermentation-derived-food-companies/",
+    "情報ソースURL_4": "https://www.tetrapak.com/about-tetra-pak/news-and-events/newsarchive/tetra-pak-announces-new-partnership-with-swan-neck-bio-to-simplify-scaling-of-new-food",
+    "情報ソースURL_5": "https://cultivated-x.com/organisations_and_brands/swan-neck-bio/",
+    "情報ソースURL_6": "https://vegconomist.com/fermentation/tetra-pak-swan-neck-bio-expand-scaling-opportunities-fermentation-derived-food-companies/",
+    "情報ソースURL_7": "https://www.foodbev.com/news/tetra-pak-partners-with-swan-neck-bio-for-fermentation-scale-up",
+    "情報ソースURL_8": "https://asiafoodjournal.com/tetra-pak-and-swan-neck-bio-collaborate-to-simplify-scaling-of-new-food/",
+    "情報ソースURL_9": "https://www.foodanddrinktechnology.com/news/61442/tetra-pak-and-swan-neck-bio-partnership-simplifies-food-scaling/",
+    "情報ソースURL_10": "https://www.swanneck.bio",
+    "情報ソースURL_11": "https://forwardfooding.com/blog/foodtech500/2024/company/swan-neck-bio/",
+    "情報ソースURL_12": "https://thehub.io/startups/swan-neck-bio",
+    "情報ソースURL_13": "https://www.linkedin.com/company/swan-neck-bio",
+    "情報ソースURL_14": "https://www.foodtechbiz.com/business-updates/tetra-pak-and-swan-neck-bio-partner-to-streamline-scaling-of-next-gen-food-innovations",
+    "情報ソースURL_15": "https://www.esmmagazine.com/packaging-design/tetra-pak-partners-with-swan-neck-bio-to-enhance-new-food-offerings-296203",
+    "情報ソースURL_16": "https://news.europawire.eu/tetra-pak-expands-new-food-offering-with-swan-neck-bio-collaboration-to-simplify-fermentation-and-cut-contamination-risks/eu-press-release/2025/09/10/19/45/08/162126/",
+    "情報ソースURL_17": "https://www.newprotein.net/news/tetra-pak-and-swan-neck-bio-collaborate-to-simplify-scaling-of-new-food",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "013",
+    "タイトル": "連続発酵の主要課題を解決し、従来のバッチ発酵と比較して30～50%のコスト削減を実現する精密発酵プラットフォーム「ハイパー発酵」",
+    "概要1": "オーストラリアのCauldron Molecules Pty Ltdは、精密発酵技術の商業規模での実用化を目指すバイオ製造企業である。同社は、Agritechnologyにおける35年間の研究開発に基づく連続発酵技術「ハイパー発酵」を用いた受託開発製造（Contract Development and Manufacturing Organization:CDMO）サービスを提供している。",
+    "概要2": "同技術は、新規のバイオリアクター設計と専有の増殖培地配合を組み合わせた連続発酵プロセスである。従来の連続発酵において課題であった、望ましくない微生物によるコンタミネーション（汚染）と、微生物の遺伝的構成が時間とともに変化する遺伝的ドリフトという2つの主要課題を解決している。同社は10,000 Lの生産システムを8ヶ月以上連続稼働させ、コンタミネーションと遺伝的ドリフトを発生させずに運転することに成功した。",
+    "概要3": "同技術により、従来のバッチ発酵と比較して30～50%のコスト削減を実現し、45%のCapex削減で20%の生産性向上を達成する。同社は現在、Orange（New South Wales州）で25,000 Lの発酵能力を持つ施設を運営しており、食品、栄養、材料、美容・パーソナルケア、化学品、バイオ燃料の7つの分野に対応する多様な微生物株を扱うプラットフォームとして機能している。同技術により、従来のバッチ発酵では1億～2億米ドルを要する製造施設を3,000万米ドル未満で建設することが可能となる。",
+    "概要4": "同技術は、精密発酵により生産される乳タンパク質、卵タンパク質、生理活性タンパク質などの食品・栄養成分、および材料、美容・パーソナルケア製品、化学品、バイオ燃料の受託製造を対象としている。同社は現在、500,000 Lの施設建設を計画しており、Queensland州Mackayには年間1,000トン以上の生産能力を持つアジア太平洋地域初の大規模精密発酵受託製造施設を建設中である。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の連続発酵技術では、望ましくない微生物の侵入と増殖によるコンタミネーション（汚染）が課題であった。\n・連続発酵では微生物集団の遺伝的構成が時間とともに変化する遺伝的ドリフトが発生し、目的産物の生産に影響を与えることが課題であった。",
+    "注目ポイント2": "・同社は、35年間の研究開発に基づく新規のバイオリアクター設計と専有の増殖培地配合により、連続発酵の主要課題を解決している。\n・同社は10,000 Lの生産システムを8ヶ月以上連続稼働させ、コンタミネーションと遺伝的ドリフトを発生させずに運転することを実証した。\n・同技術により、従来のバッチ発酵と比較して30～50%のコスト削減、45%のCapex削減で20%の生産性向上を実現する。\n・同社は食品、栄養、材料、美容・パーソナルケア、化学品、バイオ燃料の7つの分野に対応する多様な微生物株を扱うプラットフォームを有している。",
+    "注目ポイント3": "・同社は2023年3月にシードラウンドで1,050万豪ドル（Main Sequence、Horizons Ventures主導）、2024年3月にシリーズAで950万豪ドル（Horizons Ventures主導、SOSV、In-Q-Tel参加）を調達し、総調達額は2,000万豪ドルに達した。\n・同社は2024年8月に連邦政府のIndustry Growth Programから430万豪ドルの助成金を獲得した。\n・同社はQueensland州政府のIndustry Partnership Programの支援を受け、Mackayに年間1,000トン以上の生産能力を持つアジア太平洋地域初の大規模精密発酵受託製造施設を建設中である（2024年9月発表）。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.cauldronferm.com/",
+    "発表年または出願年": "2022",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Cauldron Molecules Pty Ltd",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "オーストラリア",
+    "組織設立年": "2022",
+    "組織URL": "https://www.cauldronferm.com/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.cauldronferm.com/",
+    "情報ソースURL_2": "https://www.cauldronferm.com/post/cauldron-raises-9-5m-aud-series-a-to-scale-its-continuous-hyper-fermentation-technology",
+    "情報ソースURL_3": "https://www.cauldronferm.com/post/cauldron-receives-queensland-government-support-to-develop-first-of-a-kind-biomanufacturing-facility",
+    "情報ソースURL_4": "https://agfundernews.com/brief-cauldron-raises-6-25m-series-a-to-scale-continuous-fermentation-technology",
+    "情報ソースURL_5": "https://www.greenqueen.com.hk/cauldron-ferm-precision-fermentation-protein-australia/",
+    "情報ソースURL_6": "https://agfundernews.com/cauldron-raises-7m-to-expand-precision-fermentation-platform",
+    "情報ソースURL_7": "https://www.businesswire.com/news/home/20240930625149/en/Cauldron-Receives-Queensland-Government-Support-to-Develop-First-of-a-Kind-Biomanufacturing-Facility",
+    "情報ソースURL_8": "https://www.smartcompany.com.au/finance/cauldron-4-3-million-industry-growth-program-grant-expand-hyper-fermentation-facility/",
+    "情報ソースURL_9": "https://www.foodanddrinkbusiness.com.au/news/cauldron-secures-4-3m-from-industry-growth-program",
+    "情報ソースURL_10": "https://www.innovationaus.com/biomanufacturer-cauldron-ferm-secures-qld-govt-funding/",
+    "情報ソースURL_11": "https://www.proteinproductiontechnology.com/post/cauldron-moves-forward-with-precision-fermentation-facility-backed-by-queensland-government",
+    "情報ソースURL_12": "https://sosv.com/cauldron-ferm-lands-6-25m-to-revolutionize-precision-fermentation/",
+    "情報ソースURL_13": "https://www.businessnewsaustralia.com/articles/precision-fermentation-scale-up-cauldron-now-at--industrially-relevant-scale--amid--9-5m-raise.html",
+    "情報ソースURL_14": "https://agfundernews.com/cauldron-awarded-2-8m-to-advance-continuous-fermentation-tech-appoints-cto",
+    "情報ソースURL_15": "https://www.greenqueen.com.hk/cauldron-ferm-precision-fermentation-facility-cdmo-mackay-queensland/",
+    "情報ソースURL_16": "https://www.qantas.com/travelinsider/en/lifestyle/business/cauldron-precision-fermentation.html",
+    "情報ソースURL_17": "https://www.crunchbase.com/organization/cauldron-ferm",
+    "情報ソースURL_18": "https://au.linkedin.com/company/cauldron-ferm",
+    "情報ソースURL_19": "https://www.nutraingredients-asia.com/Article/2024/10/23/cauldron-ferm-s-new-precision-fermentation-facility-in-queensland-set-to-reduce-production-cost-raise-capacity/",
+    "情報ソースURL_20": "https://worldbiomarketinsights.com/queensland-government-supports-cauldron-ferms-precision-fermentation-new-facility/"
+  }
+}

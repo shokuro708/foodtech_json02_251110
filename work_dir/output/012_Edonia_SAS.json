@@ -1,0 +1,57 @@
+{
+  "基本情報": {
+    "ID": "12",
+    "タイトル": "微細藻類を独自技術「エドニゼーション」で変換した挽肉様食感とうま味を持つ植物性タンパク質原料「Edo-1」",
+    "概要1": "フランスのフードテック企業Edonia SASは、スピルリナやクロレラなどの微細藻類を独自の変換プロセス「エドニゼーション」で処理し、挽肉様の食感とグリルされたうま味を持つ植物性タンパク質原料「Edo-1」を開発している。",
+    "概要2": "同技術は、微細藻類バイオマスに対して独自の変換プロセス「エドニゼーション」を適用することで、藻類の色を緑色から濃い茶色に変化させ、ペーストまたは粉末状態からふわふわとした粒状のテクスチャーに変換する。同プロセスは、風味プロファイルを変化させ、オフノートと苦味を除去し、うま味、ほのかにグリルされたスモーキーな風味を生成する。同技術は、テクスチャー剤、酵素、着色料、香料を添加することなく、これらの変換を実現する。",
+    "概要3": "同原料は、30%のタンパク質を含有し、必須アミノ酸で構成され、ミネラルとビタミンも含まれている。同原料は、大豆タンパク質と比較して挽肉に近いうま味と食感を提供する。ライフサイクルアセスメントによると、同製品は牛挽肉と比較してCO2排出量が40分の1、テクスチャード・ソイと比較して3分の1である。",
+    "概要4": "同原料は、植物性挽肉製品、ベジタリアンステーキ、ベジタリアンラザニアなどの植物性食品の原料として使用されることを意図している。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の微細藻類由来原料は、苦味やオフノート、緑色の外観が課題であり、食肉代替品への適用が制限されていた。\n・微細藻類を用いた植物性タンパク質原料は、挽肉様の食感やうま味を実現することが困難であった。",
+    "注目ポイント2": "・同技術は、独自の変換プロセス「エドニゼーション」を用いて、微細藻類の色、テクスチャー、風味を変換し、添加物を使用せずに挽肉様の特性を実現する。\n・同原料は、30%のタンパク質を含有し、挽肉（約20%）と比較して高いタンパク質含有率を示す。\n・同原料は、新規食品（Novel Food）カテゴリーに該当しないため、フランスまたは欧州連合の承認を必要とせず、迅速に市場投入が可能である。",
+    "注目ポイント3": "・同社は、AgroParisTechの研究ユニットと共同でエドニゼーション技術を開発し、ライフサイクルアセスメントを実施した。\n・同社は、2024年4月にAsterion Venturesが主導し、BPIが参加する200万ユーロの資金調達ラウンドを完了した。\n・同社は、2025年にCTCPA（Centre Technique de la Conservation des Produits Agricoles）の支援を受けて産業スケールアップを実施している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv5:製品検証",
+    "主要情報ソースタイプ": "WEBメディア",
+    "主要情報ソースURL": "https://techcrunch.com/2024/04/24/edonia-2m-microalgae-ground-meat-alternative/",
+    "発表年または出願年": "2024",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Edonia SAS",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "フランス",
+    "組織設立年": "2023",
+    "組織URL": "https://www.edonia.eu"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://techcrunch.com/2024/04/24/edonia-2m-microalgae-ground-meat-alternative/",
+    "情報ソースURL_2": "https://plantbasednews.org/news/alternative-protein/edonia-plant-based-microalgae-protein/",
+    "情報ソースURL_3": "https://www.eu-startups.com/2024/04/paris-based-edonia-raises-e2-million-to-produce-plant-based-ingredientes-from-microalgae/",
+    "情報ソースURL_4": "https://vegconomist.com/algae-microalgae-seaweed/edonia-e2m-plant-based-alternatives-ingredients-microalgae/",
+    "情報ソースURL_5": "https://tech.eu/2024/04/26/edonia-raises-2m-for-sustainable-meat-alternatives/",
+    "情報ソースURL_6": "https://news.universite-paris-saclay.fr/en/news/edonia-comes-sustainable-dishes-21st-century",
+    "情報ソースURL_7": "https://www.ctcpa.org/en/2025/03/03/recherche-developpement-le-ctcpa-accompagne-la-startup-edonia-sur-son-passage-a-lechelle-industrielle-de-son-premier-ingredient-innovant-a-base-de-spiruline/",
+    "情報ソースURL_8": "https://maritime-forum.ec.europa.eu/news-french-startup-edonia-secures-eu2-million-revolutionise-meat-alternatives-eco-friendly_en",
+    "情報ソースURL_9": "https://www.eitfood.eu/community/startups/alt-g-protein",
+    "情報ソースURL_10": "https://worldbiomarketinsights.com/edonia-raises-e2-m-to-produce-plant-based-ingredients-from-microalgae/",
+    "情報ソースURL_11": "https://www.edibleplanetventures.com/post/edonia-secures-2-million-investment-for-microalgae-based-protein-development",
+    "情報ソースURL_12": "https://insights.figlobal.com/plant-based/from-biomass-to-bolognese-innovating-with-microalgae",
+    "情報ソースURL_13": "https://headliners.news/edonia-ground-meat-alternatives-with-microalgae/",
+    "情報ソースURL_14": "https://www.processalimentaire.com/ingredients/edonia-annonce-une-levee-de-2-millions-d-euros-aupres-d-asterion-ventures",
+    "情報ソースURL_15": "https://www.theplantbasemag.com/news/edonia-secures-2m-to-turn-microalgae-into-tasty-meat-alternatives",
+    "情報ソースURL_16": "https://www.centralesupelec.fr/en/Welcome-to-the-Edonia-startup",
+    "情報ソースURL_17": "https://www.crunchbase.com/organization/edonia",
+    "情報ソースURL_18": "https://pitchbook.com/profiles/company/572098-33",
+    "情報ソースURL_19": "https://www.linkedin.com/company/edonia-eu",
+    "情報ソースURL_20": "https://www.edonia.eu"
+  },
+  "分類": {
+    "原料タイプ": "微細藻類由来タンパク質",
+    "製品カテゴリ": "植物性挽肉代替原料",
+    "藻類種": "スピルリナ;クロレラ"
+  }
+}

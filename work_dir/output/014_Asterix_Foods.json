@@ -1,0 +1,53 @@
+{
+  "基本情報": {
+    "ID": "14",
+    "タイトル": "植物細胞懸濁培養とモジュール型並列バイオリアクターによる糖タンパク質生産プラットフォーム",
+    "概要1": "イスラエルのフードテック企業であるAsterix Foods, Inc.は、植物細胞懸濁培養を超並列モジュール型バイオリアクター（Massively Parallel Modular Bioreactors:MPMB）内で使用し、ラクトフェリンやオボムコイドなどのバイオアクティブ糖タンパク質を生産するプラットフォーム技術を開発している。",
+    "概要2": "同技術は、微生物を遺伝子改変する精密発酵に代わり、液体培地中で増殖させた植物細胞懸濁培養物をMPMB内で培養することで、複雑な糖タンパク質を生産する。植物細胞は、微生物では効率的に生産できない糖タンパク質などの複雑なタンパク質生産に必要な高度な細胞機構を有している。糖タンパク質は、タンパク質と炭水化物鎖で構成されており、正確に折り畳まれ、認識され、結合するためには、精密なグリコシル化を必要とする。植物細胞は、微生物発酵では困難なグリコシル化を容易に達成できる。",
+    "概要3": "同技術は、従来の精密発酵プラントと比較して、施設コストを95%以上削減し、開発期間を数年から数ヶ月に短縮する。同バイオリアクターは室温で動作するため、加熱および冷却に必要なエネルギーを削減し、洗浄や蒸気サイクルが不要なため、水消費量を大幅に削減する。植物細胞は汚染に対して自然に耐性があるため、クリーンルームを必要とせず、標準的な食品製造施設内のシンプルな生産バイオリアクターで安全に生産できる。同社のテルアビブのパイロット施設では、1台数百ドルのバイオリアクターを使用して、複数のタンパク質を並列生産することが実証されている。",
+    "概要4": "同技術は、食品、栄養、健康用途向けの高付加価値バイオアクティブタンパク質の生産を対象としている。同社は、特許出願中の技術を原料企業、乳製品企業、その他の食品企業にライセンス供与することを長期的なビジョンとしている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・精密発酵による代替タンパク質生産は、高額な設備投資（1億2,500万ドルから5億ドル）を必要とし、スケーラブルな製造が課題となっていた。\n・微生物ベースの精密発酵では、ラクトフェリンやオボムコイドなどの複雑なバイオアクティブ糖タンパク質の生産が困難であり、これらのタンパク質に必要な精密なグリコシル化を効率的に達成できないことが課題となっていた。",
+    "注目ポイント2": "・同技術は、植物細胞懸濁培養を使用することで、微生物では困難なグリコシル化を容易に達成し、複雑な糖タンパク質の生産を可能とする。\n・同技術は、モジュール型の小規模ビルドアウトを特徴とし、顧客は1,000リットルから2,000リットルの10台のシンプルな小型バイオリアクターを最小投資額100万ドルから200万ドルで導入し、需要に応じてスケールアップできる。\n・同技術は、室温動作、汚染耐性、クリーンルーム不要という特性により、エネルギー消費と水消費を大幅に削減し、標準的な食品製造施設での生産を可能とする。",
+    "注目ポイント3": "・同社は、2022年に設立され、IndieBioの第13期アクセラレータープログラムに参加した。\n・同社は、2025年10月にCPT Capitalが主導するシード資金調達ラウンドで420万ドルを調達し、ReGen Ventures、SOSV、Grok Ventures、イスラエルイノベーション庁が参加した。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "WEBメディア",
+    "主要情報ソースURL": "https://indiebio.co/asterix-foods-raises-4-2m-seed-round-for-its-low-cost-modular-alternative-to-precision-fermentation/",
+    "発表年または出願年": "2025",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Asterix Foods, Inc.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "イスラエル",
+    "組織設立年": "2022",
+    "組織URL": "https://www.asterixfoods.com"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://indiebio.co/asterix-foods-raises-4-2m-seed-round-for-its-low-cost-modular-alternative-to-precision-fermentation/",
+    "情報ソースURL_2": "https://agfundernews.com/exclusive-asterix-foods-emerges-from-stealth-to-unlock-2nd-wave-of-animal-free-proteins-in-plant-cell-culture",
+    "情報ソースURL_3": "https://finance.yahoo.com/news/asterix-foods-emerges-stealth-4-165300926.html",
+    "情報ソースURL_4": "https://www.crunchbase.com/organization/asterix-foods",
+    "情報ソースURL_5": "https://indiebio.co/company/asterix-foods/",
+    "情報ソースURL_6": "https://www.voiceofalexandria.com/news/national_business_news/asterix-foods-emerges-from-stealth-with-4-2m-promising-bioactive-proteins-at-a-fraction-of/article_fef5bc04-9153-51cb-8379-e339c81583fa.html",
+    "情報ソースURL_7": "https://www.pharmiweb.com/press-release/2025-10-08/asterix-foods-emerges-from-stealth-with-42m-promising-bioactive-proteins-at-a-fraction-of-the-cos",
+    "情報ソースURL_8": "https://athletechnews.com/asterix-4-2m-seed-round-plant-based-protein/",
+    "情報ソースURL_9": "https://www.foodbusinessmea.com/asterix-foods-raises-us4-2m-to-redefine-precision-fermentation-with-plant-cell-bioreactor-technology/",
+    "情報ソースURL_10": "https://vegconomist.com/investments-finance/asterix-foods-raises-4-2m-disrupt-protein-production-affordable-plant-cell-technology/",
+    "情報ソースURL_11": "https://nutraceuticalbusinessreview.com/asterix-foods-raises-4-2m-to-deliver-bioactive-proteins",
+    "情報ソースURL_12": "https://www.finsmes.com/2025/10/asterix-foods-raises-4-2m-in-seed-funding.html",
+    "情報ソースURL_13": "https://www.newtechfoods.com/news/asterix-foods-launches-with-4-2m-seed-funding-to-cut-costs-in-precision-fermentation",
+    "情報ソースURL_14": "https://aijourn.com/asterix-foods-emerges-from-stealth-with-4-2m-promising-bioactive-proteins-at-a-fraction-of-the-cost-of-precision-fermentation/",
+    "情報ソースURL_15": "https://technews180.com/funding-news/asterix-foods-raises-4-2m-to-rethink-protein-manufacturing/",
+    "情報ソースURL_16": "https://www.asterixfoods.com",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  },
+  "分類": {}
+}

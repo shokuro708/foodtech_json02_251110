@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "20",
+    "タイトル": "ホエイタンパク質アイソレートとアルギン酸を用いた培養肉向けの食用ハイドロゲルスキャフォールドおよびマイクロキャリア",
+    "概要1": "Burlington Bio Inc.は、米国バーモント州に拠点を置くバイオマテリアル開発企業である。同社は、University of VermontのEngineered Biomaterials Research Laboratoryの研究成果を基に2022年に設立された。同社は、機械工学と材料工学の原理を細胞農業分野に応用し、ホエイタンパク質アイソレートとアルギン酸を用いたハイドロゲルスキャフォールドおよびマイクロキャリアを開発している。",
+    "概要2": "同技術は、乳清タンパク質（ホエイタンパク質アイソレート）とβ-ラクトグロブリン、および海藻由来のアルギン酸を組み合わせたハイドロゲルスキャフォールドである。ホエイタンパク質は、タンパク質と脂質の両方を含有し、細胞増殖を促進する独自の栄養源として機能する。同スキャフォールドは、メタクリル化したホエイタンパク質とアルギン酸を用いて形成され、3次元の相互接続された多孔質ネットワーク構造を有する。スキャフォールドの剛性は、ホエイタンパク質アイソレートとβ-ラクトグロブリンの添加により調整可能であり、骨格筋の剛性（約10～100 kPa）を再現する。",
+    "概要3": "同スキャフォールドは、非細胞毒性であり、in vitro環境下で筋芽細胞の接着と増殖を支援することが実証されている。ホエイタンパク質アイソレートおよびβ-ラクトグロブリン添加グループは、標準的な生体材料対照グループと比較して、細胞増殖が促進される。β-ラクトグロブリンは、初めて培養肉スキャフォールド上での細胞接着と増殖を促進するために使用され、アルギン酸ハイドロゲルの生物活性を向上させる。同スキャフォールドの成分は食品グレードであり、一般的に安全と認められる（GRAS）成分であるため、食用かつ栄養価の高いスキャフォールドへの移行を可能とする。",
+    "概要4": "同技術は、培養肉（細胞農業）産業における食用スキャフォールド材料として、バイオリアクターでの大量培養を想定している。同社は、培養肉製造企業に対してスキャフォールドプロトコルをライセンス供与するか、スキャフォールドを大量製造して販売するビジネスモデルを検討している。また、同社は「Whey Forward」プロジェクトを通じて、Cabot Creameryの乳清廃棄物を回収し、栄養補助食品に変換する廃棄物価値化技術も開発している。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の培養肉スキャフォールドは、非食用の生体材料や動物由来成分を使用しており、食品安全性と持続可能性の観点から課題があった。\n・ホエイは乳製品加工の副産物であり、Cabot Creameryのような大規模乳製品メーカーは、年間約200万ドルを廃棄物の輸送と散布に費やしており、適切に処理されない場合は環境汚染物質となる。",
+    "注目ポイント2": "・同スキャフォールドは、ホエイタンパク質アイソレートとアルギン酸を使用した食品グレードの成分で構成されており、食用かつ栄養価の高いスキャフォールドを実現している。\n・ホエイタンパク質は、タンパク質と脂質を含有し、細胞増殖を促進する独自の栄養源として機能し、ハイドロゲルの機械的特性および構造特性をカスタマイズ可能である。\n・β-ラクトグロブリンを初めて培養肉スキャフォールドに応用し、細胞接着と増殖を促進する生物活性を向上させた。\n・同スキャフォールドの剛性は骨格筋（約10～100 kPa）を再現しており、筋芽細胞の接着と増殖に適した環境を提供する。",
+    "注目ポイント3": "・同技術は、University of VermontのEngineered Biomaterials Research Laboratoryの研究成果を基に開発されている。\n・Irfan Tahirは、New Harvestから3年間で162,000ドルのフェローシップを獲得し、培養肉研究を推進している。\n・2024年にACS Applied Bio Materialsに論文を発表し、2025年にはFoodsに続報を発表している。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "論文",
+    "主要情報ソースURL": "https://pubs.acs.org/doi/10.1021/acsabm.3c00944",
+    "発表年または出願年": "2024",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Burlington Bio Inc.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "米国",
+    "組織設立年": "2022",
+    "組織URL": "https://burlington.bio"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://pubs.acs.org/doi/10.1021/acsabm.3c00944",
+    "情報ソースURL_2": "https://www.mdpi.com/2304-8158/14/14/2534",
+    "情報ソースURL_3": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12294790/",
+    "情報ソースURL_4": "https://www.uvm.edu/ovpr/news/cultivating-meat-sustainable-future",
+    "情報ソースURL_5": "https://www.uvm.edu/cems/me/news/lab-table",
+    "情報ソースURL_6": "https://www.sevendaysvt.com/food-drink/lab-grown-meat-could-help-feed-a-climate-changed-world-newly-launched-burlington-bio-hopes-to-take-a-bite-39326569",
+    "情報ソースURL_7": "https://www.wcax.com/2024/03/13/burlington-startup-looks-transform-whey-byproduct-into-valuable-food-product/",
+    "情報ソースURL_8": "https://www.wcax.com/2023/10/18/burlington-startup-hopes-make-strides-lab-grown-meat/",
+    "情報ソースURL_9": "https://theorg.com/org/burlington-bio",
+    "情報ソースURL_10": "https://www.vevolution.com/organisations/burlington-bio-inc",
+    "情報ソースURL_11": "https://www.sevendaysvt.com/news/video-dr-rachael-floreani-and-irfan-tahir-discuss-the-future-of-lab-grown-meat-vermont-tech-jam-2023-39680622/",
+    "情報ソースURL_12": "https://www.researchgate.net/profile/Rachael-Floreani",
+    "情報ソースURL_13": "https://pubmed.ncbi.nlm.nih.gov/38502811/",
+    "情報ソースURL_14": "https://www.sevendaysvt.com/news/couple-killed-in-california-plane-crash-had-ties-to-burlingtons-tech-scene-40004655/",
+    "情報ソースURL_15": "https://worth.com/women/rachael-floreani/",
+    "情報ソースURL_16": "",
+    "情報ソースURL_17": "",
+    "情報ソースURL_18": "",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  }
+}
