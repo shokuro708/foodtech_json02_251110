@@ -1,0 +1,57 @@
+{
+  "基本情報": {
+    "ID": "089",
+    "タイトル": "自然言語処理とボイスAIを用いたレストラン向け24時間対応ゲスト対応自動化プラットフォーム「Hostie」",
+    "概要1": "米国カリフォルニア州サンフランシスコに拠点を置くベンチャー企業Hostie AI, Inc.は、自然言語処理（Natural Language Processing:NLP）と機械学習を活用し、レストランへの電話・テキストメッセージ・メールを自動的に処理して予約受付や注文対応を行うAI顧客体験プラットフォーム「Hostie」を開発・販売している。",
+    "概要2": "同プラットフォームは、レストラン向けに特化して学習させたNLPモデルと音声認識（Automatic Speech Recognition:ASR）技術を用いて、顧客からの電話やテキストメッセージを自動的に受信・解析する。同プラットフォームは、20以上の言語に対応した多言語自動検出機能を有し、予約変更・メニューに関する質問・特別な食事要件・注文変更などの複雑なリクエストを処理する。同プラットフォームは、OpenTableやToast POSなどの予約システムおよびPOSシステムと統合されており、受付内容を自動的にシステムに反映させることで、スタッフによる手動入力を不要とする。",
+    "概要3": "同プラットフォームは、ピーク時間帯において97%の応答率を達成し、従来の人的対応と比較して不応答率を87%削減、保留時間を91%短縮する。同プラットフォームは、レストラン顧客のゲスト対応の80%以上を自動的に処理し、残り15%をスタッフに転送する機能を有する。同プラットフォームは、多言語対応の精度において、一般的なAIシステムの51%と比較して99.7%の精度を達成している。同プラットフォームを導入したレストランは、月間3,000ドルから18,000ドルの追加収益を得ており、90日以内に投資回収が可能である。",
+    "概要4": "同プラットフォームは、レストラン向けの予約管理、テイクアウト注文受付、顧客問い合わせ対応の自動化を目的としている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・レストランは、ピーク時間帯において電話の20%から40%を逃しており、これにより年間最大292,000ドルの収益損失が発生していた。\n・従来の一般的なAIシステムは、レストラン特有の複雑な会話や多言語対応において精度が低く、実用性に課題があった。",
+    "注目ポイント2": "・同プラットフォームは、レストラン会話に特化してファインチューニングされたNLPモデルを使用し、一般的なAIシステムと比較して多言語精度が99.7%と高精度である。\n・同プラットフォームは、OpenTableやToast POSとの統合により、電話受付から予約確定までの処理時間が平均22秒である。\n・同プラットフォームは、複雑なイベント予約や食事制限を含む注文変更などの高度なリクエストを自律的に処理する機能を有する。",
+    "注目ポイント3": "・同社は、2025年5月にGradient Ventures（Googleのスタートアップ向けAIファンド）が主導するシードラウンドで400万ドルを調達した。\n・同プラットフォームは、The Slanted DoorおよびFlour + Waterを含む200以上のレストランで導入されており、The Slanted Doorグループは電話予約数が56%増加した。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv7:販売・実用化",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://hostie.ai/",
+    "発表年または出願年": "2024",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Hostie AI, Inc.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "米国",
+    "組織設立年": "2024",
+    "組織URL": "https://hostie.ai/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://hostie.ai/",
+    "情報ソースURL_2": "https://hostie.ai/about-us",
+    "情報ソースURL_3": "https://hostie.ai/features",
+    "情報ソースURL_4": "https://www.hostie.ai/blogs/4m-seed-round-gradient",
+    "情報ソースURL_5": "https://hostie.blog/2025/03/07/introducing-hostie/",
+    "情報ソースURL_6": "https://www.finsmes.com/2025/05/hostie-raises-4m-in-seed-funding.html",
+    "情報ソースURL_7": "https://pitchbook.com/profiles/company/638607-61",
+    "情報ソースURL_8": "https://hostie.ai/resources/2025-benchmark-report-hostie-ai-vs-top-5-voice-ai-restaurant-platforms-zero-miss-phone-reservations",
+    "情報ソースURL_9": "https://hostie.ai/resources/stopping-43-percent-revenue-leak-hostie-ai-recovers-292k-missed-restaurant-calls",
+    "情報ソースURL_10": "https://www.hostie.ai/resources/2025-hostie-ai-opentable-toast-pos-integration-guide",
+    "情報ソースURL_11": "https://hostie.ai/resources/hostie-ai-multilingual-restaurant-phone-system-spanish-20-languages",
+    "情報ソースURL_12": "https://sfstandard.com/2025/05/01/ai-bot-answering-phones-in-sf-hostie-2/",
+    "情報ソースURL_13": "https://www.leadsontrees.com/news/hostie-secures-4m-seed-round-to-revolutionize-ai-driven-restaurant-customer-experience",
+    "情報ソースURL_14": "https://tracxn.com/d/companies/hostie/__hcRK8gMOrYLJNkgNswJLCn3MShBNj4oHr322OAni5A8",
+    "情報ソースURL_15": "https://www.verdictfoodservice.com/news/hostie-opentable-automate-restaurant/",
+    "情報ソースURL_16": "https://hostie.ai/pricing",
+    "情報ソースURL_17": "https://www.bloomberg.com/profile/company/2567920D:US",
+    "情報ソースURL_18": "https://www.crunchbase.com/organization/maitre-d-ai",
+    "情報ソースURL_19": "https://hostie.ai/resources/lunch-rush-case-study-cutting-missed-calls-23-to-3-percent-hostie-ai-500k-dataset",
+    "情報ソースURL_20": "https://hostie.ai/resources/san-francisco-bistro-cuts-missed-calls-40-to-3-percent-hostie-ai-case-study"
+  },
+  "分類": {
+    "技術分野": "人工知能;自然言語処理;音声認識",
+    "製品カテゴリ": "レストラン管理システム;顧客体験プラットフォーム",
+    "適用市場": "飲食業;ホスピタリティ産業"
+  }
+}

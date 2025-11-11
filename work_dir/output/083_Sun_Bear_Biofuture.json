@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "083",
+    "タイトル": "酵母を用いた精密発酵と合成生物学によるパーム油代替油脂の生産技術",
+    "概要1": "英国のバイオテクノロジー企業Sun Bear Biofuture Ltd.は、酵母株を用いた精密発酵と合成生物学および機械学習により、パーム油の代替となる油脂を生産する技術を開発している。同社は2022年6月に設立され、Oxford Brookes UniversityのEnterprise Centreを拠点として、持続可能な油脂生産の研究開発を行っている。",
+    "概要2": "同技術は、油脂を天然に生産する酵母株を用いて、精密発酵により油脂を生産する。同社は、合成生物学、精密発酵および機械学習を用いて酵母株を最適化し、商業的に実行可能な量の油脂を生産できる特殊な株を開発している。同技術は、ジャガイモの皮やパン廃棄物などの農業副産物を原料として使用し、酵母が糖を油脂に変換する生物学的プロセスにより油脂を生産する。同技術により生産される油脂は、パーム油と類似した組成および機能特性を有している。",
+    "概要3": "同技術は、従来のアブラヤシ生産と比較して、土地使用量を90%削減し、炭素排出量を90%削減することが可能である。同技術により生産される油脂は、パーム油と同等の機能特性を有するため、食品や化粧品において直接的な代替品として使用することが可能である。同社は、Aberystwyth UniversityのAberInnovationと共同で、パイロットスケールでの油脂生産を実証しており、食品および化粧品用途への適用に向けてスケールアップを進めている。",
+    "概要4": "同技術により生産される油脂は、クッキーやビスケットなどの食品、リップバームや保湿クリームなどの化粧品、さらにバイオ燃料への応用を対象としている。特に、植物性代替肉企業を主要な顧客として想定している。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・パーム油は年間5億トン以上の炭素を排出し、肉類および乳製品に次いで人類が生産する食品の中で3番目に環境負荷が高く、森林伐採の主要な原因となっていることが課題であった。\n・従来の植物性代替肉製品は、持続可能性を訴求する一方でパーム油を含有することにより、消費者からの信頼を損なうことが課題となっていた。",
+    "注目ポイント2": "・同技術は、油脂を天然に生産する酵母株の代謝経路を合成生物学により最適化し、商業生産に適した油脂生産量を実現している。\n・同技術は、糖ではなくジャガイモの皮やパン廃棄物などの農業副産物を原料として使用することで、原料コストを削減し、持続可能性を向上させている。\n・同技術は、森林伐採を伴わない生産方法により、パーム油と同等の機能特性を有する油脂を提供している。",
+    "注目ポイント3": "・同社は、2023年7月にInnovate UKのSmart Grantとして50万ポンドの助成金を獲得し、パーム油代替品の研究開発を進めている。\n・同社は、Aberystwyth UniversityのAberInnovation施設と共同研究を実施しており、Solutions Catalystプログラムの支援を受けて大規模発酵槽を用いた生産プロセスの検証を行っている。2026年初頭の工業生産開始を目標としている。"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv5:製品検証",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.brookes.ac.uk/about-brookes/news/2023/07/prawards-for-oxford-brookes-university-based-start",
+    "発表年または出願年": "2022",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "Sun Bear Biofuture Ltd.",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "英国",
+    "組織設立年": "2022",
+    "組織URL": "https://www.sunbearbiofuture.com"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.brookes.ac.uk/about-brookes/news/2023/07/prawards-for-oxford-brookes-university-based-start",
+    "情報ソースURL_2": "https://www.aber.ac.uk/en/ibers/news/news-article/title-278251-en.html",
+    "情報ソースURL_3": "https://www.sgvoice.net/profiles/42106/startup-profile-sun-bear-biofuture/",
+    "情報ソースURL_4": "https://www.foodnavigator.com/Article/2024/05/24/Sun-Bear-Biofuture-makes-palm-oil-alternative/",
+    "情報ソースURL_5": "https://plantbasedworldpulse.com/brand-stories-palm-oil-replacement-made-from-potato-peelings/",
+    "情報ソースURL_6": "https://find-and-update.company-information.service.gov.uk/company/14167267",
+    "情報ソースURL_7": "https://aberinnovation.com/news/scientists-create-new-palm-oil-alternative",
+    "情報ソースURL_8": "https://www.enterpriseoxfordshire.com/case-studies/sun-bear-biofuture/",
+    "情報ソースURL_9": "https://carbonthirteen.com/our-portfolio/food-systems/",
+    "情報ソースURL_10": "https://uk.linkedin.com/company/sun-bear-biofuture",
+    "情報ソースURL_11": "https://thebusinessmagazine.co.uk/technology-innovation/two-oxford-brookes-university-based-startups-awarded-government-funding-to-advance-innovative-food-products/",
+    "情報ソースURL_12": "https://www.foodanddrinktechnology.com/news/56536/scientists-develop-a-potential-substitute-for-palm-oil/",
+    "情報ソースURL_13": "https://www.wales247.co.uk/scientists-create-new-alternative-to-palm-oil",
+    "情報ソースURL_14": "https://pitchbook.com/profiles/company/507306-97",
+    "情報ソースURL_15": "https://www.cambrian-news.co.uk/news/university/aberystwyth-scientists-help-create-new-alternative-to-palm-oil-751539",
+    "情報ソースURL_16": "https://www.oreaco.com/articles/fermentations-groundbreaking-gambit-sun-bear-biofutures-audacious-palm-oil-alternative",
+    "情報ソースURL_17": "https://arcuniversities.co.uk/news/innovation-awards-for-oxford-brookes-university-based-startups/",
+    "情報ソースURL_18": "https://nation.cymru/news/scientists-create-new-alternative-to-palm-oil/",
+    "情報ソースURL_19": "",
+    "情報ソースURL_20": ""
+  }
+}

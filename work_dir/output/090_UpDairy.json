@@ -1,0 +1,52 @@
+{
+  "基本情報": {
+    "ID": "090",
+    "タイトル": "糸状菌を宿主とした精密発酵技術によりホエイプロテインおよびカゼインを動物を介さず生産する代替乳タンパク質製造プラットフォーム",
+    "概要1": "ブラジルのフードテック企業UpDairyは、2022年にHarsh Sethia、Thabata Maria Alvarez、Mirelle Dogenskiにより設立された。同社は、糸状菌を用いた精密発酵技術により、動物を介さずに乳タンパク質（ホエイプロテインおよびカゼイン）を生産し、食品業界向けに動物不使用代替原料を提供するビジネスモデルを展開している。同社はフロリアノポリス（ブラジル）とシンガポールに拠点を置いている。",
+    "概要2": "同技術は、牛の乳タンパク質産生遺伝子を糸状菌に組み込み、糸状菌を宿主として乳タンパク質を産生させる精密発酵プロセスである。糸状菌はバイオリアクター内で低コスト基質を栄養源として増殖し、組み込まれた遺伝情報に基づきホエイプロテイン（ベータラクトグロブリン）およびカゼインを産生する。同社は糸状菌プラットフォームを構築することで、生産量を最大化しながら低コスト基質を使用し、下流工程を簡素化することを目指している。糸状菌は酵母や細菌と比較してタンパク質分泌能力が高く、真核生物タンパク質の適切な折り畳みと修飾が可能であるため、乳タンパク質生産に適している。",
+    "概要3": "同技術により生産される乳タンパク質は、従来の動物由来乳製品と比較して温室効果ガス排出量を大幅に削減する。同社が提供する原料ポートフォリオは、乳製品、ベーカリー、菓子、飲料、サプリメントなど多様な食品分野において動物不使用代替製品の製造を可能とする。同社は2023年11月にサンパウロで開催されたBHB Festival 2023のスタートアップバトルにおいて第1位を獲得した。2025年にはProVeg Incubatorの第13期コホートに選出され、最大30万米ドルの資金調達機会と100名以上のメンターネットワークへのアクセスを得ている。",
+    "概要4": "同技術により生産されるホエイプロテインおよびカゼインは、食品企業による乳製品、ベーカリー製品、菓子製品、飲料、栄養サプリメントなどの動物不使用代替製品製造用途を対象としている。同社は開発段階にあり、商業化に向けた技術開発を進めている。"
+  },
+  "注目ポイント": {
+    "注目ポイント1": "・従来の動物由来乳タンパク質生産は温室効果ガス排出量が大きく、より持続可能な生産方法が求められている\n・ブラジルにおける精密発酵による乳タンパク質生産は新興分野であり、技術開発と商業化への取り組みが求められている",
+    "注目ポイント2": "・糸状菌を宿主として牛の遺伝情報を組み込み、乳タンパク質を動物を介さずに生産する精密発酵技術である\n・ホエイプロテイン（ベータラクトグロブリン）とカゼインという牛乳の主要タンパク質を対象としている\n・糸状菌プラットフォームにより高いタンパク質分泌能力を活用し、低コスト基質の使用と下流工程の簡素化を実現している\n・ブラジルの豊富な天然資源と再生可能エネルギーを活用した持続可能な生産体制を構築している",
+    "注目ポイント3": "・ProVeg Incubator、MassChallenge、InovAtiva、Grid Exponentialから合計20万～25万米ドルの資金調達を完了した\n・2025年にProVeg Incubatorの第13期コホートに選出され、最大30万米ドルの資金支援と100名以上のメンターによる支援を受けている\n・2023年11月にサンパウロで開催されたBHB Festival 2023のスタートアップバトルにおいて第1位を獲得した\n・The Good Food InstituteのAlternative Protein Ecosystem DirectoryおよびProtein Directoryに登録されている"
+  },
+  "技術・情報詳細": {
+    "技術開発の進展度": "Lv4:試作段階",
+    "主要情報ソースタイプ": "公式情報",
+    "主要情報ソースURL": "https://www.linkedin.com/company/updairy",
+    "発表年または出願年": "2022年",
+    "代表的な図のURL": "Figなし",
+    "図の掲載ページURL": "Figなし"
+  },
+  "組織情報": {
+    "組織名": "UpDairy",
+    "組織タイプ": "ベンチャー企業",
+    "国名": "ブラジル",
+    "組織設立年": "2022年",
+    "組織URL": "https://updairy.co/"
+  },
+  "情報ソース": {
+    "情報ソースURL_1": "https://www.linkedin.com/company/updairy",
+    "情報ソースURL_2": "https://www.crunchbase.com/organization/updairy",
+    "情報ソースURL_3": "https://proteindirectory.com/company/updairy/",
+    "情報ソースURL_4": "https://ecosystem.gfi.org/company/updairy/",
+    "情報ソースURL_5": "https://proveg.org/press-release/ai-powered-protein-production-and-precision-fermented-dairy-from-fungi-feature-in-latest-proveg-startup-programme/",
+    "情報ソースURL_6": "https://provegincubator.com/proveg-incubator-cohort-13/",
+    "情報ソースURL_7": "https://vegconomist.com/startups-accelerators-incubators/proveg-incubator-welcomes-ten-startups-13th-cohort/",
+    "情報ソースURL_8": "https://pitchbook.com/profiles/company/591520-42",
+    "情報ソースURL_9": "https://investny.org/companies/updairy",
+    "情報ソースURL_10": "https://www.gridexponential.com/startups/updairy",
+    "情報ソースURL_11": "https://www.greyb.com/blog/precision-fermentation-startups/",
+    "情報ソースURL_12": "https://cultivated-x.com/fermentation/7-companies-fermenting-whey-proteins-cow-free-dairy-industry/",
+    "情報ソースURL_13": "https://www.linkedin.com/in/thabata-maria-alvarez-85567363/",
+    "情報ソースURL_14": "https://www.researchgate.net/publication/391819464_Precision_Fermentation_the_technology_that_is_revolutionizing_the_alternative_protein_industry",
+    "情報ソースURL_15": "https://www.mdpi.com/2076-2607/10/4/753",
+    "情報ソースURL_16": "https://link.springer.com/article/10.1007/s11367-022-02087-0",
+    "情報ソースURL_17": "https://gfi.org.br/en/fermentation/",
+    "情報ソースURL_18": "https://updairy.co/",
+    "情報ソースURL_19": "https://www.vevolution.com/organisations/updairy",
+    "情報ソースURL_20": "https://provegincubator.com/introducing-proveg-incubator-cohort-13/"
+  }
+}
